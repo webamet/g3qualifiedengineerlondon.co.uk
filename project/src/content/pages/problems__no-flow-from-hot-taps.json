@@ -1,0 +1,90 @@
+{
+  "path": "/problems/no-flow-from-hot-taps",
+  "type": "article",
+  "h1": "No water flows from hot taps",
+  "title": "No water flows from hot taps | G3 Cylinder Help",
+  "description": "Understand no water flows from hot taps. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "No hot-side flow is a supply or water-path symptom, not the same fault as normal flow that happens to be cold.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The Megaflo manual includes incoming supply, a blocked strainer and inlet-control installation among possible causes. Those component checks are for competent work and are not a homeowner dismantling procedure."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Tell us whether every hot tap is affected and whether the problem started after water was shut off or plumbing work took place. Do not run immersion heaters when the cylinder may not be full."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is no flow from hot taps the same as a failed immersion heater?",
+      "answer": "No. A heater fault affects temperature; no flow needs investigation of the supply and water path before electrical heating is blamed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__no-flow-from-hot-taps",
+  "targetIntent": "No water flows from hot taps",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "No water flows from hot taps",
+      "path": "/problems/no-flow-from-hot-taps"
+    }
+  ]
+}

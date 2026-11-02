@@ -1,0 +1,85 @@
+{
+  "path": "/services/unvented-cylinder-repairs",
+  "type": "service",
+  "h1": "Unvented cylinder repairs in London",
+  "title": "Unvented Cylinder Repairs London | Diagnose Hot-Water Faults",
+  "description": "Discuss unvented cylinder repairs in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Identify the failed component or system condition before deciding whether the cylinder itself needs replacing.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Loss of hot water can arise from the heating source, immersion heater, controls, inlet supply or outlet plumbing. Discharge has a different diagnostic route. We start with the symptom history and identify the cylinder type before proposing work. A photograph may help with identification, but component faults normally require competent inspection."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Repair decisions consider cylinder condition, parts availability, access and whether the installed safety arrangement remains suitable. A valve or heater repair should not hide a failing vessel or an unsafe discharge route. Where replacement is appropriate, the reasons should be explained."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Tell us whether a fault is intermittent, began after plumbing work or returns after a previous repair. Those details are often more useful than a guessed parts diagnosis. Agreed work is followed by appropriate operational checks and practical aftercare."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will a leaking component always require a new cylinder?",
+      "answer": "Not necessarily. The source, vessel condition, safety arrangement and parts availability determine whether component repair is a suitable option."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__unvented-cylinder-repairs",
+  "targetIntent": "Unvented cylinder repairs in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Unvented cylinder repairs in London",
+      "path": "/services/unvented-cylinder-repairs"
+    }
+  ]
+}

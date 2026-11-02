@@ -1,0 +1,954 @@
+G3 WEBSITE CONTENT - 12 INDEPENDENT PAGE RECORDS
+
+Each block becomes one exact project JSON file. Render its visible answer, sections, bullets, tables, selective FAQs, sources and related links. Title and description are the page metadata. All paragraphs are final draft copy, not a request for lorem ipsum. Preserve nullable manual date/review fields; do not auto-invent them. The draft profile and legal content follow their flags.
+
+
+BEGIN FILE: src/content/pages/knowledge__what-g3-qualified-means.json
+{
+  "path": "/knowledge/what-g3-qualified-means",
+  "type": "article",
+  "h1": "What does G3-qualified mean?",
+  "title": "What does G3-qualified mean? | G3 Hot-Water Knowledge",
+  "description": "Understand what does g3-qualified mean with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "G3 concerns hot-water system safety. Relevant unvented training demonstrates assessed competence, while the actual work and notification requirements still need checking.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "Approved Document G supports the hot-water requirements of the Building Regulations in England. Unvented storage involves pressure and temperature safeguards, suitable controls and safe discharge. The qualification commonly called G3 is relevant training for that specialist work; it is not a manufacturer partnership."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "An installer should be competent for the appliance and scope. A course certificate is not the same as current scheme registration for self-certification, nor does it cover every electrical, gas or renewable task. Ask how the particular work will be commissioned and notified where required."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is G3 a manufacturer accreditation?",
+      "answer": "No. It relates to hot-water system competence and Building Regulations context; it does not establish approval by Megaflo, Heatrae Sadia or another manufacturer."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__what-g3-qualified-means",
+  "targetIntent": "What does G3-qualified mean?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "What does G3-qualified mean?",
+      "path": "/knowledge/what-g3-qualified-means"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__g3-versus-gas-safe.json
+{
+  "path": "/knowledge/g3-versus-gas-safe",
+  "type": "article",
+  "h1": "G3 qualification versus Gas Safe registration",
+  "title": "G3 qualification versus Gas Safe registration | G3 Hot-Water Knowledge",
+  "description": "Understand g3 qualification versus gas safe registration with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "G3 unvented-cylinder competence and Gas Safe registration relate to different work. Neither should be used as a blanket substitute for the other.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "An electrically heated unvented cylinder does not become a gas appliance because it supplies hot taps. Conversely, an indirect cylinder can be connected to a gas boiler, and work on that gas appliance requires appropriate gas registration and competence."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Check the individual and the work categories, not just a logo on a website. Additional electrical competence may be necessary for immersion, supply or control work. This website does not publish an unverified Gas Safe number or imply that every G3 engineer is gas registered."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does G3 qualification automatically prove Gas Safe registration?",
+      "answer": "No. They address different work; check current gas registration and relevant categories whenever gas work forms part of the job."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__g3-versus-gas-safe",
+  "targetIntent": "G3 qualification versus Gas Safe registration",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "G3 qualification versus Gas Safe registration",
+      "path": "/knowledge/g3-versus-gas-safe"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__choosing-a-g3-engineer.json
+{
+  "path": "/knowledge/choosing-a-g3-engineer",
+  "type": "article",
+  "h1": "How to choose an unvented-cylinder engineer",
+  "title": "How to choose an unvented-cylinder engineer | G3 Hot-Water Knowledge",
+  "description": "Understand how to choose an unvented-cylinder engineer with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Choose someone competent for the actual cylinder and work, with evidence of relevant training, clear scope and a explained notification route where applicable.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "Ask who will attend, which product family they will work on and what evidence supports the required competence. A supplier logo, broad experience statement or copied badge is not a substitute for the individual record. Electrical or connected gas work may require additional qualifications."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "The quotation should state the task, limitations and proposed handover. For installation, clarify commissioning and any Building Regulations notification. For repairs, ask what will be tested and which record will describe the completed work."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What evidence should I ask for before unvented-cylinder installation?",
+      "answer": "Ask for relevant competence, the attending installer, product experience, commissioning scope and the proposed Building Regulations notification route for the job."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-cps"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__choosing-a-g3-engineer",
+  "targetIntent": "How to choose an unvented-cylinder engineer",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "How to choose an unvented-cylinder engineer",
+      "path": "/knowledge/choosing-a-g3-engineer"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__annual-cylinder-servicing.json
+{
+  "path": "/knowledge/annual-cylinder-servicing",
+  "type": "article",
+  "h1": "How often should an unvented cylinder be serviced?",
+  "title": "Annual Cylinder Servicing | G3 Maintenance Guide",
+  "description": "Understand how often should an unvented cylinder be serviced with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Heatrae Sadia recommends annual appliance servicing. Follow the installed cylinder instructions and warranty terms rather than assume every brand has identical rules.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "A planned visit should assess the model-specific safety and operating arrangement. It is not just a boiler service or a quick check that water is hot. Manufacturer service records and any previous defect recommendations are useful evidence."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Annual manufacturer maintenance recommendations should not be misrepresented as a universal statutory annual G3 landlord certificate. Installation compliance, gas safety duties and water-system risk management are different matters."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does annual manufacturer servicing mean there is one universal statutory G3 certificate?",
+      "answer": "No. Service recommendations and records differ from installation notification, gas safety duties and water-system risk management; ask which document is being provided."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-faq"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__annual-cylinder-servicing",
+  "targetIntent": "How often should an unvented cylinder be serviced?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "How often should an unvented cylinder be serviced?",
+      "path": "/knowledge/annual-cylinder-servicing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__cylinder-installation-paperwork.json
+{
+  "path": "/knowledge/cylinder-installation-paperwork",
+  "type": "article",
+  "h1": "Cylinder commissioning and installation paperwork",
+  "title": "Cylinder Commissioning & Paperwork | G3 Guide",
+  "description": "Understand cylinder commissioning and installation paperwork with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "A commissioning checklist, a service record and Building Regulations notification serve different purposes. Establish the documentation appropriate to the specific installation.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "The cylinder manual usually includes or refers to a commissioning record that captures the installed equipment and checks. The customer should receive the operating instructions and understand normal controls and safety escalation."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Competent-person scheme members can self-certify covered work within their authorised scope. Otherwise the appropriate building-control route must be established. Holding unvented training alone should not be described as automatic scheme membership."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a completed service checklist replace installation notification?",
+      "answer": "No. Maintenance records and Building Regulations notification have different purposes; the installer should explain the correct route for the installation work."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-cps"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__cylinder-installation-paperwork",
+  "targetIntent": "Cylinder commissioning and installation paperwork",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Cylinder commissioning and installation paperwork",
+      "path": "/knowledge/cylinder-installation-paperwork"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__direct-versus-indirect-cylinder.json
+{
+  "path": "/knowledge/direct-versus-indirect-cylinder",
+  "type": "article",
+  "h1": "Direct versus indirect hot-water cylinders",
+  "title": "Direct versus indirect hot-water cylinders | G3 Hot-Water Knowledge",
+  "description": "Understand direct versus indirect hot-water cylinders with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "A direct cylinder heats stored water electrically; an indirect cylinder mainly uses a heat-exchanger coil supplied by another heat source. Configuration matters.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "The difference changes fault diagnosis and replacement planning. An indirect appliance may depend on a connected boiler, valve and hot-water demand. A direct appliance may depend on timed electrical supplies and immersion controls. Backup elements do not make every system identical."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Before changing the cylinder type, assess the heat source, supply, electrical arrangement, household demand and installation. Solar or heat-pump designs may have further model-specific requirements and should not be chosen by the words direct or indirect alone."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can the same no-hot-water enquiry follow different diagnostic paths on direct and indirect cylinders?",
+      "answer": "Yes. Electrical heating paths matter on a direct cylinder, while the connected heat source and coil controls matter on an indirect system."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__direct-versus-indirect-cylinder",
+  "targetIntent": "Direct versus indirect hot-water cylinders",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Direct versus indirect hot-water cylinders",
+      "path": "/knowledge/direct-versus-indirect-cylinder"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__air-gap-versus-expansion-vessel.json
+{
+  "path": "/knowledge/air-gap-versus-expansion-vessel",
+  "type": "article",
+  "h1": "Internal air volume versus an expansion vessel",
+  "title": "Air Gap vs Expansion Vessel | Cylinder Guide",
+  "description": "Understand internal air volume versus an expansion vessel with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Both arrangements accommodate expansion where designed, but they are not interchangeable maintenance procedures and must be matched to the installed model.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "Some domestic Megaflo products use internal expansion provision. Other cylinders and certain named Megaflo ranges use an external vessel. A hidden vessel can also be part of another manufacturer design, so appearance is an unreliable guide."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Do not copy an air-gap routine into a vessel recharge or use a universal pressure setting. If a symptom returns, the complete pressure and safety arrangement needs assessment rather than repeated speculative adjustments."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does every Megaflo product use internal expansion instead of an external vessel?",
+      "answer": "No. Expansion arrangements vary by model and range; identify the installed appliance and its matching instructions before planning maintenance."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__air-gap-versus-expansion-vessel",
+  "targetIntent": "Internal air volume versus an expansion vessel",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Internal air volume versus an expansion vessel",
+      "path": "/knowledge/air-gap-versus-expansion-vessel"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__cylinder-temperature-and-safety.json
+{
+  "path": "/knowledge/cylinder-temperature-and-safety",
+  "type": "article",
+  "h1": "Cylinder storage temperature and safe hot-water delivery",
+  "title": "Cylinder Temperature & Hot-Water Safety | G3 Guide",
+  "description": "Understand cylinder storage temperature and safe hot-water delivery with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Storage temperature, outlet blending, scalding risk and water hygiene must be considered together. Avoid arbitrary temperature changes to resolve bills or discomfort.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "HSE landlord guidance gives storage at 60°C as an example control measure within proportionate legionella risk management. Manufacturer instructions describe the appliance control range and safety arrangements. Neither should be turned into a universal instruction for a householder to open controls."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Safe delivery can involve appropriate mixing at points of use, particularly where scalding risk matters. A competent assessment should distinguish stored-water temperature from outlet temperature and take the building use and installed strategy into account."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the cylinder storage temperature necessarily the temperature delivered at every tap?",
+      "answer": "No. Blending, distribution and outlet controls can change delivery; storage hygiene and scalding precautions need to be considered together."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__cylinder-temperature-and-safety",
+  "targetIntent": "Cylinder storage temperature and safe hot-water delivery",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Cylinder storage temperature and safe hot-water delivery",
+      "path": "/knowledge/cylinder-temperature-and-safety"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__cylinder-sizing-and-flow.json
+{
+  "path": "/knowledge/cylinder-sizing-and-flow",
+  "type": "article",
+  "h1": "Cylinder sizing, recovery and incoming water flow",
+  "title": "Cylinder Sizing, Recovery & Water Flow | G3 Guide",
+  "description": "Understand cylinder sizing, recovery and incoming water flow with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Choose capacity and recovery around actual demand and the heat source, while measuring usable supply rather than relying on standing pressure alone.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "The number of bathrooms is only one part of the assessment. Simultaneous use, shower flow, bath size, available reheating and normal schedules affect the volume of usable hot water. An oversized cylinder does not cure an inlet restriction or an inadequate supply."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Replacement surveys also need space, full weight, access and a compliant discharge route. A universal litres-per-person table or a promised powerful shower cannot replace measured conditions and the selected model specification."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will a larger cylinder always cure weak shower flow?",
+      "answer": "No. Stored capacity and flow are different; the supply, restrictions and outlets must be assessed before a larger cylinder is proposed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-faq"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__cylinder-sizing-and-flow",
+  "targetIntent": "Cylinder sizing, recovery and incoming water flow",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Cylinder sizing, recovery and incoming water flow",
+      "path": "/knowledge/cylinder-sizing-and-flow"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__manufacturer-manuals.json
+{
+  "path": "/knowledge/manufacturer-manuals",
+  "type": "article",
+  "h1": "Find the correct cylinder or electric-boiler manual",
+  "title": "Cylinder & Electric-Boiler Manuals | Official Resources",
+  "description": "Understand find the correct cylinder or electric-boiler manual with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Start with the full model label and product generation. The correct manual is more useful than a generic reset video or a similar-looking parts listing.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "The resource links below lead to manufacturer libraries for Heatrae Sadia, Megaflo, Gledhill, OSO, Joule and related Stelflow ranges, Telford, Vaillant, Worcester and Viessmann. Match the actual label, variant and manufacturing period."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Manufacturer documents can contain engineer-only instructions. A manual being public does not make live electrical testing, safety-valve replacement or unvented commissioning suitable DIY tasks. Use the user section for normal operation and ask a competent engineer when a fault requires internal work."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why can an older manual be the right reference for my cylinder?",
+      "answer": "The installed generation may differ from current products; match the model and manufacturing period rather than assume the newest manual applies."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__manufacturer-manuals",
+  "targetIntent": "Find the correct cylinder or electric-boiler manual",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Find the correct cylinder or electric-boiler manual",
+      "path": "/knowledge/manufacturer-manuals"
+    }
+  ],
+  "externalSourceIds": [
+    "heatrae-library",
+    "gledhill",
+    "oso",
+    "joule",
+    "joule-rm",
+    "telford",
+    "vaillant",
+    "worcester",
+    "viessmann-manuals",
+    "heatrae-video",
+    "mixergy-support",
+    "kingspan-service"
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__landlord-hot-water-records.json
+{
+  "path": "/knowledge/landlord-hot-water-records",
+  "type": "article",
+  "h1": "Hot-water records for landlords and managing agents",
+  "title": "Landlord Hot-Water Records | G3 Cylinder Guide",
+  "description": "Understand hot-water records for landlords and managing agents with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Keep cylinder servicing, gas safety, installation documentation and water-risk responsibilities clearly distinguished so records describe the work actually undertaken.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "A cylinder maintenance record documents the relevant visit. It does not automatically establish the condition of a gas boiler or communal water system, and should not be sold as a universal annual statutory G3 certificate."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "HSE describes a proportionate approach to legionella risks in rented property. System use, vacancy and relevant changes matter. The landlord or managing agent should clarify the required assessment and maintain records appropriate to the building and work."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can one cylinder visit certify every hot-water responsibility in a managed building?",
+      "answer": "No. Maintenance, gas duties, installation records and water-risk assessment have different scopes; agree which work and documentation are actually required."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__landlord-hot-water-records",
+  "targetIntent": "Hot-water records for landlords and managing agents",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Hot-water records for landlords and managing agents",
+      "path": "/knowledge/landlord-hot-water-records"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge__repair-or-replace-cylinder.json
+{
+  "path": "/knowledge/repair-or-replace-cylinder",
+  "type": "article",
+  "h1": "Should I repair or replace my cylinder?",
+  "title": "Should I repair or replace my cylinder? | G3 Hot-Water Knowledge",
+  "description": "Understand should i repair or replace my cylinder with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Compare the identified defect, vessel condition, parts support and installed safety arrangement before choosing repair or replacement.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "A serviceable vessel with a failed component can be a repair candidate. A leaking vessel or unsuitable installation can change the decision. The diagnosis should explain why the proposed solution resolves the cause and whether any connected system work is needed."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Age is relevant to condition and parts availability, but it is not a diagnosis. For replacement, compare the model, capacity, heating compatibility, access, included controls and handover. Avoid claims that every replacement saves a fixed percentage on bills."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is cylinder age alone a reliable reason to replace it?",
+      "answer": "No. Condition, the actual fault, parts support and installation suitability should guide the decision, alongside age and expected practical service life."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-discontinued"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__repair-or-replace-cylinder",
+  "targetIntent": "Should I repair or replace my cylinder?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Should I repair or replace my cylinder?",
+      "path": "/knowledge/repair-or-replace-cylinder"
+    }
+  ]
+}
+END FILE

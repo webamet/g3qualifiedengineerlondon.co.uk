@@ -1,0 +1,3045 @@
+G3 WEBSITE CONTENT - 33 INDEPENDENT PAGE RECORDS
+
+Each block becomes one exact project JSON file. Render its visible answer, sections, bullets, tables, selective FAQs, sources and related links. Title and description are the page metadata. All paragraphs are final draft copy, not a request for lorem ipsum. Preserve nullable manual date/review fields; do not auto-invent them. The draft profile and legal content follow their flags.
+
+
+BEGIN FILE: src/content/pages/problems__no-hot-water.json
+{
+  "path": "/problems/no-hot-water",
+  "type": "article",
+  "h1": "No hot water from an unvented cylinder",
+  "title": "No hot water from an unvented cylinder | G3 Cylinder Help",
+  "description": "Understand no hot water from an unvented cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "First distinguish water that flows cold from no water flow. These point to different heating and supply investigations.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "If water runs normally but stays cold, the heating source, programme, immersion or temperature-control path may need assessment. If no water runs, the incoming supply, inlet controls or outlet path requires a different check."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record whether all hot outlets are affected, whether cold taps work and whether normal heating controls were set to provide hot water. Do not dismantle an inlet valve or open electrical covers."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a no-hot-water symptom mean two different types of fault?",
+      "answer": "Yes. Cold flowing water suggests a heating problem; no flow suggests a supply or outlet problem. Describe which occurs."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__no-hot-water",
+  "targetIntent": "No hot water from an unvented cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "No hot water from an unvented cylinder",
+      "path": "/problems/no-hot-water"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__hot-taps-running-cold.json
+{
+  "path": "/problems/hot-taps-running-cold",
+  "type": "article",
+  "h1": "Hot taps run, but the water is cold",
+  "title": "Hot taps run, but the water is cold | G3 Cylinder Help",
+  "description": "Understand hot taps run, but the water is cold. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Normal flow with cold water points toward the heat input or its controls rather than automatically proving the cylinder vessel has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "For an indirect appliance, the connected boiler and hot-water controls matter. For a direct cylinder, timed supplies, immersion heaters and thermostats may be relevant. The applicable path depends on the installed model."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note whether space heating still works or a normal boost programme changes the symptom. Avoid repeated resets or speculative replacement of the entire cylinder."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does normal flow with cold water prove that the cylinder needs replacing?",
+      "answer": "No. Heat input and control faults can leave a sound cylinder cold; diagnose the heating arrangement before recommending vessel replacement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__hot-taps-running-cold",
+  "targetIntent": "Hot taps run, but the water is cold",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot taps run, but the water is cold",
+      "path": "/problems/hot-taps-running-cold"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__water-warm-not-hot.json
+{
+  "path": "/problems/water-warm-not-hot",
+  "type": "article",
+  "h1": "Cylinder water is warm rather than hot",
+  "title": "Cylinder water is warm rather than hot | G3 Cylinder Help",
+  "description": "Understand cylinder water is warm rather than hot. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Lukewarm delivery can involve stored temperature, limited heating, excessive demand or mixing at an outlet; separate these before diagnosis.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "If all outlets are lukewarm, review the heating history and stored-water controls. If only one shower is affected while taps become hot, the mixer or local plumbing may be more relevant. Do not lower safety settings or increase concealed thermostats yourself."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Describe which outlets are affected and how delivery changes after a full normal heating period. Actual temperature control should be assessed alongside scalding and hygiene considerations."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why can one shower stay lukewarm while other taps run hot?",
+      "answer": "A local mixer or supply issue may affect one outlet; hot water at other taps means the cylinder should not be blamed automatically."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__water-warm-not-hot",
+  "targetIntent": "Cylinder water is warm rather than hot",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Cylinder water is warm rather than hot",
+      "path": "/problems/water-warm-not-hot"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__hot-water-runs-out-quickly.json
+{
+  "path": "/problems/hot-water-runs-out-quickly",
+  "type": "article",
+  "h1": "Stored hot water runs out too quickly",
+  "title": "Stored hot water runs out too quickly | G3 Cylinder Help",
+  "description": "Understand stored hot water runs out too quickly. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Early loss of hot water can reflect usable heated volume, household demand, heating time or a fault in the configured heater path.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A boost heater may heat only part of an applicable cylinder, while the normal timed arrangement serves a different heating demand. A change in showers, occupancy or simultaneous use can also exceed the previous capacity."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the model, normal heating schedule and approximate sequence of use. Do not rely on a universal litres-per-person formula to select a replacement."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does hot water running out always mean the cylinder is too small?",
+      "answer": "No. Heating schedules, available heat input, mixing and faults can reduce usable hot water; assess those before deciding a larger cylinder is needed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__hot-water-runs-out-quickly",
+  "targetIntent": "Stored hot water runs out too quickly",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Stored hot water runs out too quickly",
+      "path": "/problems/hot-water-runs-out-quickly"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__slow-hot-water-recovery.json
+{
+  "path": "/problems/slow-hot-water-recovery",
+  "type": "article",
+  "h1": "A cylinder takes too long to reheat",
+  "title": "A cylinder takes too long to reheat | G3 Cylinder Help",
+  "description": "Understand a cylinder takes too long to reheat. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Recovery depends on the heating method and actual heat input. A new delay should be distinguished from the normal model specification.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "An indirect coil depends on its connected heat source and flow, while an immersion has its own rated input. Programme changes, demand and control issues can alter observed reheating. A quoted laboratory recovery time is not a universal guarantee."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Compare the current behaviour with the same household use and normal schedule. Identify whether the issue began after maintenance or a change in settings."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can two cylinders of the same volume have different recovery times?",
+      "answer": "Yes. Heating method, heat input, coil characteristics and operating conditions affect recovery; volume alone does not establish how quickly water reheats."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__slow-hot-water-recovery",
+  "targetIntent": "A cylinder takes too long to reheat",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A cylinder takes too long to reheat",
+      "path": "/problems/slow-hot-water-recovery"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__low-hot-water-pressure.json
+{
+  "path": "/problems/low-hot-water-pressure",
+  "type": "article",
+  "h1": "Low hot-water flow or pressure",
+  "title": "Low hot-water flow or pressure | G3 Cylinder Help",
+  "description": "Understand low hot-water flow or pressure. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Weak delivery may involve the incoming water supply, inlet controls, restrictions or local outlets. Cylinder expansion is not a universal flow fix.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Standing pressure and usable flow under demand are different measurements. One weak outlet suggests a different investigation from every hot tap becoming weak. An internal air-gap routine should not be sold as a guaranteed pressure upgrade."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note whether cold outlets are also affected and what happens when more than one outlet runs. A competent assessment can separate supply limitations from a repairable restriction."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will replenishing a Megaflo air gap always increase shower flow?",
+      "answer": "No. Expansion provision and outlet flow are different issues; supply, restrictions and shower controls need their own assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__low-hot-water-pressure",
+  "targetIntent": "Low hot-water flow or pressure",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Low hot-water flow or pressure",
+      "path": "/problems/low-hot-water-pressure"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__no-flow-from-hot-taps.json
+{
+  "path": "/problems/no-flow-from-hot-taps",
+  "type": "article",
+  "h1": "No water flows from hot taps",
+  "title": "No water flows from hot taps | G3 Cylinder Help",
+  "description": "Understand no water flows from hot taps. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "No hot-side flow is a supply or water-path symptom, not the same fault as normal flow that happens to be cold.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The Megaflo manual includes incoming supply, a blocked strainer and inlet-control installation among possible causes. Those component checks are for competent work and are not a homeowner dismantling procedure."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Tell us whether every hot tap is affected and whether the problem started after water was shut off or plumbing work took place. Do not run immersion heaters when the cylinder may not be full."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is no flow from hot taps the same as a failed immersion heater?",
+      "answer": "No. A heater fault affects temperature; no flow needs investigation of the supply and water path before electrical heating is blamed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__no-flow-from-hot-taps",
+  "targetIntent": "No water flows from hot taps",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "No water flows from hot taps",
+      "path": "/problems/no-flow-from-hot-taps"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__tundish-dripping-continuously.json
+{
+  "path": "/problems/tundish-dripping-continuously",
+  "type": "article",
+  "h1": "A tundish drips continuously",
+  "title": "A tundish drips continuously | G3 Cylinder Help",
+  "description": "Understand a tundish drips continuously. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Continuous discharge needs assessment of pressure controls, valve condition and the complete safety arrangement; observe it without touching the water.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The Megaflo Eco fault table distinguishes continual from intermittent discharge. A pressure-reducing fault or valve-seating problem can be relevant, but the visible symptom alone does not identify the component to replace."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record whether discharge continues while normal heating is off. If water is very hot or steam is present, use the urgent safety guidance rather than treating it as routine dripping."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is constant discharge different from dripping only during heating?",
+      "answer": "Timing helps distinguish possible pressure, valve and expansion conditions, but a competent assessment is needed before selecting a repair."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__tundish-dripping-continuously",
+  "targetIntent": "A tundish drips continuously",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A tundish drips continuously",
+      "path": "/problems/tundish-dripping-continuously"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__tundish-drips-when-heating.json
+{
+  "path": "/problems/tundish-drips-when-heating",
+  "type": "article",
+  "h1": "A tundish drips only while heating",
+  "title": "A tundish drips only while heating | G3 Cylinder Help",
+  "description": "Understand a tundish drips only while heating. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Discharge during a heating cycle can be associated with expansion provision, but the correct cause depends on the installed model and controls.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Some Megaflo models use an internal air volume; many other cylinders use an external vessel. Loss of intended expansion provision is one possible explanation. A relief or inlet-control fault can also need investigation."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note the timing, last service and exact cylinder label. Do not assume all cylinders can be fixed with a domestic Megaflo air-gap routine."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does discharge during heating always prove the expansion vessel has failed?",
+      "answer": "No. Expansion provision is one possibility; inlet-pressure and valve conditions also require assessment, and some cylinders use an internal air volume."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__tundish-drips-when-heating",
+  "targetIntent": "A tundish drips only while heating",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A tundish drips only while heating",
+      "path": "/problems/tundish-drips-when-heating"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__tundish-hot-water-or-steam.json
+{
+  "path": "/problems/tundish-hot-water-or-steam",
+  "type": "article",
+  "h1": "Hot water or steam from cylinder discharge",
+  "title": "Hot water or steam from cylinder discharge | G3 Cylinder Help",
+  "description": "Understand hot water or steam from cylinder discharge. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Very hot water or steam from a safety discharge requires urgent attention. Keep clear and do not touch, obstruct or adjust the discharge.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "For temperature-and-pressure relief discharge on the Megaflo Eco described in its manual, stop the heat source or immersion using ordinary controls if safe and contact a competent unvented engineer. The manufacturer says not to turn off the water supply for that condition."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Do not remove covers, reset a concealed cut-out, cap pipework or attempt to make a valve stop by force. Follow the correct appliance user safety instructions; other product types can have different instructions."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I shut the Megaflo water supply for temperature-and-pressure relief discharge?",
+      "answer": "The Megaflo Eco manual says to stop the heat source and leave the water supply on; seek urgent competent assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": true,
+  "fileKey": "problems__tundish-hot-water-or-steam",
+  "targetIntent": "Hot water or steam from cylinder discharge",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot water or steam from cylinder discharge",
+      "path": "/problems/tundish-hot-water-or-steam"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__cylinder-leaking.json
+{
+  "path": "/problems/cylinder-leaking",
+  "type": "article",
+  "h1": "Water is leaking around a cylinder",
+  "title": "Water is leaking around a cylinder | G3 Cylinder Help",
+  "description": "Understand water is leaking around a cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Identify whether water comes from a connection, valve, discharge route or the cylinder vessel. Those findings lead to different repair decisions.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A wet cupboard does not establish a leaking vessel. Water can track from a nearby fitting or connected appliance. Electrical equipment, damaged flooring and active leaks need consideration before an ordinary service visit."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Provide a wide photograph and describe the visible origin without disturbing fittings. Keep clear of wet electrical controls; a vessel leak should not be confused with normal safety discharge through its intended route."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can water beside a cylinder come from something other than the vessel?",
+      "answer": "Yes. Connections, valves, discharge and nearby pipework can leak; the origin must be traced before recommending a replacement cylinder."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__cylinder-leaking",
+  "targetIntent": "Water is leaking around a cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Water is leaking around a cylinder",
+      "path": "/problems/cylinder-leaking"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__valve-or-pipework-leak.json
+{
+  "path": "/problems/valve-or-pipework-leak",
+  "type": "article",
+  "h1": "A cylinder valve or pipe joint is leaking",
+  "title": "A cylinder valve or pipe joint is leaking | G3 Cylinder Help",
+  "description": "Understand a cylinder valve or pipe joint is leaking. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A leak at a connection needs identification and safe repair; it is distinct from water travelling through a designed safety-discharge route.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The correct component depends on the cylinder model and function of the fitting. An inlet control, relief valve and motorised heating valve serve different purposes. Substituting a visually similar component can be inappropriate."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Avoid tightening unknown safety fittings or removing a valve. Tell us where the water appears, whether heating affects it and whether any work took place nearby."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a similar-looking plumbing valve replace any cylinder safety valve?",
+      "answer": "No. Function, ratings and approved compatibility matter; the correct replacement must be selected for the model and safety arrangement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-parts"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__valve-or-pipework-leak",
+  "targetIntent": "A cylinder valve or pipe joint is leaking",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A cylinder valve or pipe joint is leaking",
+      "path": "/problems/valve-or-pipework-leak"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__megaflo-air-gap-keeps-losing.json
+{
+  "path": "/problems/megaflo-air-gap-keeps-losing",
+  "type": "article",
+  "h1": "A Megaflo air-gap problem keeps returning",
+  "title": "A Megaflo air-gap problem keeps returning | G3 Cylinder Help",
+  "description": "Understand a megaflo air-gap problem keeps returning. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Repeated discharge after air-gap attention needs the cause reviewed, rather than assuming that more frequent recharging is the complete solution.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The correct internal expansion procedure applies only to relevant models. Continuing discharge can involve other pressure controls, valve condition or the installed arrangement. Larger or different cylinder ranges may instead use an external vessel."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Share who carried out the earlier work, whether discharge stopped and how quickly it returned. Do not keep operating relief devices on the strength of a generic video."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if a Megaflo still discharges after the correct air-gap attention?",
+      "answer": "Further assessment is needed. The manufacturer advises competent attention when discharge continues; other pressure or valve faults may be involved."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-faq"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__megaflo-air-gap-keeps-losing",
+  "targetIntent": "A Megaflo air-gap problem keeps returning",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A Megaflo air-gap problem keeps returning",
+      "path": "/problems/megaflo-air-gap-keeps-losing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__expansion-vessel-problem.json
+{
+  "path": "/problems/expansion-vessel-problem",
+  "type": "article",
+  "h1": "Possible cylinder expansion-vessel problem",
+  "title": "Possible cylinder expansion-vessel problem | G3 Cylinder Help",
+  "description": "Understand possible cylinder expansion-vessel problem. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Repeated pressure-related discharge can suggest an expansion issue, but the vessel, circuit and manufacturer requirements must first be identified.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A heating-circuit vessel and a potable-water cylinder vessel are not interchangeable. Concealed vessels or multiple expansion components may be present on some products. Colour and location alone are not a reliable diagnosis."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the equipment labels and discharge timing. Checking or adjusting a vessel requires a competent procedure for the actual system, not a universal pressure copied from another product."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a boiler expansion vessel cure a domestic-water expansion problem?",
+      "answer": "Not as a general substitution. The circuits, vessel suitability and design differ; competent assessment must identify the expansion provision needed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/oso",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/expansion-vessel-services",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "oso-super"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__expansion-vessel-problem",
+  "targetIntent": "Possible cylinder expansion-vessel problem",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Possible cylinder expansion-vessel problem",
+      "path": "/problems/expansion-vessel-problem"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__off-peak-not-working-boost-works.json
+{
+  "path": "/problems/off-peak-not-working-boost-works",
+  "type": "article",
+  "h1": "Off-peak hot water fails, but boost works",
+  "title": "Off-peak hot water fails, but boost works | G3 Cylinder Help",
+  "description": "Understand off-peak hot water fails, but boost works. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Working boost with failed off-peak heating can indicate separate supplies, controls or heater paths; it does not prove the whole cylinder has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The Electromax manufacturer fault diagrams distinguish off-peak and boost immersion paths. Other direct-cylinder systems also need their actual wiring and programme arrangement identified, rather than assuming they match that model."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the tariff arrangement, normal schedule and which accessible control produces hot water. Internal supply checks and electrical testing must be carried out by a suitably competent person."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What does working boost tell us about a failed off-peak programme?",
+      "answer": "It shows one heating path may still operate; timed supply, controls and the other heater path require separate competent investigation."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-electromax",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__off-peak-not-working-boost-works",
+  "targetIntent": "Off-peak hot water fails, but boost works",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Off-peak hot water fails, but boost works",
+      "path": "/problems/off-peak-not-working-boost-works"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__immersion-heater-trips-electrics.json
+{
+  "path": "/problems/immersion-heater-trips-electrics",
+  "type": "article",
+  "h1": "An immersion heater trips the electrics",
+  "title": "An immersion heater trips the electrics | G3 Cylinder Help",
+  "description": "Understand an immersion heater trips the electrics. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Repeated protective-device operation needs electrical investigation. Do not repeatedly reset it to force a suspect immersion heater to work.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A trip can relate to the heater, wiring, moisture or another circuit condition. G3 cylinder competence alone is not a diagnosis or proof of all electrical authorisation. The correct person must assess the electrical fault and related appliance safety."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note what was switched on immediately before the trip and whether leaking water is present. Do not remove covers, bypass protection or attempt live measurements."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is repeatedly resetting an RCD an acceptable way to keep an immersion running?",
+      "answer": "No. Repeated tripping can signal an electrical fault; stop using the affected appliance and arrange competent electrical assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-direct",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__immersion-heater-trips-electrics",
+  "targetIntent": "An immersion heater trips the electrics",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "An immersion heater trips the electrics",
+      "path": "/problems/immersion-heater-trips-electrics"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__thermal-cut-out-keeps-tripping.json
+{
+  "path": "/problems/thermal-cut-out-keeps-tripping",
+  "type": "article",
+  "h1": "A cylinder thermal cut-out keeps operating",
+  "title": "A cylinder thermal cut-out keeps operating | G3 Cylinder Help",
+  "description": "Understand a cylinder thermal cut-out keeps operating. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A cut-out is a safety device. Repeated operation needs investigation of the heating and temperature-control fault before any reset or replacement.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The protective device is separate from routine temperature regulation. Bypassing it removes a safety layer. A concealed reset button is not a universal homeowner action, particularly when overheating or discharge has occurred."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Report the pattern and any very hot delivery or relief discharge. Follow the specific user safety instructions and arrange competent attention; do not treat a temporary restart as proof the cause is resolved."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a thermal cut-out be bypassed if it keeps stopping hot water?",
+      "answer": "No. Never bypass thermal protection; its repeated operation needs the underlying control or heating fault investigated by a competent person."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-direct",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__thermal-cut-out-keeps-tripping",
+  "targetIntent": "A cylinder thermal cut-out keeps operating",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A cylinder thermal cut-out keeps operating",
+      "path": "/problems/thermal-cut-out-keeps-tripping"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__noisy-cylinder.json
+{
+  "path": "/problems/noisy-cylinder",
+  "type": "article",
+  "h1": "New noises from a hot-water cylinder",
+  "title": "New noises from a hot-water cylinder | G3 Cylinder Help",
+  "description": "Understand new noises from a hot-water cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A new noise should be described by timing and location. Heating noise, water movement and pipe vibration can have different causes.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A hum, bang or rush of water is not a universal fault code. Note whether it occurs during heating, at tap closure or with a particular valve or pump. Changes in the connected system can affect the sound."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "If noise accompanies hot discharge, overheating or an active leak, use the urgent guidance. Otherwise provide a short recording made safely without opening covers or touching hot fittings."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a noisy cylinder automatically need descaling?",
+      "answer": "No. Noise can originate from different components or water movement; the location, timing and system condition determine the appropriate investigation."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__noisy-cylinder",
+  "targetIntent": "New noises from a hot-water cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "New noises from a hot-water cylinder",
+      "path": "/problems/noisy-cylinder"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__shower-cold-other-taps-hot.json
+{
+  "path": "/problems/shower-cold-other-taps-hot",
+  "type": "article",
+  "h1": "The shower is cold, but other taps are hot",
+  "title": "The shower is cold, but other taps are hot | G3 Cylinder Help",
+  "description": "Understand the shower is cold, but other taps are hot. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A single affected shower with hot delivery elsewhere points toward a local outlet or mixing investigation before assuming the cylinder has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A mixer needs suitable hot and cold supplies. Restrictions, mixer components or imbalance may affect one outlet. A whole-cylinder replacement is not justified solely by a single-shower symptom."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record whether flow and temperature both change and whether another shower behaves normally. Do not dismantle a mixer or cylinder valve based on an online guess."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why should a cold shower be assessed differently when basin taps are hot?",
+      "answer": "Hot delivery elsewhere suggests heat is available; the shower mixer and its local supplies may need investigation before cylinder work is proposed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__shower-cold-other-taps-hot",
+  "targetIntent": "The shower is cold, but other taps are hot",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "The shower is cold, but other taps are hot",
+      "path": "/problems/shower-cold-other-taps-hot"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__cold-taps-running-warm.json
+{
+  "path": "/problems/cold-taps-running-warm",
+  "type": "article",
+  "h1": "Warm water appears at a cold tap",
+  "title": "Warm water appears at a cold tap | G3 Cylinder Help",
+  "description": "Understand warm water appears at a cold tap. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Unexpected warm cold-water delivery needs the affected outlets and system arrangement assessed; do not assume one universal cylinder cause.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Heat transfer, a mixing fault or a cross-connection can be among the conditions an engineer investigates. The symptom history matters: one tap, several outlets and sustained warming do not mean the same thing."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note whether the water clears quickly, whether unused outlets are involved and if plumbing work occurred recently. Keep hygiene and scalding risks in view rather than changing cylinder controls yourself."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can warm cold-water delivery be diagnosed just from the cylinder brand?",
+      "answer": "No. Outlet behaviour, mixing arrangements, pipework and temperature history must be assessed; the brand alone does not identify the cause."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__cold-taps-running-warm",
+  "targetIntent": "Warm water appears at a cold tap",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Warm water appears at a cold tap",
+      "path": "/problems/cold-taps-running-warm"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__water-hammer.json
+{
+  "path": "/problems/water-hammer",
+  "type": "article",
+  "h1": "Banging pipes or water hammer near a cylinder",
+  "title": "Banging pipes or water hammer near a cylinder | G3 Cylinder Help",
+  "description": "Understand banging pipes or water hammer near a cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Banging associated with outlet or valve closure needs a water-supply and pipework investigation, not an invented cylinder fault-code reset.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Fast changes in water movement, incoming pressure and pipe support can influence the symptom. The cylinder may be nearby without being the failed component. A discharge or expansion concern should still be assessed on its own evidence."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record when the bang occurs, which outlet is being used and whether recent work changed the pattern. Avoid adding a pump or adjusting pressure controls without a designed assessment."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is pipe banging proof that the Megaflo cylinder vessel is faulty?",
+      "answer": "No. Water movement, valves, pressure and pipe support can contribute; identify the origin before blaming or replacing the vessel."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__water-hammer",
+  "targetIntent": "Banging pipes or water hammer near a cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Banging pipes or water hammer near a cylinder",
+      "path": "/problems/water-hammer"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__milky-hot-water.json
+{
+  "path": "/problems/milky-hot-water",
+  "type": "article",
+  "h1": "Hot water looks milky or cloudy",
+  "title": "Hot water looks milky or cloudy | G3 Cylinder Help",
+  "description": "Understand hot water looks milky or cloudy. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "In an applicable Megaflo, cloudiness that clears can be caused by aeration. Persistent colour, particles or unusual smell need separate investigation.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The manufacturer describes oxygen bubbles released when pressurised water flows. That explanation should not be used to dismiss every water-quality concern or unexplained change in drinking-water appearance."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Describe whether the cloudiness clears after standing and whether cold water is also affected. Do not treat visible particles or a lasting colour as the same harmless effect."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "When might milky-looking Megaflo water be aeration rather than a fault?",
+      "answer": "Aeration can create temporary cloudiness that clears on standing; persistent discolouration, particles or unusual smell warrant a separate water-quality enquiry."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__milky-hot-water",
+  "targetIntent": "Hot water looks milky or cloudy",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot water looks milky or cloudy",
+      "path": "/problems/milky-hot-water"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__high-hot-water-bills.json
+{
+  "path": "/problems/high-hot-water-bills",
+  "type": "article",
+  "h1": "Hot-water energy use seems unusually high",
+  "title": "Hot-water energy use seems unusually high | G3 Cylinder Help",
+  "description": "Understand hot-water energy use seems unusually high. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Costs depend on demand, tariff, heating schedule and actual system operation. Investigate changes without reducing safe storage temperatures arbitrarily.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A longer heating programme, increased use or boost reliance can increase cost even without a vessel fault. An abnormal control condition or leak may also need assessment. No universal percentage saving is promised by changing the cylinder."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Compare bills and usage over similar periods. Keep tariff information, schedule changes and any recurring discharge together. Temperature changes should consider the manufacturer instructions, scalding precautions and hygiene strategy."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I simply turn stored water much cooler to reduce the bill?",
+      "answer": "Do not make arbitrary reductions. Safe temperature control must consider hygiene, scalding and manufacturer guidance alongside energy use and household demand."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__high-hot-water-bills",
+  "targetIntent": "Hot-water energy use seems unusually high",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot-water energy use seems unusually high",
+      "path": "/problems/high-hot-water-bills"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__fault-returns-after-service.json
+{
+  "path": "/problems/fault-returns-after-service",
+  "type": "article",
+  "h1": "The cylinder symptom returns after a service",
+  "title": "The cylinder symptom returns after a service | G3 Cylinder Help",
+  "description": "Understand the cylinder symptom returns after a service. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A returning symptom needs a review of the recorded findings, work performed and current behaviour; do not assume the same component has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Share the service date, written notes and what changed afterwards. Intermittent supply conditions, a different failing component or an unresolved system issue can require a new investigation. A temporary improvement does not prove a lasting repair."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Contact the person who carried out the work with the new evidence where practical. Record discharge timing or heating behaviour safely and avoid further speculative adjustments."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What evidence helps assess a symptom that returned after cylinder work?",
+      "answer": "Provide the service record, changed components, when improvement ended and the current symptom pattern; safe photographs or recordings can help."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__fault-returns-after-service",
+  "targetIntent": "The cylinder symptom returns after a service",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "The cylinder symptom returns after a service",
+      "path": "/problems/fault-returns-after-service"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__no-flow-after-plumbing-work.json
+{
+  "path": "/problems/no-flow-after-plumbing-work",
+  "type": "article",
+  "h1": "Hot-water flow changes after plumbing work",
+  "title": "Hot-water flow changes after plumbing work | G3 Cylinder Help",
+  "description": "Understand hot-water flow changes after plumbing work. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A symptom beginning after supply isolation or plumbing work needs that history included; it should not trigger random electrical or air-gap resets.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Tell the engineer which work was done, whether the cold supply is normal and whether all hot outlets are affected. Supply restrictions, changed components or installation conditions can require assessment of the water path."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Do not run an immersion if the cylinder may not be full. Do not dismantle strainers, turn unfamiliar safety valves or copy a draining procedure from another model."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is recent plumbing work relevant to a new no-flow fault?",
+      "answer": "It can change the supply or water path; the work history helps direct assessment instead of assuming a heating-element failure."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__no-flow-after-plumbing-work",
+  "targetIntent": "Hot-water flow changes after plumbing work",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot-water flow changes after plumbing work",
+      "path": "/problems/no-flow-after-plumbing-work"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__amptec-top-alarm-flashing-red.json
+{
+  "path": "/fault-codes/amptec-top-alarm-flashing-red",
+  "type": "article",
+  "h1": "Amptec top ALARM flashing red",
+  "title": "Amptec top ALARM flashing red | Model-Specific Guide",
+  "description": "Identify amptec top alarm flashing red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "For the Amptec models covered by the cited manual, a flashing red top ALARM is the no-water indication. Switch the boiler off and seek competent assessment.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "The label is a visible indicator condition, not an F-number. It does not prove whether water loss, air, a sensing condition or an installation issue is the underlying cause. Do not restart repeatedly or fill an unfamiliar system using a guessed procedure."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which Amptec light pattern is associated with the manual no-water alarm?",
+      "answer": "The cited Amptec manual identifies a flashing red top ALARM as the no-water condition; turn the boiler off and arrange assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-top-alarm-flashing-red",
+  "targetIntent": "Amptec top ALARM flashing red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec top ALARM flashing red",
+      "path": "/fault-codes/amptec-top-alarm-flashing-red"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__amptec-top-alarm-steady-red.json
+{
+  "path": "/fault-codes/amptec-top-alarm-steady-red",
+  "type": "article",
+  "h1": "Amptec top ALARM steady red",
+  "title": "Amptec top ALARM steady red | Model-Specific Guide",
+  "description": "Identify amptec top alarm steady red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "A steady red top ALARM is identified as a thermistor fault in the cited Amptec manual. It is different from a flashing top alarm.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "Sensor connections and components are internal electrical work. Photograph the visible panel and full model label without removing covers. Do not order a sensor solely because a differently arranged boiler also has a red light."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a steady top red ALARM mean the same as a flashing top red ALARM?",
+      "answer": "No. The cited Amptec manual distinguishes the steady top thermistor indication from the flashing top no-water indication."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-top-alarm-steady-red",
+  "targetIntent": "Amptec top ALARM steady red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec top ALARM steady red",
+      "path": "/fault-codes/amptec-top-alarm-steady-red"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__amptec-bottom-call-flashing-red.json
+{
+  "path": "/fault-codes/amptec-bottom-call-flashing-red",
+  "type": "article",
+  "h1": "Amptec bottom CALL flashing red",
+  "title": "Amptec bottom CALL flashing red | Model-Specific Guide",
+  "description": "Identify amptec bottom call flashing red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "The cited Amptec manual links a flashing red bottom CALL indicator to the over-temperature switch condition. Arrange competent fault assessment.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "The heating circulation and temperature-protection path require investigation. The manual technical checks are not public DIY instructions. Stop operating a known-fault boiler and record whether the bottom CALL flashes rather than stays steady."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which Amptec red light pattern refers to the over-temperature switch?",
+      "answer": "The cited manual identifies flashing red at the bottom CALL indicator; model confirmation and competent investigation are needed before any reset."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-bottom-call-flashing-red",
+  "targetIntent": "Amptec bottom CALL flashing red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec bottom CALL flashing red",
+      "path": "/fault-codes/amptec-bottom-call-flashing-red"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__amptec-bottom-call-steady-red.json
+{
+  "path": "/fault-codes/amptec-bottom-call-steady-red",
+  "type": "article",
+  "h1": "Amptec bottom CALL steady red",
+  "title": "Amptec bottom CALL steady red | Model-Specific Guide",
+  "description": "Identify amptec bottom call steady red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "A steady red bottom CALL is the 100°C control-trip indication in the cited Amptec manual. Do not bypass protection or repeatedly reset.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "This is not the same condition as a flashing bottom CALL. Internal sensor mounting and control faults need competent checks. Treat the alarm as a safety-related operating condition, not confirmation that one particular spare part will fix it."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a steady bottom red CALL the normal heating-demand light?",
+      "answer": "No. In the cited Amptec manual it is a control-trip indication; the normal demand indicator is green, not steady red."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-bottom-call-steady-red",
+  "targetIntent": "Amptec bottom CALL steady red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec bottom CALL steady red",
+      "path": "/fault-codes/amptec-bottom-call-steady-red"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__amptec-call-green-flashing.json
+{
+  "path": "/fault-codes/amptec-call-green-flashing",
+  "type": "article",
+  "h1": "Amptec CALL flashes green during demand",
+  "title": "Amptec CALL flashes green during demand | Model-Specific Guide",
+  "description": "Identify amptec call flashes green during demand, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "The cited Amptec guide describes green CALL flashing during the initial self-test period, normally about two to three minutes, before steady demand indication.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "A persistent flashing pattern without heat needs the exact model and symptom assessed. A normal start-up pattern should not be converted into an invented fault code or treated as proof that a pump must be replaced."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a brief green CALL flash at Amptec start-up always indicate a fault?",
+      "answer": "No. The cited guide describes an initial self-test period; persistent flashing or failure to heat needs model-specific assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-call-green-flashing",
+  "targetIntent": "Amptec CALL flashes green during demand",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec CALL flashes green during demand",
+      "path": "/fault-codes/amptec-call-green-flashing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__electromax-demand-flashing.json
+{
+  "path": "/fault-codes/electromax-demand-flashing",
+  "type": "article",
+  "h1": "Electromax demand indication keeps flashing",
+  "title": "Electromax Demand Flashing | Electric Heating Guide",
+  "description": "Distinguish Electromax heating demand, start-up and persistent flashing using the correct model manual. Arrange competent electrical heating assessment.",
+  "answer": "The Electromax manufacturer fault charts distinguish persistent demand flashing from supply and alarm paths. Match the model before drawing a conclusion.",
+  "sections": [
+    {
+      "heading": "A condition, not a universal numeric code",
+      "paragraphs": [
+        "Electromax combines different functions. A heating-demand indicator concerns the electric-boiler path, while off-peak hot water can fail for a different reason. The cited manual has a separate diagnostic route where demand remains flashing beyond the initial period."
+      ]
+    },
+    {
+      "heading": "What to record",
+      "paragraphs": [
+        "Record the installed radiator or underfloor configuration, visible indicator, which heating function fails and whether domestic hot water still works. Do not remove panels or apply the Amptec top/bottom red-light table to Electromax."
+      ]
+    },
+    {
+      "heading": "Competent assessment",
+      "paragraphs": [
+        "Internal supply, control and element checks require appropriate electrical and heating competence. Public guidance here is limited to identification and enquiry preparation, not live testing or component replacement."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I use the Amptec red-light table to diagnose Electromax demand flashing?",
+      "answer": "No. Match the Electromax model and its own diagnostic charts; similar manufacturer branding does not establish identical controls."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-electromax",
+      "label": "Heatrae sadia electromax"
+    },
+    {
+      "path": "/problems/off-peak-not-working-boost-works",
+      "label": "Off peak not working boost works"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": "/images/g3-heatrae-electromax.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__electromax-demand-flashing",
+  "targetIntent": "Electromax demand indication keeps flashing",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Electromax demand indication keeps flashing",
+      "path": "/fault-codes/electromax-demand-flashing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems__mixergy-offline.json
+{
+  "path": "/problems/mixergy-offline",
+  "type": "article",
+  "h1": "Mixergy is offline: is hot water still available?",
+  "title": "Mixergy Offline | App Control vs Hot-Water Operation",
+  "description": "Understand Mixergy offline control limitations and distinguish connectivity from a heating or cylinder fault. Follow the matching official controller guidance.",
+  "answer": "Mixergy’s cited guide distinguishes online app functions from local operation. An offline tank can retain existing schedules and local gauge boost.",
+  "sections": [
+    {
+      "heading": "What the published guide distinguishes",
+      "paragraphs": [
+        "The cited guidance says live app data and settings need a connection, while an offline tank can still produce hot water, run existing schedules and boost at its local gauge. Do not assume those capabilities prove a separate heating fault is absent."
+      ]
+    },
+    {
+      "heading": "Record the actual behaviour",
+      "paragraphs": [
+        "Note whether local hot-water operation works, whether the app is stale and which controller generation is fitted. Follow the relevant homeowner connection guide. Do not open a controller or treat internal wiring as a network troubleshooting step."
+      ]
+    },
+    {
+      "heading": "Direct the enquiry appropriately",
+      "paragraphs": [
+        "A connectivity-only enquiry may be best handled through the manufacturer support route. If heating, flow or discharge is also abnormal, identify that condition separately and discuss the right competent assessment. Do not factory-reset controls without understanding account and configuration consequences."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does an offline Mixergy tank necessarily stop making hot water?",
+      "answer": "No. The cited guide describes continuing local hot-water functions; connectivity and any separate heating fault should be assessed independently."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/mixergy",
+      "label": "Mixergy identification"
+    },
+    {
+      "path": "/fault-codes/mixergy-controller-led-status",
+      "label": "Published controller status guide"
+    },
+    {
+      "path": "/problems/no-hot-water",
+      "label": "Separate loss of hot water"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the symptom"
+    }
+  ],
+  "sourceIds": [
+    "mixergy-connect"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "fileKey": "problems__mixergy-offline",
+  "targetIntent": "Mixergy is offline: is hot water still available?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Mixergy is offline: is hot water still available?",
+      "path": "/problems/mixergy-offline"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes__mixergy-controller-led-status.json
+{
+  "path": "/fault-codes/mixergy-controller-led-status",
+  "type": "article",
+  "h1": "Mixergy controller LED status: match the pattern",
+  "title": "Mixergy Controller LED Meanings | Model-Aware Guide",
+  "description": "Read the published Mixergy main controller LED status patterns and distinguish updating, sensor, gauge and processor indications without opening covers.",
+  "answer": "The manufacturer’s main PCB controller guide distinguishes status by colour and flash frequency. This table must not be applied to a different gauge or controller without confirmation.",
+  "sections": [
+    {
+      "heading": "Scope of the status table",
+      "paragraphs": [
+        "This reference concerns the main PCB controller named by Mixergy. Do not remove a cover to view it. The normal homeowner gauge and Wi-Fi indication are separate references. A suitably competent operative can match the controller and its status."
+      ]
+    },
+    {
+      "heading": "What the indication does and does not establish",
+      "paragraphs": [
+        "An indication identifies a reported condition; it does not establish that a particular spare part must be replaced. Internal sensor, connection and controller checks belong to appropriate competent work or manufacturer technical support."
+      ]
+    },
+    {
+      "heading": "Share a useful observation",
+      "paragraphs": [
+        "If a pattern is already safely visible, record its colour and approximate frequency without touching electrical equipment. Share the full model and symptom. For an update state, follow manufacturer advice rather than cycling power to force a restart."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I apply a Mixergy main-controller LED meaning to any visible cylinder light?",
+      "answer": "No. The main controller and homeowner gauge have different references; identify the component and model before applying a status meaning."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/mixergy",
+      "label": "Mixergy product context"
+    },
+    {
+      "path": "/problems/mixergy-offline",
+      "label": "Gauge connectivity context"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss model and competence"
+    }
+  ],
+  "sourceIds": [
+    "mixergy-led"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__mixergy-controller-led-status",
+  "targetIntent": "Mixergy controller LED status: match the pattern",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault indicators",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Mixergy controller LED status: match the pattern",
+      "path": "/fault-codes/mixergy-controller-led-status"
+    }
+  ],
+  "indicatorTable": [
+    {
+      "pattern": "Flashing green",
+      "meaning": "Normal system status"
+    },
+    {
+      "pattern": "Solid green/red",
+      "meaning": "Updating; manufacturer says not to interrupt power"
+    },
+    {
+      "pattern": "Red every two seconds",
+      "meaning": "Temperature-sensor condition"
+    },
+    {
+      "pattern": "Red once per second",
+      "meaning": "Gauge not detected"
+    },
+    {
+      "pattern": "Red twice per second",
+      "meaning": "Energy-measurement condition"
+    },
+    {
+      "pattern": "Red five times per second",
+      "meaning": "Main-processor condition"
+    }
+  ]
+}
+END FILE

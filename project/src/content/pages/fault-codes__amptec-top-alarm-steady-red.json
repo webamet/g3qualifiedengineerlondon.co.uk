@@ -1,0 +1,81 @@
+{
+  "path": "/fault-codes/amptec-top-alarm-steady-red",
+  "type": "article",
+  "h1": "Amptec top ALARM steady red",
+  "title": "Amptec top ALARM steady red | Model-Specific Guide",
+  "description": "Identify amptec top alarm steady red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "A steady red top ALARM is identified as a thermistor fault in the cited Amptec manual. It is different from a flashing top alarm.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "Sensor connections and components are internal electrical work. Photograph the visible panel and full model label without removing covers. Do not order a sensor solely because a differently arranged boiler also has a red light."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a steady top red ALARM mean the same as a flashing top red ALARM?",
+      "answer": "No. The cited Amptec manual distinguishes the steady top thermistor indication from the flashing top no-water indication."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-top-alarm-steady-red",
+  "targetIntent": "Amptec top ALARM steady red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec top ALARM steady red",
+      "path": "/fault-codes/amptec-top-alarm-steady-red"
+    }
+  ]
+}

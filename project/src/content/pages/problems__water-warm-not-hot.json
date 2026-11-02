@@ -1,0 +1,90 @@
+{
+  "path": "/problems/water-warm-not-hot",
+  "type": "article",
+  "h1": "Cylinder water is warm rather than hot",
+  "title": "Cylinder water is warm rather than hot | G3 Cylinder Help",
+  "description": "Understand cylinder water is warm rather than hot. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Lukewarm delivery can involve stored temperature, limited heating, excessive demand or mixing at an outlet; separate these before diagnosis.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "If all outlets are lukewarm, review the heating history and stored-water controls. If only one shower is affected while taps become hot, the mixer or local plumbing may be more relevant. Do not lower safety settings or increase concealed thermostats yourself."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Describe which outlets are affected and how delivery changes after a full normal heating period. Actual temperature control should be assessed alongside scalding and hygiene considerations."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why can one shower stay lukewarm while other taps run hot?",
+      "answer": "A local mixer or supply issue may affect one outlet; hot water at other taps means the cylinder should not be blamed automatically."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__water-warm-not-hot",
+  "targetIntent": "Cylinder water is warm rather than hot",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Cylinder water is warm rather than hot",
+      "path": "/problems/water-warm-not-hot"
+    }
+  ]
+}

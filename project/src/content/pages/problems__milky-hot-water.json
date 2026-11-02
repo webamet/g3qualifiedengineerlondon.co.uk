@@ -1,0 +1,90 @@
+{
+  "path": "/problems/milky-hot-water",
+  "type": "article",
+  "h1": "Hot water looks milky or cloudy",
+  "title": "Hot water looks milky or cloudy | G3 Cylinder Help",
+  "description": "Understand hot water looks milky or cloudy. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "In an applicable Megaflo, cloudiness that clears can be caused by aeration. Persistent colour, particles or unusual smell need separate investigation.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The manufacturer describes oxygen bubbles released when pressurised water flows. That explanation should not be used to dismiss every water-quality concern or unexplained change in drinking-water appearance."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Describe whether the cloudiness clears after standing and whether cold water is also affected. Do not treat visible particles or a lasting colour as the same harmless effect."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "When might milky-looking Megaflo water be aeration rather than a fault?",
+      "answer": "Aeration can create temporary cloudiness that clears on standing; persistent discolouration, particles or unusual smell warrant a separate water-quality enquiry."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__milky-hot-water",
+  "targetIntent": "Hot water looks milky or cloudy",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot water looks milky or cloudy",
+      "path": "/problems/milky-hot-water"
+    }
+  ]
+}

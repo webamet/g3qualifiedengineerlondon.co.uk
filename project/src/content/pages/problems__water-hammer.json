@@ -1,0 +1,90 @@
+{
+  "path": "/problems/water-hammer",
+  "type": "article",
+  "h1": "Banging pipes or water hammer near a cylinder",
+  "title": "Banging pipes or water hammer near a cylinder | G3 Cylinder Help",
+  "description": "Understand banging pipes or water hammer near a cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Banging associated with outlet or valve closure needs a water-supply and pipework investigation, not an invented cylinder fault-code reset.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Fast changes in water movement, incoming pressure and pipe support can influence the symptom. The cylinder may be nearby without being the failed component. A discharge or expansion concern should still be assessed on its own evidence."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record when the bang occurs, which outlet is being used and whether recent work changed the pattern. Avoid adding a pump or adjusting pressure controls without a designed assessment."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is pipe banging proof that the Megaflo cylinder vessel is faulty?",
+      "answer": "No. Water movement, valves, pressure and pipe support can contribute; identify the origin before blaming or replacing the vessel."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__water-hammer",
+  "targetIntent": "Banging pipes or water hammer near a cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Banging pipes or water hammer near a cylinder",
+      "path": "/problems/water-hammer"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "path": "/brands/gledhill",
+  "type": "article",
+  "h1": "Gledhill cylinders: identification and hot-water help",
+  "title": "Gledhill cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Gledhill unvented cylinders and Gledhill thermal stores are different product types. Identify the appliance before arranging G3 cylinder work.",
+  "answer": "Gledhill unvented cylinders and Gledhill thermal stores are different product types. Identify the appliance before arranging G3 cylinder work.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "StainlessLite and Stainless Platinum are cylinder families listed in the manufacturer library. PulsaCoil and BoilerMate literature is also listed there, but those names must not be treated as equivalent unvented-cylinder designs."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "The correct manual follows the data label, cylinder type and generation. An external expansion arrangement on one model does not establish the layout on another. For enquiries, state whether the label says StainlessLite, Platinum, PulsaCoil or BoilerMate."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is every Gledhill appliance an unvented cylinder?",
+      "answer": "No. Gledhill also has thermal-store products; identify the exact product before applying unvented-cylinder servicing or diagnosis guidance."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "gledhill"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__gledhill",
+  "targetIntent": "Gledhill cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Gledhill cylinders: identification and hot-water help",
+      "path": "/brands/gledhill"
+    }
+  ]
+}

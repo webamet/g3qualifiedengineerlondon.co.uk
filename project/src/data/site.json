@@ -1,0 +1,240 @@
+{
+  "name": "G3 Qualified Engineer London",
+  "domain": "https://g3qualifiedengineerlondon.co.uk",
+  "phoneDisplay": "020 7205 4433",
+  "phoneE164": "+442072054433",
+  "email": "info@g3qualifiedengineerlondon.co.uk",
+  "positioning": "Independent unvented-cylinder and Megaflo services in London",
+  "brandClarification": "User selected Heatrae Sadia, not Hitachi heat pumps, on 13 October 2026.",
+  "address": null,
+  "openingHours": null,
+  "googleBusinessProfile": null,
+  "socialProfiles": {
+    "facebook": null,
+    "instagram": null,
+    "youtube": null,
+    "linkedin": null,
+    "x": null
+  },
+  "author": {
+    "name": "Yassi",
+    "role": "Lead unvented hot-water engineer",
+    "publicProfileApproved": false,
+    "fullName": null,
+    "experienceYears": null,
+    "photo": null,
+    "credentials": [],
+    "linkedin": null,
+    "x": null,
+    "biographyApproval": null
+  },
+  "qualifications": {
+    "g3Positioning": "Client-confirmed service positioning; documentary certificate record not supplied",
+    "gasSafe": null,
+    "insurance": null,
+    "manufacturerApproval": null,
+    "electricalQualifications": null
+  },
+  "formMode": "email-draft",
+  "formEndpoint": null,
+  "analyticsId": null,
+  "productionReady": false,
+  "publicationPolicy": "Preview by default. Individual technical-review dates and author approval must be recorded; no automatic reviewed-by claims.",
+  "legacyPaths": [
+    "/",
+    "/privacy-policy",
+    "/cookie-policy",
+    "/terms"
+  ],
+  "legacyAnchors": [
+    "home",
+    "main-content",
+    "services",
+    "areas",
+    "about",
+    "faqs",
+    "contact"
+  ],
+  "sources": {
+    "gov-g": {
+      "name": "Approved Document G (England), current publication and amendments",
+      "url": "https://www.gov.uk/government/publications/sanitation-hot-water-safety-and-water-efficiency-approved-document-g"
+    },
+    "gov-cps": {
+      "name": "Current competent person schemes and scopes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    },
+    "megaflo-manual": {
+      "name": "Megaflo Eco installation and user manual, troubleshooting p27 and safety p24",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-installation-manual.pdf"
+    },
+    "heatrae-faq": {
+      "name": "Heatrae Sadia customer FAQs",
+      "url": "https://www.heatraesadia.com/information/frequently-asked-questions"
+    },
+    "heatrae-library": {
+      "name": "Heatrae Sadia literature library, including discontinued products",
+      "url": "https://www.heatraesadia.com/information/literature-library"
+    },
+    "heatrae-products": {
+      "name": "Heatrae Sadia product catalogue",
+      "url": "https://www.heatraesadia.com/products"
+    },
+    "heatrae-parts": {
+      "name": "Heatrae Sadia genuine parts enquiries",
+      "url": "https://www.heatraesadia.com/parts/parts-enquiries"
+    },
+    "heatrae-discontinued": {
+      "name": "Heatrae Sadia discontinued and replacement products",
+      "url": "https://www.heatraesadia.com/Customer-support/Discontinued-products"
+    },
+    "heatrae-video": {
+      "name": "Heatrae Sadia manufacturer video library",
+      "url": "https://www.heatraesadia.com/information/video-library"
+    },
+    "heatrae-glossary": {
+      "name": "Heatrae Sadia heating and hot-water glossary",
+      "url": "https://www.heatraesadia.com/information/glossary"
+    },
+    "amptec-manual": {
+      "name": "Amptec installation and user guide, indicators p20 and fault table p22",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/installation-manuals/amptec-installation-manual.pdf"
+    },
+    "amptec-product": {
+      "name": "Amptec electric flow boiler product information",
+      "url": "https://www.heatraesadia.com/products/heating-and-ventilation/electric-flow-boilers/amptec"
+    },
+    "electromax-manual": {
+      "name": "Electromax installation and servicing instructions, fault diagnosis pp33-36",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Electromax-installation-manual.pdf"
+    },
+    "electromax-user": {
+      "name": "Electromax user instructions, emergency guidance p7",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/User-Manuals/Electromax_user-manual.pdf"
+    },
+    "multipoint-ss": {
+      "name": "Multipoint SS Vertical instructions, fault table p20 (legacy range)",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Multipoint-SS-Vertical-installation-manual.pdf"
+    },
+    "multipoint-instant": {
+      "name": "Multipoint Instantaneous manual, model-specific troubleshooting p11",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Multipoint-Instantaneous-installation-manual.pdf"
+    },
+    "premierplus": {
+      "name": "PremierPlus installation and user manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/PremierPlus-installation-manual.pdf"
+    },
+    "systemfit": {
+      "name": "Megaflo Eco SystemFit manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-SystemFit-installation-manual.pdf"
+    },
+    "systemready": {
+      "name": "Megaflo Eco SystemReady manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-SystemReady-installation-manual.pdf"
+    },
+    "solar": {
+      "name": "Megaflo Eco Solar manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-Solar-installation-manual.pdf"
+    },
+    "solar-pv": {
+      "name": "Megaflo Eco Solar PV Ready Direct data sheet",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/technical-data-sheets/dept_254618_megaflo_solarpvready_direct_datasheet_issue4.pdf"
+    },
+    "ecoplus": {
+      "name": "Megaflo Eco Plus 400-570 installation manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-Plus-400-570-installation-manual.pdf"
+    },
+    "flexistor": {
+      "name": "Megaflo Eco Plus Flexistor 400-1000 manual",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/installation-manuals/megaflo-eco-plus-flexistor_400_1000_7038475_issue_01.pdf"
+    },
+    "megaflo-he": {
+      "name": "Legacy Megaflo HE installation manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Discontinued-Literature/Megaflo-HE-installation-manual.pdf"
+    },
+    "gledhill": {
+      "name": "Gledhill official cylinder manuals",
+      "url": "https://www.gledhill.net/trade/product-downloads/manuals/"
+    },
+    "oso": {
+      "name": "OSO UK cylinder manual downloads",
+      "url": "https://osohotwater.co.uk/Downloads/"
+    },
+    "oso-super": {
+      "name": "OSO Super Xpress S2X UK manual, model-specific expansion arrangement",
+      "url": "https://osohotwater.co.uk/wp-content/uploads/2025/02/11012294-00-Manual-Super-S%E2%82%82X-UK-EN.pdf"
+    },
+    "joule": {
+      "name": "Joule official unvented-cylinder knowledge hub",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/unvented-hot-water-cylinders"
+    },
+    "joule-rm": {
+      "name": "Stelflow, Cyclone Plus and Evocyl official manual library",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/stelflow-cycloneplus-evocyl-manual"
+    },
+    "joule-air": {
+      "name": "Joule Cyclone Air official manual library",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/cyclone-airjl-air-ins-manual"
+    },
+    "telford": {
+      "name": "Telford official unvented-cylinder downloads",
+      "url": "https://www.telford-group.com/downloads/general-downloads/"
+    },
+    "vaillant": {
+      "name": "Vaillant uniSTOR product and model manual library",
+      "url": "https://professional.vaillant.co.uk/for-installers/products/domestic-boiler-cylinders-25601.html"
+    },
+    "worcester": {
+      "name": "Worcester Greenstore SC model-version manual library",
+      "url": "https://www.worcester-bosch.co.uk/professional/support/literature/worcester-greenstore-sc-cylinder-installation-instructions"
+    },
+    "viessmann": {
+      "name": "Viessmann Vitocell domestic hot-water range",
+      "url": "https://www.viessmann.co.uk/en/products/water-heaters/vitocell-range.html"
+    },
+    "viessmann-manuals": {
+      "name": "Viessmann official ViBooks/manual lookup",
+      "url": "https://www.viessmann.co.uk/en/support/manuals.html"
+    },
+    "hse-landlords": {
+      "name": "HSE legionella guidance for landlords",
+      "url": "https://www.hse.gov.uk/legionnaires/legionella-landlords-responsibilities.htm"
+    },
+    "google-ai": {
+      "name": "Google Search AI features and websites",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    "google-spam": {
+      "name": "Google Search spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    "google-updates": {
+      "name": "Google Search documentation updates, checked 13 October 2026",
+      "url": "https://developers.google.com/search/updates"
+    },
+    "google-ai-content": {
+      "name": "Google Search guidance on generative AI content",
+      "url": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content"
+    },
+    "mixergy-support": {
+      "name": "Mixergy official support hub",
+      "url": "https://support.mixergy.co.uk/"
+    },
+    "mixergy-led": {
+      "name": "Mixergy main PCB controller status LED guide",
+      "url": "https://support.mixergy.co.uk/status-led-codes"
+    },
+    "mixergy-connect": {
+      "name": "Mixergy online and offline functions",
+      "url": "https://support.mixergy.co.uk/check-your-tanks-connection-status"
+    },
+    "kingspan-service": {
+      "name": "Kingspan official cylinder service and maintenance information",
+      "url": "https://waterandsafestorage.kingspan.com/gb/service-maintenance/domestic-services/hot-water-cylinder-servicing/"
+    },
+    "openai-bots": {
+      "name": "OpenAI search and training crawler controls",
+      "url": "https://developers.openai.com/api/docs/bots"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "path": "/services/landlord-cylinder-maintenance",
+  "type": "service",
+  "h1": "Cylinder support for landlords and property managers",
+  "title": "Landlord Cylinder Maintenance London | G3 Hot-Water Support",
+  "description": "Discuss cylinder support for landlords and property managers. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Keep model details, service notes and agreed access together so cylinder faults and planned maintenance can be managed responsibly.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "For a rented or managed property, the engineer may need a tenant contact, letting-agent authority, key arrangements and a clear approval limit. Planned servicing can reduce avoidable disruption, while a reliable record helps the next person understand what was inspected and changed."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "An unvented-cylinder service record is not the same document as a Landlord Gas Safety Record. There is no universal annual G3 landlord certificate equivalent to a gas safety record. Installation notification, maintenance, gas duties and water-system risk assessment should be treated separately."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "HSE expects landlords to consider legionella risks proportionately. A cylinder visit does not automatically constitute a full risk assessment or establish compliance across a building. Tell us whether the requested work concerns a single flat, communal equipment or a wider managed system."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a cylinder service record the same as a landlord gas safety certificate?",
+      "answer": "No. Cylinder maintenance, gas safety checks, installation notification and water-system risk assessment serve different purposes and should be arranged separately."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__landlord-cylinder-maintenance",
+  "targetIntent": "Cylinder support for landlords and property managers",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Cylinder support for landlords and property managers",
+      "path": "/services/landlord-cylinder-maintenance"
+    }
+  ]
+}

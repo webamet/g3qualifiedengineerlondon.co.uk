@@ -1,0 +1,86 @@
+{
+  "path": "/areas/chelsea",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Chelsea",
+  "title": "G3 Engineer Chelsea | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Chelsea. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Chelsea hot-water diagnosis, distinguish a single affected bathroom from cold or weak delivery throughout the property.",
+  "sections": [
+    {
+      "heading": "Separate one bathroom fault from a system fault",
+      "paragraphs": [
+        "For a Chelsea hot-water enquiry, say whether every outlet is affected or only one bathroom. If basin taps run hot while a shower remains cold, the local mixer and supply deserve assessment."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW3, SW10. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should a cold Chelsea shower prompt immediate cylinder replacement when other taps are hot?",
+      "answer": "No. Report that difference; the shower mixer and its local supplies may need investigation before any cylinder replacement is considered."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Chelsea",
+  "fileKey": "areas__chelsea",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Chelsea",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Chelsea",
+      "path": "/areas/chelsea"
+    }
+  ]
+}

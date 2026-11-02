@@ -1,0 +1,90 @@
+{
+  "path": "/problems/fault-returns-after-service",
+  "type": "article",
+  "h1": "The cylinder symptom returns after a service",
+  "title": "The cylinder symptom returns after a service | G3 Cylinder Help",
+  "description": "Understand the cylinder symptom returns after a service. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "A returning symptom needs a review of the recorded findings, work performed and current behaviour; do not assume the same component has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Share the service date, written notes and what changed afterwards. Intermittent supply conditions, a different failing component or an unresolved system issue can require a new investigation. A temporary improvement does not prove a lasting repair."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Contact the person who carried out the work with the new evidence where practical. Record discharge timing or heating behaviour safely and avoid further speculative adjustments."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What evidence helps assess a symptom that returned after cylinder work?",
+      "answer": "Provide the service record, changed components, when improvement ended and the current symptom pattern; safe photographs or recordings can help."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__fault-returns-after-service",
+  "targetIntent": "The cylinder symptom returns after a service",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "The cylinder symptom returns after a service",
+      "path": "/problems/fault-returns-after-service"
+    }
+  ]
+}

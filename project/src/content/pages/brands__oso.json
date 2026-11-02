@@ -1,0 +1,85 @@
+{
+  "path": "/brands/oso",
+  "type": "article",
+  "h1": "OSO hot-water cylinders: identification and hot-water help",
+  "title": "OSO hot-water cylinders Guide | G3 Cylinder Knowledge",
+  "description": "OSO model generations have different concealed components and expansion arrangements. The appliance label and manual are essential.",
+  "answer": "OSO model generations have different concealed components and expansion arrangements. The appliance label and manual are essential.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "For example, the Super Xpress S2X manual describes an expansion-vessel arrangement concealed within the design. That should not be confused with an instruction for a Megaflo internal air volume."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Do not assume a vessel is absent simply because it is not visible beside the cylinder. Access panels and internal safety devices are for competent assessment. Supply and flow requirements also need to be taken from the actual model specification."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why might I not see an expansion vessel beside an OSO cylinder?",
+      "answer": "Some OSO models conceal expansion components within their design; the matching manual and competent inspection establish the installed arrangement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "oso-super"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__oso",
+  "targetIntent": "OSO hot-water cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "OSO hot-water cylinders: identification and hot-water help",
+      "path": "/brands/oso"
+    }
+  ]
+}

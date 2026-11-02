@@ -1,0 +1,90 @@
+{
+  "path": "/products/megaflo-eco-plus-flexistor",
+  "type": "article",
+  "h1": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Plus Flexistor Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Plus Flexistor equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Flexistor is a named larger Megaflo range with model-specific siting, components and external expansion provision described in its manual.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The equipment size affects safe handling, space and plant access. Its intended heat input and configuration need to be established from the model and installed system before quoting a replacement or diagnosis."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Flexistor simply a standard domestic Megaflo Eco with a different label?",
+      "answer": "No. It is a distinct range with its own instructions and components; its model and installed configuration must be identified."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "flexistor",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-plus-flexistor",
+  "targetIntent": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-plus-flexistor"
+    }
+  ]
+}

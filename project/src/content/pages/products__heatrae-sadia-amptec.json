@@ -1,0 +1,90 @@
+{
+  "path": "/products/heatrae-sadia-amptec",
+  "type": "article",
+  "h1": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+  "title": "Heatrae Sadia Amptec Guide | Hot-Water & Fault Help",
+  "description": "Identify Heatrae Sadia Amptec equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Amptec is an electric flow boiler for wet heating. Its indicators belong to that boiler, not to a Megaflo storage cylinder.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The manual distinguishes a flashing top red ALARM, steady top red ALARM, flashing bottom red CALL and steady bottom red CALL. Record the location, colour and whether the light flashes; those details change the meaning."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is an Amptec alarm a Megaflo cylinder fault code?",
+      "answer": "No. Amptec is an electric flow boiler. Its indicator pattern describes the boiler condition and must be assessed for that model."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-amptec",
+  "targetIntent": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-amptec"
+    }
+  ]
+}

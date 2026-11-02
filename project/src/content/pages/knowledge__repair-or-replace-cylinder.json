@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/repair-or-replace-cylinder",
+  "type": "article",
+  "h1": "Should I repair or replace my cylinder?",
+  "title": "Should I repair or replace my cylinder? | G3 Hot-Water Knowledge",
+  "description": "Understand should i repair or replace my cylinder with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Compare the identified defect, vessel condition, parts support and installed safety arrangement before choosing repair or replacement.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "A serviceable vessel with a failed component can be a repair candidate. A leaking vessel or unsuitable installation can change the decision. The diagnosis should explain why the proposed solution resolves the cause and whether any connected system work is needed."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Age is relevant to condition and parts availability, but it is not a diagnosis. For replacement, compare the model, capacity, heating compatibility, access, included controls and handover. Avoid claims that every replacement saves a fixed percentage on bills."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is cylinder age alone a reliable reason to replace it?",
+      "answer": "No. Condition, the actual fault, parts support and installation suitability should guide the decision, alongside age and expected practical service life."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-discontinued"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__repair-or-replace-cylinder",
+  "targetIntent": "Should I repair or replace my cylinder?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Should I repair or replace my cylinder?",
+      "path": "/knowledge/repair-or-replace-cylinder"
+    }
+  ]
+}

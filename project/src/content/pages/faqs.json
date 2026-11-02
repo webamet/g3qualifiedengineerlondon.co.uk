@@ -1,0 +1,78 @@
+{
+  "path": "/faqs",
+  "type": "faq",
+  "h1": "Questions before a cylinder service or repair",
+  "title": "G3 Cylinder FAQs | Servicing, Repairs & Booking Questions",
+  "description": "Practical answers about G3 cylinder service enquiries, model identification, urgent symptoms and paperwork. Follow each subject to its detailed guide.",
+  "answer": "Choose a question by its real decision: who should do the work, what the symptom means, what record is needed or how an enquiry is arranged.",
+  "sections": [
+    {
+      "heading": "Follow the detail, not a generic answer",
+      "paragraphs": [
+        "The questions below have deeper guides where a short answer cannot safely cover the model or installation. Product instructions and the installed system matter more than a universal reset or guessed component."
+      ]
+    },
+    {
+      "heading": "Technical information and review",
+      "paragraphs": [
+        "Manufacturer references support the product guides. Personal qualifications, review dates and case evidence are published only when their records are available. No star ratings, invented jobs or generic accreditation badges substitute for those facts."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a website FAQ identify the exact failed cylinder part?",
+      "answer": "No. FAQs help distinguish symptoms and prepare an enquiry; the exact cause often requires competent inspection of the installed system."
+    },
+    {
+      "question": "Where should I start if I cannot find a cylinder fault code?",
+      "answer": "Use the symptom guides. Many cylinders have no numeric display; record the model, heating method, flow, temperature and discharge behaviour."
+    },
+    {
+      "question": "What does diagnosis-led service mean for my quotation?",
+      "answer": "The fault and scope are established before a repair or replacement recommendation, with included work and costs explained before agreement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choosing a g3 engineer"
+    },
+    {
+      "path": "/problems",
+      "label": "Problems"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Fault codes"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [
+    "gov-g",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "faqs",
+  "targetIntent": "Questions before a cylinder service or repair",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Questions before a cylinder service or repair",
+      "path": "/faqs"
+    }
+  ]
+}

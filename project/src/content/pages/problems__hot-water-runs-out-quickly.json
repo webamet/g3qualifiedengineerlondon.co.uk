@@ -1,0 +1,90 @@
+{
+  "path": "/problems/hot-water-runs-out-quickly",
+  "type": "article",
+  "h1": "Stored hot water runs out too quickly",
+  "title": "Stored hot water runs out too quickly | G3 Cylinder Help",
+  "description": "Understand stored hot water runs out too quickly. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Early loss of hot water can reflect usable heated volume, household demand, heating time or a fault in the configured heater path.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A boost heater may heat only part of an applicable cylinder, while the normal timed arrangement serves a different heating demand. A change in showers, occupancy or simultaneous use can also exceed the previous capacity."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the model, normal heating schedule and approximate sequence of use. Do not rely on a universal litres-per-person formula to select a replacement."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does hot water running out always mean the cylinder is too small?",
+      "answer": "No. Heating schedules, available heat input, mixing and faults can reduce usable hot water; assess those before deciding a larger cylinder is needed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__hot-water-runs-out-quickly",
+  "targetIntent": "Stored hot water runs out too quickly",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Stored hot water runs out too quickly",
+      "path": "/problems/hot-water-runs-out-quickly"
+    }
+  ]
+}

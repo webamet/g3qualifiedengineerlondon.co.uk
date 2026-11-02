@@ -1,0 +1,3813 @@
+G3 WEBSITE CONTENT - 43 INDEPENDENT PAGE RECORDS
+
+Each block becomes one exact project JSON file. Render its visible answer, sections, bullets, tables, selective FAQs, sources and related links. Title and description are the page metadata. All paragraphs are final draft copy, not a request for lorem ipsum. Preserve nullable manual date/review fields; do not auto-invent them. The draft profile and legal content follow their flags.
+
+
+BEGIN FILE: src/content/pages/home.json
+{
+  "path": "/",
+  "type": "home",
+  "h1": "G3-qualified cylinder services in London",
+  "title": "G3 Qualified Engineer London | Megaflo & Cylinder Services",
+  "description": "Megaflo and unvented cylinder servicing, repairs and replacement in London. Discuss hot-water, pressure or tundish faults on 020 7205 4433.",
+  "answer": "Clear diagnosis for Megaflo and unvented hot-water problems. Discuss the symptoms, check London availability and understand the options before agreeing work.",
+  "sections": [
+    {
+      "heading": "When your hot water stops working, start with the symptom",
+      "paragraphs": [
+        "A cold shower, a dripping tundish and low flow need different investigations. G3 Qualified Engineer London focuses on unvented cylinders, Megaflo systems and the controls that affect reliable hot water. Tell us what has changed, whether other outlets are affected and which heat source normally heats the cylinder."
+      ]
+    },
+    {
+      "heading": "A specialist service with a practical approach",
+      "paragraphs": [
+        "The existing business service range includes planned servicing, fault diagnosis, cylinder repairs, installation and replacement assessments. Yassi leads the unvented hot-water work. Homeowners, landlords, letting agents and property managers can discuss a single fault or an agreed maintenance requirement.",
+        "We assess the cause before recommending components or replacement. A service enquiry is an opportunity to establish scope and availability; it is not an automatic booking or a promise of a same-day visit."
+      ]
+    },
+    {
+      "heading": "Choose the right next step",
+      "paragraphs": [],
+      "bullets": [
+        "No hot water: distinguish cold flowing water from no flow at all.",
+        "Water through a tundish: note whether it is constant or only during heating, without touching discharged water.",
+        "An electric boiler warning: photograph the model and the visible indicator pattern.",
+        "A planned service: share the last service record and access arrangements."
+      ]
+    },
+    {
+      "heading": "London coverage and clear contact",
+      "paragraphs": [
+        "Priority enquiries include Fulham, Acton and West London, alongside the areas listed on our coverage page. Appointment availability depends on postcode, system type, urgency and access. Call 020 7205 4433 or email info@g3qualifiedengineerlondon.co.uk.",
+        "This is an independent service business. Product names help identify equipment; they do not imply that this website is the manufacturer or its official service department."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What information helps you assess a hot-water enquiry?",
+      "answer": "Send your postcode, cylinder label, symptom, heating method and last service date; photographs of visible controls also help."
+    },
+    {
+      "question": "Can a Megaflo fault be diagnosed from a photograph alone?",
+      "answer": "Photographs help identify equipment, but safe diagnosis often requires on-site inspection and testing by a suitably competent engineer."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services",
+      "label": "Explore cylinder services"
+    },
+    {
+      "path": "/problems",
+      "label": "Find your hot-water symptom"
+    },
+    {
+      "path": "/brands/megaflo",
+      "label": "Megaflo help"
+    },
+    {
+      "path": "/areas",
+      "label": "Check coverage"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss your cylinder"
+    }
+  ],
+  "sourceIds": [
+    "gov-g",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-megaflo-eco-direct.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "home",
+  "targetIntent": "G3-qualified cylinder services in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/about.json
+{
+  "path": "/about",
+  "type": "about",
+  "h1": "Specialist unvented-cylinder support, led by Yassi",
+  "title": "About G3 Qualified Engineer London | Unvented Specialists",
+  "description": "Meet the G3 Qualified Engineer London service and its diagnosis-led approach to Megaflo, unvented cylinders and practical hot-water support.",
+  "answer": "The business focuses on unvented cylinders, Megaflo systems and diagnosis-led hot-water support for London homes and managed properties.",
+  "sections": [
+    {
+      "heading": "A focused service",
+      "paragraphs": [
+        "An unvented cylinder is a pressurised hot-water storage appliance with several safety layers. Choosing the correct person for the work matters as much as choosing a replacement component. Our service is built around the cylinder, expansion arrangement, pressure controls, discharge path and the system that heats the stored water."
+      ]
+    },
+    {
+      "heading": "Yassi and the service approach",
+      "paragraphs": [
+        "The existing website names Yassi as the lead engineer. The specialist focus is inspection, servicing and diagnosis of unvented-cylinder faults. We explain findings and discuss the proposed scope before agreed work begins.",
+        "Specific training records, certificate numbers, insurance details and manufacturer approvals should be checked when choosing an engineer. We do not use product branding as a substitute for those checks."
+      ]
+    },
+    {
+      "heading": "Advice that distinguishes systems",
+      "paragraphs": [
+        "Megaflo is a cylinder brand, Heatrae Sadia manufactures several different types of heating and water-heating products, and G3 relates to hot-water system safety. A qualification for unvented cylinders does not on its own establish permission to carry out gas work, complex electrical work or heat-pump refrigerant work.",
+        "The knowledge library separates those subjects and identifies where manufacturer instructions or additional competence are needed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does working on Megaflo mean the business is Heatrae Sadia itself?",
+      "answer": "No. This is an independent engineering service; manufacturer names identify equipment and do not establish an official manufacturer affiliation."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choosing a g3 engineer"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [
+    "gov-g",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "about",
+  "targetIntent": "Specialist unvented-cylinder support, led by Yassi",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Specialist unvented-cylinder support, led by Yassi",
+      "path": "/about"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/contact.json
+{
+  "path": "/contact",
+  "type": "contact",
+  "h1": "Discuss your cylinder or hot-water problem",
+  "title": "Contact G3 Qualified Engineer London | 020 7205 4433",
+  "description": "Call 020 7205 4433 or email info@g3qualifiedengineerlondon.co.uk. Share your postcode, cylinder model and symptoms to check service availability.",
+  "answer": "Call 020 7205 4433 or prepare an email enquiry. Provide the postcode, equipment label and symptoms so the right service can be discussed.",
+  "sections": [
+    {
+      "heading": "Speak to us",
+      "paragraphs": [
+        "Phone: 020 7205 4433. Email: info@g3qualifiedengineerlondon.co.uk. For an urgent discharge or electrical concern, use the telephone rather than relying on an email response. An appointment is confirmed only when availability and scope have been agreed."
+      ]
+    },
+    {
+      "heading": "Help us understand the equipment",
+      "paragraphs": [],
+      "bullets": [
+        "Property postcode and access contact.",
+        "Cylinder make, model and serial label if readable safely.",
+        "Whether hot water flows cold, flows weakly or does not flow.",
+        "Which normal heating source or off-peak programme is in use.",
+        "Any visible leak, discharge, light pattern or recent work."
+      ]
+    },
+    {
+      "heading": "What the enquiry form does",
+      "paragraphs": [
+        "The form prepares a message locally and offers a copy button and an email link. You send the message using your email application. It does not secretly send a form, upload photographs or create an appointment. Photographs can be attached in your email application after you review the message.",
+        "If you do not use an email application, copy the message into webmail or call us. Contact details are not stored in browser local storage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does submitting the enquiry draft book an engineer?",
+      "answer": "No. Send the email or call us; appointment details are confirmed after availability, system type and access are discussed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/areas",
+      "label": "Areas"
+    },
+    {
+      "path": "/pricing",
+      "label": "Pricing"
+    },
+    {
+      "path": "/problems/tundish-hot-water-or-steam",
+      "label": "Tundish hot water or steam"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "contact",
+  "targetIntent": "Discuss your cylinder or hot-water problem",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Discuss your cylinder or hot-water problem",
+      "path": "/contact"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__unvented-cylinder-servicing.json
+{
+  "path": "/services/unvented-cylinder-servicing",
+  "type": "service",
+  "h1": "Unvented cylinder servicing in London",
+  "title": "Unvented Cylinder Servicing London | G3 Engineer",
+  "description": "Discuss unvented cylinder servicing in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "A planned cylinder service checks the safety and operating arrangements for the actual model, not just whether a tap runs hot.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "An annual service is the manufacturer-recommended routine for many unvented cylinders, including Megaflo. It is different from a gas-boiler service and should follow the cylinder instructions. The visit may include the expansion provision, inlet controls, relief devices, visible discharge route, temperature controls and evidence of leakage. The precise checks depend on the make, model and configuration."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Bring the commissioning checklist, previous service notes and any guarantee paperwork together before the appointment. If an earlier visit found a defect, tell us what action was recommended. Cupboard storage should not prevent access to the appliance or controls."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "A completed service record can help demonstrate what was checked. It is not a replacement for installation notification, a gas safety record or a legionella risk assessment. Repairs found during a service should have a separately explained scope."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should I prepare before an unvented cylinder service?",
+      "answer": "Have the model label, previous service record and access details ready; clear stored items without moving pipework or controls."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-faq"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__unvented-cylinder-servicing",
+  "targetIntent": "Unvented cylinder servicing in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Unvented cylinder servicing in London",
+      "path": "/services/unvented-cylinder-servicing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__unvented-cylinder-repairs.json
+{
+  "path": "/services/unvented-cylinder-repairs",
+  "type": "service",
+  "h1": "Unvented cylinder repairs in London",
+  "title": "Unvented Cylinder Repairs London | Diagnose Hot-Water Faults",
+  "description": "Discuss unvented cylinder repairs in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Identify the failed component or system condition before deciding whether the cylinder itself needs replacing.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Loss of hot water can arise from the heating source, immersion heater, controls, inlet supply or outlet plumbing. Discharge has a different diagnostic route. We start with the symptom history and identify the cylinder type before proposing work. A photograph may help with identification, but component faults normally require competent inspection."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Repair decisions consider cylinder condition, parts availability, access and whether the installed safety arrangement remains suitable. A valve or heater repair should not hide a failing vessel or an unsafe discharge route. Where replacement is appropriate, the reasons should be explained."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Tell us whether a fault is intermittent, began after plumbing work or returns after a previous repair. Those details are often more useful than a guessed parts diagnosis. Agreed work is followed by appropriate operational checks and practical aftercare."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will a leaking component always require a new cylinder?",
+      "answer": "Not necessarily. The source, vessel condition, safety arrangement and parts availability determine whether component repair is a suitable option."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__unvented-cylinder-repairs",
+  "targetIntent": "Unvented cylinder repairs in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Unvented cylinder repairs in London",
+      "path": "/services/unvented-cylinder-repairs"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__megaflo-servicing.json
+{
+  "path": "/services/megaflo-servicing",
+  "type": "service",
+  "h1": "Megaflo servicing in London",
+  "title": "Megaflo Servicing London | G3 Cylinder Maintenance",
+  "description": "Discuss megaflo servicing in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Service the correct Megaflo model and its fitted controls, with attention to expansion provision and manufacturer service records.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Megaflo Eco, HE, SystemFit, SystemReady and larger Eco Plus units are not interchangeable service specifications. Some models use an internal air volume; others have external expansion arrangements. The engineer should identify the exact appliance rather than follow a generic internet air-gap routine."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Routine maintenance is the time to assess visible discharge, inlet controls, heating controls and the accessible condition of the installation. Share the previous record and describe any change in flow, reheating time or how often a tundish passes water."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Heatrae Sadia recommends annual appliance servicing. Follow the terms applying to your installed product for guarantee requirements; we cannot promise that an old or undocumented installation is covered by a particular warranty."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the same Megaflo service checklist right for every model?",
+      "answer": "No. The installed model, heating method and expansion arrangement determine the checks; match the manufacturer instructions to its data label."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-faq"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__megaflo-servicing",
+  "targetIntent": "Megaflo servicing in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Megaflo servicing in London",
+      "path": "/services/megaflo-servicing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__megaflo-repairs.json
+{
+  "path": "/services/megaflo-repairs",
+  "type": "service",
+  "h1": "Megaflo repairs in London",
+  "title": "Megaflo Repairs London | No Hot Water, Leaks & Discharge",
+  "description": "Discuss megaflo repairs in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Megaflo repair starts by distinguishing stored-water faults from the connected boiler, immersion or outlet that may cause the symptom.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "A cylinder can contain usable hot water while a single mixer shower remains cold. Equally, an indirect cylinder may be sound while a connected heating control fails to deliver heat to its coil. The investigation needs to separate the appliance from the supply and connected controls."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "For discharge faults, note whether water passes only during heating or continues when heating is off. Do not touch the water, hold relief valves open or block the pipe. The model and symptom history guide the safe investigation, not an assumption that every drip needs the same replacement."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Repairs should use components suitable for the exact model. Cylinder age, parts support, previous work and access all affect the practical decision. Ask for an explanation of what has failed and why the proposed work addresses the cause."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a boiler fault cause cold water from a Megaflo tap?",
+      "answer": "Yes, on an indirect system. The boiler or its controls may fail to heat the cylinder even when water still flows."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__megaflo-repairs",
+  "targetIntent": "Megaflo repairs in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Megaflo repairs in London",
+      "path": "/services/megaflo-repairs"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__cylinder-installation.json
+{
+  "path": "/services/cylinder-installation",
+  "type": "service",
+  "h1": "Unvented cylinder installation in London",
+  "title": "Unvented Cylinder Installation London | G3 Assessment",
+  "description": "Discuss unvented cylinder installation in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "A suitable installation needs a demand assessment, adequate supply, accessible controls and a compliant route for safety discharge.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Choosing a cylinder by nominal litres alone misses important constraints. Bathroom use, simultaneous demand, heating source and recovery must be considered alongside measured water flow. High standing pressure does not automatically guarantee enough flow when several outlets run."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "The survey should assess available space, full cylinder weight, structural support, service access and where discharge can safely terminate. Direct, indirect, solar and heat-pump cylinders have different heating and control requirements. The system designer must check compatibility, not just the footprint."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Ask how commissioning, user handover and any Building Regulations notification will be handled. G3 training and competent-person scheme registration are different matters. The notification route should be established for the job before work starts."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does holding G3 training automatically allow an installer to self-certify every installation?",
+      "answer": "No. Training and scheme registration differ; the installer must establish the correct notification route and competence for the actual work."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__cylinder-installation",
+  "targetIntent": "Unvented cylinder installation in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Unvented cylinder installation in London",
+      "path": "/services/cylinder-installation"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__cylinder-replacement.json
+{
+  "path": "/services/cylinder-replacement",
+  "type": "service",
+  "h1": "Hot-water cylinder replacement in London",
+  "title": "Cylinder Replacement London | Repair or Replace Advice",
+  "description": "Discuss hot-water cylinder replacement in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Replacement should solve a confirmed condition or capacity problem and preserve safe access, controls and discharge arrangements.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "A leaking vessel, unsupported parts, unsuitable capacity or a wider installation defect can make replacement appropriate. However, a failed immersion, control valve or thermostat alone does not automatically justify replacing a sound cylinder. A diagnosis-led comparison helps you assess the proposed scope."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "The replacement survey includes removal access and the complete fitted system. A narrow cupboard, altered bathroom demand or changed heat source may make an apparently similar cylinder unsuitable. Discharge and electrical arrangements should be assessed rather than inherited unchecked."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Compare the quoted cylinder model, included controls, disposal, commissioning, handover and notification arrangements. Manufacturer warranty terms differ between the vessel and individual components, and may require service records."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should a cylinder replacement quote identify?",
+      "answer": "The model, included controls, removal, installation, commissioning and notification arrangements should be clear, alongside any separate electrical or plumbing work."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__cylinder-replacement",
+  "targetIntent": "Hot-water cylinder replacement in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Hot-water cylinder replacement in London",
+      "path": "/services/cylinder-replacement"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__expansion-vessel-services.json
+{
+  "path": "/services/expansion-vessel-services",
+  "type": "service",
+  "h1": "Cylinder expansion-vessel assessment",
+  "title": "Cylinder Expansion Vessel Services London | G3 Diagnosis",
+  "description": "Discuss cylinder expansion-vessel assessment. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "An expansion vessel must suit the circuit it protects. Identify potable hot-water expansion separately from the boiler heating circuit.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "An external vessel can lose its intended working condition or develop a membrane fault. Repeated discharge during heating can be one clue, but inlet-pressure or valve faults also need consideration. The engineer should assess the correct circuit and model before recharging or replacing a vessel."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Some Megaflo models use an internal air volume, while other cylinders and larger Megaflo variants use external vessels. An internet instruction for one arrangement should not be applied to another. A nearby boiler expansion vessel is not automatically the cylinder vessel."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "No homeowner pressure value or tyre-pump procedure is provided here. Assessment and any recharge depend on safe isolation, the appliance instructions and competent testing. Continued discharge after attempted work needs the cause reviewed."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the red vessel next to my boiler necessarily the cylinder expansion vessel?",
+      "answer": "No. Appearance alone is unreliable; the pipe connections and system design establish which circuit and appliance the vessel protects."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__expansion-vessel-services",
+  "targetIntent": "Cylinder expansion-vessel assessment",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Cylinder expansion-vessel assessment",
+      "path": "/services/expansion-vessel-services"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__tundish-discharge-investigation.json
+{
+  "path": "/services/tundish-discharge-investigation",
+  "type": "service",
+  "h1": "Tundish discharge investigation in London",
+  "title": "Dripping Tundish Investigation London | G3 Cylinder Help",
+  "description": "Discuss tundish discharge investigation in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "A tundish makes relief discharge visible. The reason for water passing through it should be investigated rather than hidden.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Note whether the discharge is continuous, occurs only during reheating or has changed after plumbing work. Those observations help distinguish expansion, incoming pressure, valve seating and thermal-control problems. They are not a safe basis for changing valves yourself."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Hot water or steam discharge warrants urgent attention. On the Megaflo Eco system covered by its manual, stop the heat source using ordinary controls if safe, keep clear and contact a competent engineer; the manual says not to turn off the water supply for temperature-and-pressure relief discharge."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "A relief valve that is operating may be doing its protective job. Capping an outlet, removing a valve or restricting the discharge defeats that protection. Investigation must consider the complete safety and pressure arrangement."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I stop tundish dripping by plugging the discharge pipe?",
+      "answer": "No. Never cap or obstruct safety discharge; the cause requires assessment and the protective route must remain available."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__tundish-discharge-investigation",
+  "targetIntent": "Tundish discharge investigation in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Tundish discharge investigation in London",
+      "path": "/services/tundish-discharge-investigation"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__immersion-heater-and-thermostat.json
+{
+  "path": "/services/immersion-heater-and-thermostat",
+  "type": "service",
+  "h1": "Immersion heater and cylinder thermostat help",
+  "title": "Immersion Heater & Thermostat Help London | Cylinder Faults",
+  "description": "Discuss immersion heater and cylinder thermostat help. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "A heating failure may involve a supply, timer, immersion, thermostat or cut-out; electrical and cylinder competence must match the job.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "If an off-peak heater fails but boost still works, the fault is not necessarily the whole cylinder. On applicable systems, separate supplies, heater positions and timing arrangements can explain different behaviour. Share which normal control was used and whether a consumer-unit device has tripped."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Internal wiring, resistance testing and cut-out resets are not homeowner checks. Repeated operation of a protective device can indicate a fault requiring investigation. Do not repeatedly reset an RCD or bypass a thermal cut-out to restore hot water."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "A replacement element or control needs to suit the actual cylinder and electrical arrangement. G3 positioning alone does not establish every electrical qualification; the work should be assigned to a suitably competent person and tested appropriately."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does boost working prove that the off-peak immersion is healthy?",
+      "answer": "No. Boost and off-peak operation may use different heaters, controls or supplies; a competent person must identify the failed path."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__immersion-heater-and-thermostat",
+  "targetIntent": "Immersion heater and cylinder thermostat help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Immersion heater and cylinder thermostat help",
+      "path": "/services/immersion-heater-and-thermostat"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__landlord-cylinder-maintenance.json
+{
+  "path": "/services/landlord-cylinder-maintenance",
+  "type": "service",
+  "h1": "Cylinder support for landlords and property managers",
+  "title": "Landlord Cylinder Maintenance London | G3 Hot-Water Support",
+  "description": "Discuss cylinder support for landlords and property managers. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Keep model details, service notes and agreed access together so cylinder faults and planned maintenance can be managed responsibly.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "For a rented or managed property, the engineer may need a tenant contact, letting-agent authority, key arrangements and a clear approval limit. Planned servicing can reduce avoidable disruption, while a reliable record helps the next person understand what was inspected and changed."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "An unvented-cylinder service record is not the same document as a Landlord Gas Safety Record. There is no universal annual G3 landlord certificate equivalent to a gas safety record. Installation notification, maintenance, gas duties and water-system risk assessment should be treated separately."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "HSE expects landlords to consider legionella risks proportionately. A cylinder visit does not automatically constitute a full risk assessment or establish compliance across a building. Tell us whether the requested work concerns a single flat, communal equipment or a wider managed system."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a cylinder service record the same as a landlord gas safety certificate?",
+      "answer": "No. Cylinder maintenance, gas safety checks, installation notification and water-system risk assessment serve different purposes and should be arranged separately."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__landlord-cylinder-maintenance",
+  "targetIntent": "Cylinder support for landlords and property managers",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Cylinder support for landlords and property managers",
+      "path": "/services/landlord-cylinder-maintenance"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services__urgent-hot-water-help.json
+{
+  "path": "/services/urgent-hot-water-help",
+  "type": "service",
+  "h1": "Urgent hot-water and cylinder enquiries",
+  "title": "Urgent Cylinder Help London | Check Engineer Availability",
+  "description": "Discuss urgent hot-water and cylinder enquiries. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Call to discuss urgent discharge, a leak or loss of hot water. Attendance is arranged according to system type, location and capacity.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Explain whether the issue is loss of comfort, an active leak, hot discharge or an electrical warning. That distinction affects the first advice and the type of person required. Do not rely on a generic same-day promise when an unsafe system or special parts may need assessment."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "For hot or steaming relief discharge, stay clear and do not tamper with protective components. Use normal controls to stop heating if safe and follow the correct appliance user instructions. Electrical equipment affected by leaking water should not be touched."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "This enquiry service does not promise 24-hour cover, a fixed arrival time or immediate parts availability. Call 020 7205 4433 to discuss the situation. If there is an immediate threat to people, use the appropriate emergency service rather than waiting for a website reply."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is urgent attendance guaranteed when I send a website message?",
+      "answer": "No. Call to discuss the risk and availability; an email draft or enquiry does not confirm attendance or emergency cover."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__urgent-hot-water-help",
+  "targetIntent": "Urgent hot-water and cylinder enquiries",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Urgent hot-water and cylinder enquiries",
+      "path": "/services/urgent-hot-water-help"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/pricing.json
+{
+  "path": "/pricing",
+  "type": "web",
+  "h1": "What affects cylinder service and repair costs?",
+  "title": "Cylinder Service & Repair Costs London | Quote Factors",
+  "description": "Understand what affects Megaflo and cylinder service, repair and replacement quotes in London. Ask for a clear scope on 020 7205 4433.",
+  "answer": "Costs depend on the installed equipment, fault, access and agreed scope. A diagnosis-led quotation is more useful than an invented universal price.",
+  "sections": [
+    {
+      "heading": "Ask what is included",
+      "paragraphs": [
+        "A quotation should distinguish assessment, labour, components and any additional work. Ask whether VAT applies and how any call-out, travel or parking cost is handled. Those terms must be agreed; this website does not publish an unconfirmed tariff."
+      ]
+    },
+    {
+      "heading": "Why similar symptoms can have different costs",
+      "paragraphs": [
+        "A cold tap may involve a timer, electrical supply, immersion, thermostat or connected boiler. A leak at a replaceable joint is a different job from a leaking vessel. Access and the need for draining or specialist electrical work can change the scope."
+      ]
+    },
+    {
+      "heading": "Compare repair with replacement responsibly",
+      "paragraphs": [
+        "The cheaper immediate component is not always the appropriate solution if the vessel or safety arrangement is defective. Equally, replacement should not be recommended simply because a cylinder is old. Request the reasons, model details and included testing or commissioning."
+      ]
+    },
+    {
+      "heading": "Prepare an accurate enquiry",
+      "paragraphs": [
+        "Share the postcode, model label and symptom history. If there is previous written advice, include it. Call 020 7205 4433 or use the email-draft form to discuss the next step."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you publish a fixed price before the cylinder and fault are identified?",
+      "answer": "An unverified fixed price may mislead. The equipment, symptoms, access and included work should be identified before a reliable quote."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Unvented cylinder repairs"
+    },
+    {
+      "path": "/services/cylinder-replacement",
+      "label": "Cylinder replacement"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "pricing",
+  "targetIntent": "What affects cylinder service and repair costs?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "What affects cylinder service and repair costs?",
+      "path": "/pricing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__fulham.json
+{
+  "path": "/areas/fulham",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Fulham",
+  "title": "G3 Engineer Fulham | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Fulham. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Fulham cylinder support, identify the occupier, access contact and approving party before arranging a visit.",
+  "sections": [
+    {
+      "heading": "Access and a clear first enquiry",
+      "paragraphs": [
+        "A Fulham enquiry is most useful when the postcode, cylinder label and access arrangements are supplied together. For a rented property, identify who can authorise work and who will meet the engineer."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW6. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should a tenant send for a Fulham cylinder enquiry?",
+      "answer": "Send the SW6 postcode, cylinder label, symptoms and access contact, and identify the landlord or agent authorised to agree any work."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/landlord-cylinder-maintenance",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Fulham",
+  "fileKey": "areas__fulham",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Fulham",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Fulham",
+      "path": "/areas/fulham"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__acton.json
+{
+  "path": "/areas/acton",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Acton",
+  "title": "G3 Engineer Acton | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Acton. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For an Acton flow problem, explain any recent water shut-off or plumbing work as well as the current hot-water symptom.",
+  "sections": [
+    {
+      "heading": "Trace recent changes before changing parts",
+      "paragraphs": [
+        "Acton is a priority enquiry area. If loss of flow began after a water interruption or plumbing work, describe that sequence. A temperature fault and a new water-path restriction need different investigations."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W3. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why mention recent water shut-off when booking cylinder help in Acton?",
+      "answer": "It helps distinguish a new supply or water-path condition from a heating fault, directing the assessment before components are proposed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Acton",
+  "fileKey": "areas__acton",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Acton",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Acton",
+      "path": "/areas/acton"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__hammersmith.json
+{
+  "path": "/areas/hammersmith",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Hammersmith",
+  "title": "G3 Engineer Hammersmith | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Hammersmith. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Hammersmith servicing, describe the cylinder location and clear ordinary cupboard storage while leaving controls and pipework undisturbed.",
+  "sections": [
+    {
+      "heading": "Make cupboard access workable",
+      "paragraphs": [
+        "For a Hammersmith service enquiry, describe where the cylinder is installed and whether ordinary access is restricted. Move stored items only; do not shift controls or pipework to expose a component."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W6. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How should I prepare a cylinder cupboard before a Hammersmith service visit?",
+      "answer": "Clear stored items where safe and describe restricted access; leave the cylinder, wiring, controls and pipework in place for the engineer."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-servicing",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Hammersmith",
+  "fileKey": "areas__hammersmith",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Hammersmith",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Hammersmith",
+      "path": "/areas/hammersmith"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__chelsea.json
+{
+  "path": "/areas/chelsea",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Chelsea",
+  "title": "G3 Engineer Chelsea | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Chelsea. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Chelsea hot-water diagnosis, distinguish a single affected bathroom from cold or weak delivery throughout the property.",
+  "sections": [
+    {
+      "heading": "Separate one bathroom fault from a system fault",
+      "paragraphs": [
+        "For a Chelsea hot-water enquiry, say whether every outlet is affected or only one bathroom. If basin taps run hot while a shower remains cold, the local mixer and supply deserve assessment."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW3, SW10. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should a cold Chelsea shower prompt immediate cylinder replacement when other taps are hot?",
+      "answer": "No. Report that difference; the shower mixer and its local supplies may need investigation before any cylinder replacement is considered."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Chelsea",
+  "fileKey": "areas__chelsea",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Chelsea",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Chelsea",
+      "path": "/areas/chelsea"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__kensington.json
+{
+  "path": "/areas/kensington",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Kensington",
+  "title": "G3 Engineer Kensington | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Kensington. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For a Kensington repair-or-replacement enquiry, keep the model label, service history and previous written findings together.",
+  "sections": [
+    {
+      "heading": "Preserve the paperwork for a replacement decision",
+      "paragraphs": [
+        "A Kensington replacement enquiry should include the cylinder label and any previous defect report. The new unit must suit the heating source and complete installation, rather than simply match the old external size."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W8. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What records help compare cylinder repair and replacement in Kensington?",
+      "answer": "Provide the model, previous findings, service history and installation constraints so the vessel, components and replacement scope can be assessed together."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/cylinder-replacement",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Kensington",
+  "fileKey": "areas__kensington",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Kensington",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Kensington",
+      "path": "/areas/kensington"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__south-kensington.json
+{
+  "path": "/areas/south-kensington",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in South Kensington",
+  "title": "G3 Engineer South Kensington | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in South Kensington. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For a South Kensington flat, identify whether the hot-water equipment is privately controlled or part of a communal system.",
+  "sections": [
+    {
+      "heading": "Clarify individual versus communal equipment",
+      "paragraphs": [
+        "For a South Kensington flat, establish whether the cylinder belongs to the dwelling or whether the symptom relates to communal plant. Building-management contact details can help establish permission and scope."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW7. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should I check before arranging hot-water help in a managed South Kensington block?",
+      "answer": "Identify whether the equipment is within the flat or communal, and provide the managing agent contact and agreed access or authorisation."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/landlord-cylinder-maintenance",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "South Kensington",
+  "fileKey": "areas__south-kensington",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in South Kensington",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in South Kensington",
+      "path": "/areas/south-kensington"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__putney.json
+{
+  "path": "/areas/putney",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Putney",
+  "title": "G3 Engineer Putney | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Putney. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Putney timed-heating faults, report whether normal off-peak operation, boost or both have stopped producing hot water.",
+  "sections": [
+    {
+      "heading": "Record the normal heating schedule",
+      "paragraphs": [
+        "For Putney enquiries involving a direct cylinder, explain whether normal timed heating or boost has failed. Different supplies or immersion paths may operate independently; describe the actual controls in use."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW15. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is useful to report when boost works but timed cylinder heating fails in Putney?",
+      "answer": "State the model, normal schedule and working boost control; these details help separate timed supply, controls and immersion paths."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Putney",
+  "fileKey": "areas__putney",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Putney",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Putney",
+      "path": "/areas/putney"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__richmond.json
+{
+  "path": "/areas/richmond",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Richmond",
+  "title": "G3 Engineer Richmond | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Richmond. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Richmond installation enquiries, describe the space, removal access and current discharge route alongside household hot-water demand.",
+  "sections": [
+    {
+      "heading": "Survey the complete route for replacement",
+      "paragraphs": [
+        "A Richmond installation or replacement assessment needs the available space, removal route and intended location described. A compliant safety-discharge arrangement and accessible controls matter alongside cylinder capacity."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: TW9, TW10. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What installation details should accompany a Richmond replacement enquiry?",
+      "answer": "Describe location, available space, removal access and the current discharge route, alongside the model and household hot-water demand."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/cylinder-installation",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Richmond",
+  "fileKey": "areas__richmond",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Richmond",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Richmond",
+      "path": "/areas/richmond"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__maida-vale.json
+{
+  "path": "/areas/maida-vale",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Maida Vale",
+  "title": "G3 Engineer Maida Vale | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Maida Vale. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Maida Vale managed properties, establish the occupier contact, approving party and assessment scope before arranging attendance.",
+  "sections": [
+    {
+      "heading": "Coordinate ownership and approval",
+      "paragraphs": [
+        "A Maida Vale enquiry from a letting agent should identify the occupier contact, approving party and agreed assessment scope. Clear authority avoids a routine maintenance request becoming an unapproved replacement recommendation."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W9. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should a Maida Vale agent clarify when arranging cylinder attendance?",
+      "answer": "Provide the occupier contact, access arrangement, approving party and requested assessment scope, then agree availability before representing the visit as booked."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/landlord-cylinder-maintenance",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Maida Vale",
+  "fileKey": "areas__maida-vale",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Maida Vale",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Maida Vale",
+      "path": "/areas/maida-vale"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__st-johns-wood.json
+{
+  "path": "/areas/st-johns-wood",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+  "title": "G3 Engineer St John’s Wood | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in St John’s Wood. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For St John’s Wood performance enquiries, describe simultaneous outlet use, normal heating times and recovery between uses.",
+  "sections": [
+    {
+      "heading": "Explain simultaneous demand",
+      "paragraphs": [
+        "For St John’s Wood capacity or performance enquiries, describe normal simultaneous use and recovery between uses. Increasing nominal storage does not by itself cure a restricted incoming supply or outlet fault."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: NW8. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What helps assess hot water running out during multiple uses in St John’s Wood?",
+      "answer": "Describe simultaneous outlets, normal heating schedule and how quickly hot water returns; capacity, supply and available heat input need separate consideration."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/cylinder-replacement",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "St John’s Wood",
+  "fileKey": "areas__st-johns-wood",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+      "path": "/areas/st-johns-wood"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__ealing.json
+{
+  "path": "/areas/ealing",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Ealing",
+  "title": "G3 Engineer Ealing | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Ealing. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Ealing no-hot-water enquiries, identify whether electricity or a connected heating source normally heats the cylinder.",
+  "sections": [
+    {
+      "heading": "Identify direct or indirect heating",
+      "paragraphs": [
+        "An Ealing no-hot-water enquiry should say whether an immersion normally heats the water or a connected boiler supplies the cylinder coil. If unknown, a safely taken full-label photograph helps identification."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W5, W13. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why identify direct or indirect heating before an Ealing no-hot-water visit?",
+      "answer": "The heating arrangement changes the diagnostic path; electrical supplies and immersions differ from connected-boiler and coil-control investigations."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Ealing",
+  "fileKey": "areas__ealing",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Ealing",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Ealing",
+      "path": "/areas/ealing"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__notting-hill-gate.json
+{
+  "path": "/areas/notting-hill-gate",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Notting Hill Gate",
+  "title": "G3 Engineer Notting Hill Gate | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Notting Hill Gate. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For recurring Notting Hill Gate cylinder symptoms, share earlier findings, completed work and the timing of the returning problem.",
+  "sections": [
+    {
+      "heading": "Use written findings for recurring symptoms",
+      "paragraphs": [
+        "For a Notting Hill Gate symptom returning after work, share the earlier service findings and how long any improvement lasted. That information is more useful than assuming the same valve needs replacing again."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W2, W11. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should I send about a recurring Notting Hill Gate tundish problem?",
+      "answer": "Provide the model, previous service notes, work completed and discharge timing, including how quickly the symptom returned after improvement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Notting Hill Gate",
+  "fileKey": "areas__notting-hill-gate",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Notting Hill Gate",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Notting Hill Gate",
+      "path": "/areas/notting-hill-gate"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__holland-park.json
+{
+  "path": "/areas/holland-park",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Holland Park",
+  "title": "G3 Engineer Holland Park | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Holland Park. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Holland Park renewable-associated hot water, distinguish the installed solar-thermal or electrical PV arrangement before choosing a fault guide.",
+  "sections": [
+    {
+      "heading": "Match renewable configurations accurately",
+      "paragraphs": [
+        "For a Holland Park cylinder connected to solar or another renewable source, identify the actual product and controls. Solar-thermal input and solar-PV heating are different arrangements and should not share guessed fault codes."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W8, W11. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How should I describe solar-associated cylinder problems in Holland Park?",
+      "answer": "Provide the model and whether heating uses solar thermal or electrical PV input, then explain which back-up or normal function still operates."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Holland Park",
+  "fileKey": "areas__holland-park",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Holland Park",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Holland Park",
+      "path": "/areas/holland-park"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__shepherds-bush.json
+{
+  "path": "/areas/shepherds-bush",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Shepherd’s Bush",
+  "title": "G3 Engineer Shepherd’s Bush | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Shepherd’s Bush. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For Shepherd’s Bush discharge enquiries, observe when water passes through the tundish without touching it or adjusting safety valves.",
+  "sections": [
+    {
+      "heading": "Observe discharge timing safely",
+      "paragraphs": [
+        "For a Shepherd’s Bush discharge enquiry, state whether the tundish passes water continuously or only during reheating. Observe from a safe distance; do not touch the water or hold relief valves open."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: W12. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which discharge observations help a Shepherd’s Bush cylinder enquiry?",
+      "answer": "Report timing, whether it continues with heating off and any steam or obvious overheating, without touching discharge or adjusting safety valves."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Shepherd’s Bush",
+  "fileKey": "areas__shepherds-bush",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Shepherd’s Bush",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Shepherd’s Bush",
+      "path": "/areas/shepherds-bush"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas__earls-court.json
+{
+  "path": "/areas/earls-court",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in Earl’s Court",
+  "title": "G3 Engineer Earl’s Court | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in Earl’s Court. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For an older Earl’s Court cylinder, the full product label and archived model instructions help establish the correct assessment.",
+  "sections": [
+    {
+      "heading": "Find the correct archived product record",
+      "paragraphs": [
+        "An Earl’s Court enquiry for an older Heatrae Sadia or Santon appliance should include the whole label. The current successor product may not have the same controls, expansion arrangement or warranty terms."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: SW5. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What helps identify an older Santon or Megaflo cylinder in Earl’s Court?",
+      "answer": "Send the full model label and available commissioning record; archived manufacturer literature may match the installation better than current product descriptions."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/megaflo-repairs",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "Earl’s Court",
+  "fileKey": "areas__earls-court",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in Earl’s Court",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in Earl’s Court",
+      "path": "/areas/earls-court"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/services.json
+{
+  "path": "/services",
+  "type": "collection",
+  "h1": "Cylinder and Megaflo services",
+  "title": "Cylinder & Megaflo Services London | G3 Engineer",
+  "description": "Choose planned maintenance, diagnosis, component assessment or a replacement survey. Scope and appointment availability are agreed for the installed equipment.",
+  "answer": "Choose planned maintenance, diagnosis, component assessment or a replacement survey. Scope and appointment availability are agreed for the installed equipment.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Choose planned maintenance, diagnosis, component assessment or a replacement survey. Scope and appointment availability are agreed for the installed equipment."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/services/unvented-cylinder-servicing",
+      "label": "Unvented cylinder servicing in London"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Unvented cylinder repairs in London"
+    },
+    {
+      "path": "/services/megaflo-servicing",
+      "label": "Megaflo servicing in London"
+    },
+    {
+      "path": "/services/megaflo-repairs",
+      "label": "Megaflo repairs in London"
+    },
+    {
+      "path": "/services/cylinder-installation",
+      "label": "Unvented cylinder installation in London"
+    },
+    {
+      "path": "/services/cylinder-replacement",
+      "label": "Hot-water cylinder replacement in London"
+    },
+    {
+      "path": "/services/expansion-vessel-services",
+      "label": "Cylinder expansion-vessel assessment"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Tundish discharge investigation in London"
+    },
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Immersion heater and cylinder thermostat help"
+    },
+    {
+      "path": "/services/landlord-cylinder-maintenance",
+      "label": "Cylinder support for landlords and property managers"
+    },
+    {
+      "path": "/services/urgent-hot-water-help",
+      "label": "Urgent hot-water and cylinder enquiries"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "services",
+  "fileKey": "services",
+  "targetIntent": "Cylinder and Megaflo services",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Cylinder and Megaflo services",
+      "path": "/services"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands.json
+{
+  "path": "/brands",
+  "type": "collection",
+  "h1": "Cylinder brands and system identification",
+  "title": "Cylinder Brand Guides | Megaflo, Heatrae Sadia & More",
+  "description": "Identify the brand and full model before choosing a symptom guide. The equipment library distinguishes cylinder designs, thermal stores and electric heating products.",
+  "answer": "Identify the brand and full model before choosing a symptom guide. The equipment library distinguishes cylinder designs, thermal stores and electric heating products.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Identify the brand and full model before choosing a symptom guide. The equipment library distinguishes cylinder designs, thermal stores and electric heating products."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Megaflo: identification and hot-water help"
+    },
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Heatrae Sadia: identification and hot-water help"
+    },
+    {
+      "path": "/brands/santon-premierplus",
+      "label": "Santon and PremierPlus: identification and hot-water help"
+    },
+    {
+      "path": "/brands/gledhill",
+      "label": "Gledhill cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/oso",
+      "label": "OSO hot-water cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/joule",
+      "label": "Joule cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/rm-stelflow",
+      "label": "RM and Stelflow cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/telford-tempest",
+      "label": "Telford Tempest cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/vaillant-unistor",
+      "label": "Vaillant uniSTOR cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/worcester-greenstore",
+      "label": "Worcester Greenstore cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/viessmann-vitocell",
+      "label": "Viessmann Vitocell cylinders: identification and hot-water help"
+    },
+    {
+      "path": "/brands/mixergy",
+      "label": "Mixergy cylinders: connected control and hot-water help"
+    },
+    {
+      "path": "/brands/kingspan",
+      "label": "Kingspan cylinders: labels, records and service enquiries"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "brands",
+  "fileKey": "brands",
+  "targetIntent": "Cylinder brands and system identification",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Cylinder brands and system identification",
+      "path": "/brands"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products.json
+{
+  "path": "/products",
+  "type": "collection",
+  "h1": "Megaflo and Heatrae Sadia product guides",
+  "title": "Megaflo & Heatrae Sadia Models | Product Knowledge",
+  "description": "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction.",
+  "answer": "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-direct",
+      "label": "Megaflo Eco Direct: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Megaflo Eco Indirect: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-slimline",
+      "label": "Megaflo Eco Slimline: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-systemfit",
+      "label": "Megaflo Eco SystemFit: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-systemready",
+      "label": "Megaflo Eco SystemReady: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-solar",
+      "label": "Megaflo Eco Solar: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-solar-pv-ready",
+      "label": "Megaflo Eco Solar PV Ready: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-plus",
+      "label": "Megaflo Eco Plus: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-plus-flexistor",
+      "label": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-he",
+      "label": "Legacy Megaflo HE: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Heatrae Sadia Amptec: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-electromax",
+      "label": "Heatrae Sadia Electromax: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-premierplus",
+      "label": "Heatrae Sadia PremierPlus: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-multipoint-ss",
+      "label": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-multipoint-instantaneous",
+      "label": "Heatrae Sadia Multipoint Instantaneous: operation, symptoms and model guidance"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "products",
+  "fileKey": "products",
+  "targetIntent": "Megaflo and Heatrae Sadia product guides",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Megaflo and Heatrae Sadia product guides",
+      "path": "/products"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/problems.json
+{
+  "path": "/problems",
+  "type": "collection",
+  "h1": "Find your cylinder or hot-water symptom",
+  "title": "Cylinder Problems | No Hot Water, Tundish & Pressure Help",
+  "description": "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes.",
+  "answer": "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/problems/no-hot-water",
+      "label": "No hot water from an unvented cylinder"
+    },
+    {
+      "path": "/problems/hot-taps-running-cold",
+      "label": "Hot taps run, but the water is cold"
+    },
+    {
+      "path": "/problems/water-warm-not-hot",
+      "label": "Cylinder water is warm rather than hot"
+    },
+    {
+      "path": "/problems/hot-water-runs-out-quickly",
+      "label": "Stored hot water runs out too quickly"
+    },
+    {
+      "path": "/problems/slow-hot-water-recovery",
+      "label": "A cylinder takes too long to reheat"
+    },
+    {
+      "path": "/problems/low-hot-water-pressure",
+      "label": "Low hot-water flow or pressure"
+    },
+    {
+      "path": "/problems/no-flow-from-hot-taps",
+      "label": "No water flows from hot taps"
+    },
+    {
+      "path": "/problems/tundish-dripping-continuously",
+      "label": "A tundish drips continuously"
+    },
+    {
+      "path": "/problems/tundish-drips-when-heating",
+      "label": "A tundish drips only while heating"
+    },
+    {
+      "path": "/problems/tundish-hot-water-or-steam",
+      "label": "Hot water or steam from cylinder discharge"
+    },
+    {
+      "path": "/problems/cylinder-leaking",
+      "label": "Water is leaking around a cylinder"
+    },
+    {
+      "path": "/problems/valve-or-pipework-leak",
+      "label": "A cylinder valve or pipe joint is leaking"
+    },
+    {
+      "path": "/problems/megaflo-air-gap-keeps-losing",
+      "label": "A Megaflo air-gap problem keeps returning"
+    },
+    {
+      "path": "/problems/expansion-vessel-problem",
+      "label": "Possible cylinder expansion-vessel problem"
+    },
+    {
+      "path": "/problems/off-peak-not-working-boost-works",
+      "label": "Off-peak hot water fails, but boost works"
+    },
+    {
+      "path": "/problems/immersion-heater-trips-electrics",
+      "label": "An immersion heater trips the electrics"
+    },
+    {
+      "path": "/problems/thermal-cut-out-keeps-tripping",
+      "label": "A cylinder thermal cut-out keeps operating"
+    },
+    {
+      "path": "/problems/noisy-cylinder",
+      "label": "New noises from a hot-water cylinder"
+    },
+    {
+      "path": "/problems/shower-cold-other-taps-hot",
+      "label": "The shower is cold, but other taps are hot"
+    },
+    {
+      "path": "/problems/cold-taps-running-warm",
+      "label": "Warm water appears at a cold tap"
+    },
+    {
+      "path": "/problems/water-hammer",
+      "label": "Banging pipes or water hammer near a cylinder"
+    },
+    {
+      "path": "/problems/milky-hot-water",
+      "label": "Hot water looks milky or cloudy"
+    },
+    {
+      "path": "/problems/high-hot-water-bills",
+      "label": "Hot-water energy use seems unusually high"
+    },
+    {
+      "path": "/problems/fault-returns-after-service",
+      "label": "The cylinder symptom returns after a service"
+    },
+    {
+      "path": "/problems/no-flow-after-plumbing-work",
+      "label": "Hot-water flow changes after plumbing work"
+    },
+    {
+      "path": "/problems/mixergy-offline",
+      "label": "Mixergy is offline: is hot water still available?"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "problems",
+  "fileKey": "problems",
+  "targetIntent": "Find your cylinder or hot-water symptom",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Find your cylinder or hot-water symptom",
+      "path": "/problems"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/fault-codes.json
+{
+  "path": "/fault-codes",
+  "type": "collection",
+  "h1": "Fault codes, lights and symptoms: choose the correct appliance",
+  "title": "Heatrae Sadia Indicators & Cylinder Faults | G3 Guides",
+  "description": "Most conventional cylinders do not display a universal numeric fault code. Amptec indicators and Electromax diagnostic paths belong to their specific electric-boiler.",
+  "answer": "Most conventional cylinders do not display a universal numeric fault code. Amptec indicators and Electromax diagnostic paths belong to their specific electric-boiler controls.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Most conventional cylinders do not display a universal numeric fault code. Amptec indicators and Electromax diagnostic paths belong to their specific electric-boiler controls."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/fault-codes/amptec-top-alarm-flashing-red",
+      "label": "Amptec top ALARM flashing red"
+    },
+    {
+      "path": "/fault-codes/amptec-top-alarm-steady-red",
+      "label": "Amptec top ALARM steady red"
+    },
+    {
+      "path": "/fault-codes/amptec-bottom-call-flashing-red",
+      "label": "Amptec bottom CALL flashing red"
+    },
+    {
+      "path": "/fault-codes/amptec-bottom-call-steady-red",
+      "label": "Amptec bottom CALL steady red"
+    },
+    {
+      "path": "/fault-codes/amptec-call-green-flashing",
+      "label": "Amptec CALL flashes green during demand"
+    },
+    {
+      "path": "/fault-codes/electromax-demand-flashing",
+      "label": "Electromax demand indication keeps flashing"
+    },
+    {
+      "path": "/fault-codes/mixergy-controller-led-status",
+      "label": "Mixergy controller LED status: match the pattern"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "indicators",
+  "fileKey": "fault-codes",
+  "targetIntent": "Fault codes, lights and symptoms: choose the correct appliance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes, lights and symptoms: choose the correct appliance",
+      "path": "/fault-codes"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/knowledge.json
+{
+  "path": "/knowledge",
+  "type": "collection",
+  "h1": "Unvented hot-water knowledge library",
+  "title": "G3 & Unvented Cylinder Knowledge | Practical Answers",
+  "description": "Explore G3 competence, cylinder maintenance, installation paperwork, heating arrangements and safe model identification. Use the information to prepare an informed.",
+  "answer": "Explore G3 competence, cylinder maintenance, installation paperwork, heating arrangements and safe model identification. Use the information to prepare an informed enquiry.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Explore G3 competence, cylinder maintenance, installation paperwork, heating arrangements and safe model identification. Use the information to prepare an informed enquiry."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/knowledge/what-g3-qualified-means",
+      "label": "What does G3-qualified mean?"
+    },
+    {
+      "path": "/knowledge/g3-versus-gas-safe",
+      "label": "G3 qualification versus Gas Safe registration"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "How to choose an unvented-cylinder engineer"
+    },
+    {
+      "path": "/knowledge/annual-cylinder-servicing",
+      "label": "How often should an unvented cylinder be serviced?"
+    },
+    {
+      "path": "/knowledge/cylinder-installation-paperwork",
+      "label": "Cylinder commissioning and installation paperwork"
+    },
+    {
+      "path": "/knowledge/direct-versus-indirect-cylinder",
+      "label": "Direct versus indirect hot-water cylinders"
+    },
+    {
+      "path": "/knowledge/air-gap-versus-expansion-vessel",
+      "label": "Internal air volume versus an expansion vessel"
+    },
+    {
+      "path": "/knowledge/cylinder-temperature-and-safety",
+      "label": "Cylinder storage temperature and safe hot-water delivery"
+    },
+    {
+      "path": "/knowledge/cylinder-sizing-and-flow",
+      "label": "Cylinder sizing, recovery and incoming water flow"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the correct cylinder or electric-boiler manual"
+    },
+    {
+      "path": "/knowledge/landlord-hot-water-records",
+      "label": "Hot-water records for landlords and managing agents"
+    },
+    {
+      "path": "/knowledge/repair-or-replace-cylinder",
+      "label": "Should I repair or replace my cylinder?"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "knowledge",
+  "fileKey": "knowledge",
+  "targetIntent": "Unvented hot-water knowledge library",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Unvented hot-water knowledge library",
+      "path": "/knowledge"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/areas.json
+{
+  "path": "/areas",
+  "type": "collection",
+  "h1": "London coverage and postcode enquiries",
+  "title": "London G3 Service Areas | Fulham, Acton & West London",
+  "description": "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system.",
+  "answer": "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    },
+    {
+      "heading": "Further areas retained from the existing website",
+      "paragraphs": [
+        "The current site also names Westminster, Mayfair, Marylebone, Paddington, Bayswater, Notting Hill, Chiswick, Battersea, Clapham, Wandsworth, Twickenham, Hampstead, Camden, Highgate and Islington. Selected attendance elsewhere is discussed by postcode; no unverified office addresses or brand-installation density claims are made."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/areas/fulham",
+      "label": "G3 cylinder and Megaflo enquiries in Fulham"
+    },
+    {
+      "path": "/areas/acton",
+      "label": "G3 cylinder and Megaflo enquiries in Acton"
+    },
+    {
+      "path": "/areas/hammersmith",
+      "label": "G3 cylinder and Megaflo enquiries in Hammersmith"
+    },
+    {
+      "path": "/areas/chelsea",
+      "label": "G3 cylinder and Megaflo enquiries in Chelsea"
+    },
+    {
+      "path": "/areas/kensington",
+      "label": "G3 cylinder and Megaflo enquiries in Kensington"
+    },
+    {
+      "path": "/areas/south-kensington",
+      "label": "G3 cylinder and Megaflo enquiries in South Kensington"
+    },
+    {
+      "path": "/areas/putney",
+      "label": "G3 cylinder and Megaflo enquiries in Putney"
+    },
+    {
+      "path": "/areas/richmond",
+      "label": "G3 cylinder and Megaflo enquiries in Richmond"
+    },
+    {
+      "path": "/areas/maida-vale",
+      "label": "G3 cylinder and Megaflo enquiries in Maida Vale"
+    },
+    {
+      "path": "/areas/st-johns-wood",
+      "label": "G3 cylinder and Megaflo enquiries in St John’s Wood"
+    },
+    {
+      "path": "/areas/ealing",
+      "label": "G3 cylinder and Megaflo enquiries in Ealing"
+    },
+    {
+      "path": "/areas/notting-hill-gate",
+      "label": "G3 cylinder and Megaflo enquiries in Notting Hill Gate"
+    },
+    {
+      "path": "/areas/holland-park",
+      "label": "G3 cylinder and Megaflo enquiries in Holland Park"
+    },
+    {
+      "path": "/areas/shepherds-bush",
+      "label": "G3 cylinder and Megaflo enquiries in Shepherd’s Bush"
+    },
+    {
+      "path": "/areas/earls-court",
+      "label": "G3 cylinder and Megaflo enquiries in Earl’s Court"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "areas",
+  "fileKey": "areas",
+  "targetIntent": "London coverage and postcode enquiries",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "London coverage and postcode enquiries",
+      "path": "/areas"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/faqs.json
+{
+  "path": "/faqs",
+  "type": "faq",
+  "h1": "Questions before a cylinder service or repair",
+  "title": "G3 Cylinder FAQs | Servicing, Repairs & Booking Questions",
+  "description": "Practical answers about G3 cylinder service enquiries, model identification, urgent symptoms and paperwork. Follow each subject to its detailed guide.",
+  "answer": "Choose a question by its real decision: who should do the work, what the symptom means, what record is needed or how an enquiry is arranged.",
+  "sections": [
+    {
+      "heading": "Follow the detail, not a generic answer",
+      "paragraphs": [
+        "The questions below have deeper guides where a short answer cannot safely cover the model or installation. Product instructions and the installed system matter more than a universal reset or guessed component."
+      ]
+    },
+    {
+      "heading": "Technical information and review",
+      "paragraphs": [
+        "Manufacturer references support the product guides. Personal qualifications, review dates and case evidence are published only when their records are available. No star ratings, invented jobs or generic accreditation badges substitute for those facts."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a website FAQ identify the exact failed cylinder part?",
+      "answer": "No. FAQs help distinguish symptoms and prepare an enquiry; the exact cause often requires competent inspection of the installed system."
+    },
+    {
+      "question": "Where should I start if I cannot find a cylinder fault code?",
+      "answer": "Use the symptom guides. Many cylinders have no numeric display; record the model, heating method, flow, temperature and discharge behaviour."
+    },
+    {
+      "question": "What does diagnosis-led service mean for my quotation?",
+      "answer": "The fault and scope are established before a repair or replacement recommendation, with included work and costs explained before agreement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choosing a g3 engineer"
+    },
+    {
+      "path": "/problems",
+      "label": "Problems"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Fault codes"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [
+    "gov-g",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "faqs",
+  "targetIntent": "Questions before a cylinder service or repair",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Questions before a cylinder service or repair",
+      "path": "/faqs"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/author__yassi.json
+{
+  "path": "/author/yassi",
+  "type": "profile",
+  "h1": "Yassi: unvented hot-water engineering",
+  "title": "Yassi | G3 Qualified Engineer London",
+  "description": "Meet Yassi, the lead unvented hot-water engineer named by G3 Qualified Engineer London, with a focus on cylinder servicing and practical fault diagnosis.",
+  "answer": "Yassi is the lead engineer named on the existing G3 website, with a service focus on unvented cylinders and Megaflo hot-water diagnosis.",
+  "sections": [
+    {
+      "heading": "Specialist focus",
+      "paragraphs": [
+        "The existing service describes cylinder servicing, pressure and discharge investigation, hot-water fault diagnosis and practical repair-or-replacement assessment. The biography should focus on that verified business scope."
+      ]
+    },
+    {
+      "heading": "A clear approach to cylinder enquiries",
+      "paragraphs": [
+        "The service focuses on understanding the installed cylinder, identifying the symptom and explaining the appropriate next step. Homeowners, landlords and property managers can discuss maintenance, faults or replacement assessments with the business before agreeing work."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/about",
+      "label": "About"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "approvalRequired": true,
+  "fileKey": "author__yassi",
+  "targetIntent": "Yassi: unvented hot-water engineering",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Yassi: unvented hot-water engineering",
+      "path": "/author/yassi"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/privacy-policy.json
+{
+  "path": "/privacy-policy",
+  "type": "policy",
+  "h1": "Privacy notice",
+  "title": "Privacy Notice | G3 Qualified Engineer London",
+  "description": "How G3 Qualified Engineer London handles service enquiries and website contact information. Contact info@g3qualifiedengineerlondon.co.uk with privacy questions.",
+  "answer": "This notice describes the email-draft contact workflow. Your enquiry is prepared locally until you choose to send it using your email service.",
+  "sections": [
+    {
+      "heading": "Enquiries and purpose",
+      "paragraphs": [
+        "You may provide a name, telephone, email, postcode, equipment details and symptom information so the business can answer your enquiry and discuss work. Share only information needed for the job and avoid including sensitive personal information in photographs. Contact info@g3qualifiedengineerlondon.co.uk for privacy enquiries."
+      ]
+    },
+    {
+      "heading": "What happens in the contact form",
+      "paragraphs": [
+        "The draft form validates and composes a message in your browser. It does not submit a background enquiry or upload photos. When you send the message through email, your chosen provider and the receiving business email service process it under their own arrangements. Hosting services may handle technical request logs."
+      ]
+    },
+    {
+      "heading": "Retention and rights",
+      "paragraphs": [
+        "Information should be kept only as long as required for the enquiry, agreed work and applicable obligations. You can contact the business about access, correction, deletion or another applicable data-protection right. You may also raise a concern with the Information Commissioner’s Office at https://ico.org.uk/."
+      ]
+    },
+    {
+      "heading": "Changes and further information",
+      "paragraphs": [
+        "This notice should remain accurate when enquiry handling or website services change. For information about the business handling your enquiry, its service providers or the records held about you, contact info@g3qualifiedengineerlondon.co.uk."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Contact"
+    },
+    {
+      "path": "/cookie-policy",
+      "label": "Cookie policy"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "legalReviewRequired": true,
+  "fileKey": "privacy-policy",
+  "targetIntent": "Privacy notice",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Privacy notice",
+      "path": "/privacy-policy"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/cookie-policy.json
+{
+  "path": "/cookie-policy",
+  "type": "policy",
+  "h1": "Cookies and browser storage",
+  "title": "Cookie Policy | G3 Qualified Engineer London",
+  "description": "Information about the G3 website’s browser storage, optional media and analytics settings. Non-essential tracking remains off unless explicitly enabled.",
+  "answer": "The supplied default build uses no advertising or analytics tracking. Enquiry details are not stored in browser local storage.",
+  "sections": [
+    {
+      "heading": "Default website operation",
+      "paragraphs": [
+        "The contact draft runs in the browser and does not require advertising or analytics cookies. Basic hosting and security functions may handle technical requests. No analytics identifier or marketing tag is supplied for this build."
+      ]
+    },
+    {
+      "heading": "Optional media and preferences",
+      "paragraphs": [
+        "If optional third-party media or analytics is later enabled, obtain applicable consent before loading it. A consent preference may be saved locally, with a clearly labelled way to change it. A manufacturer video can instead be opened as an external resource link."
+      ]
+    },
+    {
+      "heading": "Updates to this notice",
+      "paragraphs": [
+        "No optional analytics or advertising tracker is enabled in the supplied website. If optional services are introduced, their actual processing and any relevant browser storage should be described here, with applicable choices available before loading them."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/privacy-policy",
+      "label": "Privacy policy"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "legalReviewRequired": true,
+  "fileKey": "cookie-policy",
+  "targetIntent": "Cookies and browser storage",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Cookies and browser storage",
+      "path": "/cookie-policy"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/terms.json
+{
+  "path": "/terms",
+  "type": "policy",
+  "h1": "Website and enquiry terms",
+  "title": "Website Terms | G3 Qualified Engineer London",
+  "description": "Terms for using G3 hot-water guidance and making a service enquiry. Appointment availability, job scope and costs are agreed separately.",
+  "answer": "The website supports information and enquiries. Reading a guide or preparing an email does not create an appointment or an agreed job.",
+  "sections": [
+    {
+      "heading": "Information and equipment scope",
+      "paragraphs": [
+        "Guides help identify cylinder types, symptoms and questions. Technical work must follow the appropriate manufacturer instructions and be performed by someone competent for the task. Information is not an on-site diagnosis or permission to alter gas, electrical or unvented safety equipment."
+      ]
+    },
+    {
+      "heading": "Appointments and quotations",
+      "paragraphs": [
+        "Availability is discussed for the actual postcode, equipment, urgency and access. No 24-hour cover, same-day arrival or fixed tariff is promised here. Work, components, payment terms and any charges are agreed in the relevant quotation or booking communication."
+      ]
+    },
+    {
+      "heading": "Brand names and resources",
+      "paragraphs": [
+        "Manufacturer and product names identify equipment. This independent website does not claim to be a manufacturer service department. External resources belong to their respective publishers and may change."
+      ]
+    },
+    {
+      "heading": "Your legal rights and job terms",
+      "paragraphs": [
+        "These website terms do not exclude statutory consumer rights. Before agreeing work, request the written quotation and relevant job terms identifying the contracting business, cancellation, payment and complaints arrangements. Those terms apply to the actual job rather than a general information page."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Contact"
+    },
+    {
+      "path": "/pricing",
+      "label": "Pricing"
+    },
+    {
+      "path": "/privacy-policy",
+      "label": "Privacy policy"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "legalReviewRequired": true,
+  "fileKey": "terms",
+  "targetIntent": "Website and enquiry terms",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Website and enquiry terms",
+      "path": "/terms"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/404.json
+{
+  "path": "/404",
+  "type": "notfound",
+  "h1": "We could not find that page",
+  "title": "Page Not Found | G3 Qualified Engineer London",
+  "description": "Find cylinder services, symptom guides or contact G3 Qualified Engineer London after a missing website link.",
+  "answer": "Check the address or use the linked service, problem and knowledge pages. If you followed an old link, send it to the business so it can be checked.",
+  "sections": [
+    {
+      "heading": "Continue with a useful subject",
+      "paragraphs": [
+        "Start with the service you need, the symptom you see or the full equipment model. A missing page must return a real 404 status; it should not silently display a homepage under the old address."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/",
+      "label": "Home"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/problems",
+      "label": "Problems"
+    },
+    {
+      "path": "/knowledge",
+      "label": "Knowledge"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "404",
+  "targetIntent": "We could not find that page",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "We could not find that page",
+      "path": "/404"
+    }
+  ]
+}
+END FILE

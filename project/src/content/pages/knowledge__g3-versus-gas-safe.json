@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/g3-versus-gas-safe",
+  "type": "article",
+  "h1": "G3 qualification versus Gas Safe registration",
+  "title": "G3 qualification versus Gas Safe registration | G3 Hot-Water Knowledge",
+  "description": "Understand g3 qualification versus gas safe registration with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "G3 unvented-cylinder competence and Gas Safe registration relate to different work. Neither should be used as a blanket substitute for the other.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "An electrically heated unvented cylinder does not become a gas appliance because it supplies hot taps. Conversely, an indirect cylinder can be connected to a gas boiler, and work on that gas appliance requires appropriate gas registration and competence."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Check the individual and the work categories, not just a logo on a website. Additional electrical competence may be necessary for immersion, supply or control work. This website does not publish an unverified Gas Safe number or imply that every G3 engineer is gas registered."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does G3 qualification automatically prove Gas Safe registration?",
+      "answer": "No. They address different work; check current gas registration and relevant categories whenever gas work forms part of the job."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__g3-versus-gas-safe",
+  "targetIntent": "G3 qualification versus Gas Safe registration",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "G3 qualification versus Gas Safe registration",
+      "path": "/knowledge/g3-versus-gas-safe"
+    }
+  ]
+}

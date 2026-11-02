@@ -1,0 +1,85 @@
+{
+  "path": "/services/tundish-discharge-investigation",
+  "type": "service",
+  "h1": "Tundish discharge investigation in London",
+  "title": "Dripping Tundish Investigation London | G3 Cylinder Help",
+  "description": "Discuss tundish discharge investigation in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "A tundish makes relief discharge visible. The reason for water passing through it should be investigated rather than hidden.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "Note whether the discharge is continuous, occurs only during reheating or has changed after plumbing work. Those observations help distinguish expansion, incoming pressure, valve seating and thermal-control problems. They are not a safe basis for changing valves yourself."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "Hot water or steam discharge warrants urgent attention. On the Megaflo Eco system covered by its manual, stop the heat source using ordinary controls if safe, keep clear and contact a competent engineer; the manual says not to turn off the water supply for temperature-and-pressure relief discharge."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "A relief valve that is operating may be doing its protective job. Capping an outlet, removing a valve or restricting the discharge defeats that protection. Investigation must consider the complete safety and pressure arrangement."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I stop tundish dripping by plugging the discharge pipe?",
+      "answer": "No. Never cap or obstruct safety discharge; the cause requires assessment and the protective route must remain available."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__tundish-discharge-investigation",
+  "targetIntent": "Tundish discharge investigation in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Tundish discharge investigation in London",
+      "path": "/services/tundish-discharge-investigation"
+    }
+  ]
+}

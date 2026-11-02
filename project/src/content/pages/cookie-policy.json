@@ -1,0 +1,61 @@
+{
+  "path": "/cookie-policy",
+  "type": "policy",
+  "h1": "Cookies and browser storage",
+  "title": "Cookie Policy | G3 Qualified Engineer London",
+  "description": "Information about the G3 website’s browser storage, optional media and analytics settings. Non-essential tracking remains off unless explicitly enabled.",
+  "answer": "The supplied default build uses no advertising or analytics tracking. Enquiry details are not stored in browser local storage.",
+  "sections": [
+    {
+      "heading": "Default website operation",
+      "paragraphs": [
+        "The contact draft runs in the browser and does not require advertising or analytics cookies. Basic hosting and security functions may handle technical requests. No analytics identifier or marketing tag is supplied for this build."
+      ]
+    },
+    {
+      "heading": "Optional media and preferences",
+      "paragraphs": [
+        "If optional third-party media or analytics is later enabled, obtain applicable consent before loading it. A consent preference may be saved locally, with a clearly labelled way to change it. A manufacturer video can instead be opened as an external resource link."
+      ]
+    },
+    {
+      "heading": "Updates to this notice",
+      "paragraphs": [
+        "No optional analytics or advertising tracker is enabled in the supplied website. If optional services are introduced, their actual processing and any relevant browser storage should be described here, with applicable choices available before loading them."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/privacy-policy",
+      "label": "Privacy policy"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "legalReviewRequired": true,
+  "fileKey": "cookie-policy",
+  "targetIntent": "Cookies and browser storage",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Cookies and browser storage",
+      "path": "/cookie-policy"
+    }
+  ]
+}

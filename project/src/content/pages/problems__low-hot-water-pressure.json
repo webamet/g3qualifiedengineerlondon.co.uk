@@ -1,0 +1,90 @@
+{
+  "path": "/problems/low-hot-water-pressure",
+  "type": "article",
+  "h1": "Low hot-water flow or pressure",
+  "title": "Low hot-water flow or pressure | G3 Cylinder Help",
+  "description": "Understand low hot-water flow or pressure. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Weak delivery may involve the incoming water supply, inlet controls, restrictions or local outlets. Cylinder expansion is not a universal flow fix.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Standing pressure and usable flow under demand are different measurements. One weak outlet suggests a different investigation from every hot tap becoming weak. An internal air-gap routine should not be sold as a guaranteed pressure upgrade."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note whether cold outlets are also affected and what happens when more than one outlet runs. A competent assessment can separate supply limitations from a repairable restriction."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will replenishing a Megaflo air gap always increase shower flow?",
+      "answer": "No. Expansion provision and outlet flow are different issues; supply, restrictions and shower controls need their own assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__low-hot-water-pressure",
+  "targetIntent": "Low hot-water flow or pressure",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Low hot-water flow or pressure",
+      "path": "/problems/low-hot-water-pressure"
+    }
+  ]
+}

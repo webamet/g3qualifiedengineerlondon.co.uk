@@ -1,0 +1,59 @@
+{
+  "path": "/author/yassi",
+  "type": "profile",
+  "h1": "Yassi: unvented hot-water engineering",
+  "title": "Yassi | G3 Qualified Engineer London",
+  "description": "Meet Yassi, the lead unvented hot-water engineer named by G3 Qualified Engineer London, with a focus on cylinder servicing and practical fault diagnosis.",
+  "answer": "Yassi is the lead engineer named on the existing G3 website, with a service focus on unvented cylinders and Megaflo hot-water diagnosis.",
+  "sections": [
+    {
+      "heading": "Specialist focus",
+      "paragraphs": [
+        "The existing service describes cylinder servicing, pressure and discharge investigation, hot-water fault diagnosis and practical repair-or-replacement assessment. The biography should focus on that verified business scope."
+      ]
+    },
+    {
+      "heading": "A clear approach to cylinder enquiries",
+      "paragraphs": [
+        "The service focuses on understanding the installed cylinder, identifying the symptom and explaining the appropriate next step. Homeowners, landlords and property managers can discuss maintenance, faults or replacement assessments with the business before agreeing work."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/about",
+      "label": "About"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "approvalRequired": true,
+  "fileKey": "author__yassi",
+  "targetIntent": "Yassi: unvented hot-water engineering",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Yassi: unvented hot-water engineering",
+      "path": "/author/yassi"
+    }
+  ]
+}

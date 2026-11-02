@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/landlord-hot-water-records",
+  "type": "article",
+  "h1": "Hot-water records for landlords and managing agents",
+  "title": "Landlord Hot-Water Records | G3 Cylinder Guide",
+  "description": "Understand hot-water records for landlords and managing agents with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Keep cylinder servicing, gas safety, installation documentation and water-risk responsibilities clearly distinguished so records describe the work actually undertaken.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "A cylinder maintenance record documents the relevant visit. It does not automatically establish the condition of a gas boiler or communal water system, and should not be sold as a universal annual statutory G3 certificate."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "HSE describes a proportionate approach to legionella risks in rented property. System use, vacancy and relevant changes matter. The landlord or managing agent should clarify the required assessment and maintain records appropriate to the building and work."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can one cylinder visit certify every hot-water responsibility in a managed building?",
+      "answer": "No. Maintenance, gas duties, installation records and water-risk assessment have different scopes; agree which work and documentation are actually required."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__landlord-hot-water-records",
+  "targetIntent": "Hot-water records for landlords and managing agents",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Hot-water records for landlords and managing agents",
+      "path": "/knowledge/landlord-hot-water-records"
+    }
+  ]
+}

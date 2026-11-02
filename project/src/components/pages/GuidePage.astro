@@ -1,0 +1,32 @@
+---
+import PageHero from '../../components/content/PageHero.astro';
+import Breadcrumbs from '../../components/content/Breadcrumbs.astro';
+import ContentSections from '../../components/content/ContentSections.astro';
+import FAQBlock from '../../components/content/FAQBlock.astro';
+import RelatedReading from '../../components/content/RelatedReading.astro';
+import SourceNote from '../../components/content/SourceNote.astro';
+import ProductImage from '../../components/content/ProductImage.astro';
+import IndicatorTable from '../../components/content/IndicatorTable.astro';
+import SafetyNotice from '../../components/content/SafetyNotice.astro';
+import QuoteCTA from '../../components/content/QuoteCTA.astro';
+
+const { page } = Astro.props;
+---
+<div>
+  <PageHero page={page} />
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+    <Breadcrumbs items={page.breadcrumb} />
+    {page.image && (
+      <div class="mb-8">
+        <ProductImage src={page.image} alt={page.h1} caption="Product reference image — not a customer installation" />
+      </div>
+    )}
+    <ContentSections sections={page.sections} />
+    {page.indicatorTable && <IndicatorTable rows={page.indicatorTable} />}
+    <SafetyNotice />
+    <SourceNote sourceIds={page.sourceIds} />
+    <FAQBlock faqs={page.faqs} />
+    <QuoteCTA />
+    <RelatedReading links={page.links} />
+  </div>
+</div>

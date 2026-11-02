@@ -1,0 +1,90 @@
+{
+  "path": "/products/heatrae-sadia-multipoint-ss",
+  "type": "article",
+  "h1": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+  "title": "Legacy Heatrae Sadia Multipoint SS Guide | Hot-Water & Fault Help",
+  "description": "Identify Legacy Heatrae Sadia Multipoint SS equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer.",
+  "answer": "Multipoint SS is a legacy storage water-heater range with model-specific troubleshooting and successor information in the manufacturer archive.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Vertical and horizontal models have their own manuals. Water not heating, intermittent relief discharge and continuous relief discharge are different symptoms. Do not advertise an archived SS model as a newly available product without a current supply check."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the archived Multipoint SS image proof the same model is still sold new?",
+      "answer": "No. The image identifies legacy equipment; current replacement options and parts availability must be checked against the manufacturer discontinued-product record."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "multipoint-ss",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-heatrae-multipoint-ss.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-multipoint-ss",
+  "targetIntent": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-multipoint-ss"
+    }
+  ]
+}

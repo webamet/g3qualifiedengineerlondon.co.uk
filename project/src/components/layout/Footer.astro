@@ -1,0 +1,76 @@
+---
+import site from '../../data/site.json';
+
+const footerLinks = [
+  { path: '/services', label: 'Services' },
+  { path: '/brands', label: 'Equipment' },
+  { path: '/problems', label: 'Problems' },
+  { path: '/knowledge', label: 'Knowledge' },
+  { path: '/areas', label: 'Areas' },
+  { path: '/about', label: 'About' },
+  { path: '/pricing', label: 'Pricing' },
+  { path: '/faqs', label: 'FAQs' },
+  { path: '/contact', label: 'Contact' },
+  { path: '/privacy-policy', label: 'Privacy Policy' },
+  { path: '/cookie-policy', label: 'Cookie Policy' },
+  { path: '/terms', label: 'Terms' },
+];
+---
+<footer class="bg-navy-900 text-slate-300 mt-auto">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div>
+        <div class="flex items-center gap-2.5 mb-4">
+          <img
+            src="/images/g3-qualified-engineer-logo.svg"
+            alt={`${site.name} logo`}
+            width="40"
+            height="40"
+            class="w-9 h-9"
+          />
+          <span class="text-base font-bold text-white">G3 Qualified Engineer London</span>
+        </div>
+        <p class="text-sm text-slate-400 leading-relaxed max-w-xs">
+          Independent unvented-cylinder and Megaflo services in London. Diagnosis-led support for homeowners, landlords and property managers.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="text-sm font-bold text-white uppercase tracking-wide mb-4">Contact</h2>
+        <ul class="space-y-3">
+          <li>
+            <a href={`tel:${site.phoneE164}`} class="flex items-center gap-2 text-sm hover:text-orange-400 transition-colors">
+              <svg class="w-4 h-4 text-orange-500 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h2.28a1 1 0 01.95.68l1.5 4.49a1 1 0 01-.27 1.02l-2.2 2.2a16 16 0 006.36 6.36l2.2-2.2a1 1 0 011.02-.27l4.49 1.5a1 1 0 01.68.95V19a2 2 0 01-2 2h-1C9.72 21 3 14.28 3 6V5z" /></svg>
+              {site.phoneDisplay}
+            </a>
+          </li>
+          <li>
+            <a href={`mailto:${site.email}`} class="flex items-center gap-2 text-sm hover:text-orange-400 transition-colors break-all">
+              <svg class="w-4 h-4 text-orange-500 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+              {site.email}
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-sm font-bold text-white uppercase tracking-wide mb-4">Site</h2>
+        <ul class="grid grid-cols-2 gap-x-4 gap-y-2">
+          {footerLinks.map((link) => (
+            <li>
+              <a href={link.path} class="text-sm text-slate-400 hover:text-orange-400 transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-10 pt-6 border-t border-navy-700">
+      <p class="text-xs text-slate-500">
+        {site.name}. An independent service business. Product names help identify equipment and do not imply official partnership with manufacturers.
+      </p>
+    </div>
+  </div>
+</footer>

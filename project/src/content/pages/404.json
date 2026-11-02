@@ -1,0 +1,60 @@
+{
+  "path": "/404",
+  "type": "notfound",
+  "h1": "We could not find that page",
+  "title": "Page Not Found | G3 Qualified Engineer London",
+  "description": "Find cylinder services, symptom guides or contact G3 Qualified Engineer London after a missing website link.",
+  "answer": "Check the address or use the linked service, problem and knowledge pages. If you followed an old link, send it to the business so it can be checked.",
+  "sections": [
+    {
+      "heading": "Continue with a useful subject",
+      "paragraphs": [
+        "Start with the service you need, the symptom you see or the full equipment model. A missing page must return a real 404 status; it should not silently display a homepage under the old address."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/",
+      "label": "Home"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/problems",
+      "label": "Problems"
+    },
+    {
+      "path": "/knowledge",
+      "label": "Knowledge"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "404",
+  "targetIntent": "We could not find that page",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "We could not find that page",
+      "path": "/404"
+    }
+  ]
+}

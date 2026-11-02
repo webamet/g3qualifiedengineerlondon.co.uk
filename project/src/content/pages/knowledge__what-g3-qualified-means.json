@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/what-g3-qualified-means",
+  "type": "article",
+  "h1": "What does G3-qualified mean?",
+  "title": "What does G3-qualified mean? | G3 Hot-Water Knowledge",
+  "description": "Understand what does g3-qualified mean with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "G3 concerns hot-water system safety. Relevant unvented training demonstrates assessed competence, while the actual work and notification requirements still need checking.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "Approved Document G supports the hot-water requirements of the Building Regulations in England. Unvented storage involves pressure and temperature safeguards, suitable controls and safe discharge. The qualification commonly called G3 is relevant training for that specialist work; it is not a manufacturer partnership."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "An installer should be competent for the appliance and scope. A course certificate is not the same as current scheme registration for self-certification, nor does it cover every electrical, gas or renewable task. Ask how the particular work will be commissioned and notified where required."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is G3 a manufacturer accreditation?",
+      "answer": "No. It relates to hot-water system competence and Building Regulations context; it does not establish approval by Megaflo, Heatrae Sadia or another manufacturer."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__what-g3-qualified-means",
+  "targetIntent": "What does G3-qualified mean?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "What does G3-qualified mean?",
+      "path": "/knowledge/what-g3-qualified-means"
+    }
+  ]
+}

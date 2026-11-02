@@ -1,0 +1,85 @@
+{
+  "path": "/brands/vaillant-unistor",
+  "type": "article",
+  "h1": "Vaillant uniSTOR cylinders: identification and hot-water help",
+  "title": "Vaillant uniSTOR cylinders Guide | G3 Cylinder Knowledge",
+  "description": "A uniSTOR cylinder and the connected Vaillant boiler are separate appliances. A displayed boiler fault does not automatically diagnose the cylinder.",
+  "answer": "A uniSTOR cylinder and the connected Vaillant boiler are separate appliances. A displayed boiler fault does not automatically diagnose the cylinder.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Vaillant publishes uniSTOR model instructions with commissioning and maintenance information. Solar and heat-pump cylinder variants must be identified separately from boiler-cylinder products."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Tell the engineer whether the problem affects space heating, stored hot water or one outlet. If a boiler displays an F-code, record its own model as well as the cylinder label. This guide does not copy a boiler-code list into a cylinder diagnosis."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a Vaillant boiler fault code prove my uniSTOR cylinder has failed?",
+      "answer": "No. The boiler, controls and cylinder must be assessed separately; a displayed boiler code can concern the connected heat source."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "vaillant"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__vaillant-unistor",
+  "targetIntent": "Vaillant uniSTOR cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Vaillant uniSTOR cylinders: identification and hot-water help",
+      "path": "/brands/vaillant-unistor"
+    }
+  ]
+}

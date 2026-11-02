@@ -1,0 +1,171 @@
+---
+import site from '../../data/site.json';
+import Logo from './Logo.astro';
+
+const navGroups = [
+  {
+    label: 'Services',
+    links: [
+      { path: '/services', label: 'All services' },
+      { path: '/services/unvented-cylinder-servicing', label: 'Cylinder servicing' },
+      { path: '/services/unvented-cylinder-repairs', label: 'Cylinder repairs' },
+      { path: '/services/megaflo-servicing', label: 'Megaflo servicing' },
+      { path: '/services/megaflo-repairs', label: 'Megaflo repairs' },
+      { path: '/services/cylinder-installation', label: 'Installation' },
+      { path: '/services/cylinder-replacement', label: 'Replacement' },
+      { path: '/services/expansion-vessel-services', label: 'Expansion vessels' },
+      { path: '/services/tundish-discharge-investigation', label: 'Tundish discharge' },
+      { path: '/services/immersion-heater-and-thermostat', label: 'Immersion & thermostat' },
+      { path: '/services/landlord-cylinder-maintenance', label: 'Landlord maintenance' },
+      { path: '/services/urgent-hot-water-help', label: 'Urgent hot-water help' },
+    ],
+  },
+  {
+    label: 'Equipment',
+    links: [
+      { path: '/brands', label: 'All brands' },
+      { path: '/brands/megaflo', label: 'Megaflo' },
+      { path: '/brands/heatrae-sadia', label: 'Heatrae Sadia' },
+      { path: '/products', label: 'Products' },
+    ],
+  },
+  {
+    label: 'Problems',
+    links: [{ path: '/problems', label: 'All problems' }],
+  },
+  {
+    label: 'Knowledge',
+    links: [{ path: '/knowledge', label: 'All guides' }],
+  },
+  {
+    label: 'Areas',
+    links: [{ path: '/areas', label: 'All areas' }],
+  },
+  {
+    label: 'About',
+    links: [
+      { path: '/about', label: 'About' },
+      { path: '/pricing', label: 'Pricing' },
+      { path: '/faqs', label: 'FAQs' },
+      { path: '/contact', label: 'Contact' },
+    ],
+  },
+];
+---
+<header class="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16 lg:h-20">
+      <Logo site={site} />
+
+      <nav class="hidden lg:flex items-center gap-1" aria-label="Main navigation">
+        {
+          navGroups.map((group) => (
+            <div class="relative group">
+              <a
+                href={group.links[0].path}
+                class="px-3 py-2 text-sm font-medium text-navy-800 hover:text-orange-600 transition-colors rounded-md"
+              >
+                {group.label}
+              </a>
+              {group.links.length > 1 && (
+                <div class="absolute top-full left-0 pt-1 min-w-[240px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                  <div class="bg-white rounded-lg shadow-xl border border-slate-200 py-2 overflow-hidden">
+                    {group.links.map((link) => (
+                      <a
+                        href={link.path}
+                        class="block px-4 py-2 text-sm text-slate-700 hover:bg-blue-50 hover:text-navy-900 transition-colors"
+                      >
+                        {link.label}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))
+        }
+      </nav>
+
+      <div class="hidden lg:flex items-center gap-3">
+        <a
+          href={`tel:${site.phoneE164}`}
+          class="flex items-center gap-2 bg-orange-600 hover:bg-orange-700 text-white font-semibold px-4 py-2.5 rounded-lg transition-colors text-sm"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h2.28a1 1 0 01.95.68l1.5 4.49a1 1 0 01-.27 1.02l-2.2 2.2a16 16 0 006.36 6.36l2.2-2.2a1 1 0 011.02-.27l4.49 1.5a1 1 0 01.68.95V19a2 2 0 01-2 2h-1C9.72 21 3 14.28 3 6V5z" /></svg>
+          {site.phoneDisplay}
+        </a>
+      </div>
+
+      <button
+        id="mobile-menu-toggle"
+        class="lg:hidden p-2 text-navy-800 hover:text-orange-600 transition-colors"
+        aria-label="Open menu"
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+      >
+        <svg class="w-6 h-6 menu-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" /></svg>
+        <svg class="w-6 h-6 close-icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="lg:hidden hidden bg-white border-t border-slate-200 max-h-[calc(100vh-4rem)] overflow-y-auto">
+    <nav class="px-4 py-4 space-y-1" aria-label="Mobile navigation">
+      {
+        navGroups.map((group) => (
+          <div class="border-b border-slate-100 pb-3 mb-3 last:border-0">
+            <p class="text-xs font-bold text-orange-600 uppercase tracking-wide mb-2">{group.label}</p>
+            <div class="space-y-1">
+              {group.links.map((link) => (
+                <a href={link.path} class="block py-2 text-sm text-navy-800 hover:text-orange-600 transition-colors">
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        ))
+      }
+      <a
+        href={`tel:${site.phoneE164}`}
+        class="flex items-center justify-center gap-2 bg-orange-600 text-white font-semibold px-4 py-3 rounded-lg mt-2"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h2.28a1 1 0 01.95.68l1.5 4.49a1 1 0 01-.27 1.02l-2.2 2.2a16 16 0 006.36 6.36l2.2-2.2a1 1 0 011.02-.27l4.49 1.5a1 1 0 01.68.95V19a2 2 0 01-2 2h-1C9.72 21 3 14.28 3 6V5z" /></svg>
+        Call {site.phoneDisplay}
+      </a>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.getElementById('mobile-menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  const menuIcon = toggle?.querySelector('.menu-icon');
+  const closeIcon = toggle?.querySelector('.close-icon');
+
+  function closeMenu() {
+    menu?.classList.add('hidden');
+    toggle?.setAttribute('aria-expanded', 'false');
+    toggle?.setAttribute('aria-label', 'Open menu');
+    menuIcon?.classList.remove('hidden');
+    closeIcon?.classList.add('hidden');
+  }
+
+  toggle?.addEventListener('click', () => {
+    const isOpen = !menu?.classList.contains('hidden');
+    if (isOpen) {
+      closeMenu();
+    } else {
+      menu?.classList.remove('hidden');
+      toggle?.setAttribute('aria-expanded', 'true');
+      toggle?.setAttribute('aria-label', 'Close menu');
+      menuIcon?.classList.add('hidden');
+      closeIcon?.classList.remove('hidden');
+    }
+  });
+
+  menu?.querySelectorAll('a').forEach((a) => a.addEventListener('click', closeMenu));
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMenu();
+  });
+</script>

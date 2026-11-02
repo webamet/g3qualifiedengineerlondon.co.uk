@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/direct-versus-indirect-cylinder",
+  "type": "article",
+  "h1": "Direct versus indirect hot-water cylinders",
+  "title": "Direct versus indirect hot-water cylinders | G3 Hot-Water Knowledge",
+  "description": "Understand direct versus indirect hot-water cylinders with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "A direct cylinder heats stored water electrically; an indirect cylinder mainly uses a heat-exchanger coil supplied by another heat source. Configuration matters.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "The difference changes fault diagnosis and replacement planning. An indirect appliance may depend on a connected boiler, valve and hot-water demand. A direct appliance may depend on timed electrical supplies and immersion controls. Backup elements do not make every system identical."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Before changing the cylinder type, assess the heat source, supply, electrical arrangement, household demand and installation. Solar or heat-pump designs may have further model-specific requirements and should not be chosen by the words direct or indirect alone."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can the same no-hot-water enquiry follow different diagnostic paths on direct and indirect cylinders?",
+      "answer": "Yes. Electrical heating paths matter on a direct cylinder, while the connected heat source and coil controls matter on an indirect system."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__direct-versus-indirect-cylinder",
+  "targetIntent": "Direct versus indirect hot-water cylinders",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Direct versus indirect hot-water cylinders",
+      "path": "/knowledge/direct-versus-indirect-cylinder"
+    }
+  ]
+}

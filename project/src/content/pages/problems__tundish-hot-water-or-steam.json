@@ -1,0 +1,94 @@
+{
+  "path": "/problems/tundish-hot-water-or-steam",
+  "type": "article",
+  "h1": "Hot water or steam from cylinder discharge",
+  "title": "Hot water or steam from cylinder discharge | G3 Cylinder Help",
+  "description": "Understand hot water or steam from cylinder discharge. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Very hot water or steam from a safety discharge requires urgent attention. Keep clear and do not touch, obstruct or adjust the discharge.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "For temperature-and-pressure relief discharge on the Megaflo Eco described in its manual, stop the heat source or immersion using ordinary controls if safe and contact a competent unvented engineer. The manufacturer says not to turn off the water supply for that condition."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Do not remove covers, reset a concealed cut-out, cap pipework or attempt to make a valve stop by force. Follow the correct appliance user safety instructions; other product types can have different instructions."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should I shut the Megaflo water supply for temperature-and-pressure relief discharge?",
+      "answer": "The Megaflo Eco manual says to stop the heat source and leave the water supply on; seek urgent competent assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": true,
+  "fileKey": "problems__tundish-hot-water-or-steam",
+  "targetIntent": "Hot water or steam from cylinder discharge",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Hot water or steam from cylinder discharge",
+      "path": "/problems/tundish-hot-water-or-steam"
+    }
+  ]
+}
