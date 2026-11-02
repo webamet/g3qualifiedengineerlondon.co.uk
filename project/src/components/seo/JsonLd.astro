@@ -1,7 +1,0 @@
----
-import site from '../../data/site.json';
-import { schema, serializeJsonLd } from '../../lib/site-seo.mjs';
-const { page } = Astro.props;
-const graph = schema(site, page);
----
-{graph['@graph'].length > 0 && <script type="application/ld+json" set:html={serializeJsonLd(graph)} />}
