@@ -1,0 +1,75 @@
+{
+  "path": "/knowledge/cylinder-temperature-and-safety",
+  "type": "article",
+  "h1": "Cylinder storage temperature and safe hot-water delivery",
+  "title": "Cylinder Temperature & Hot-Water Safety | G3 Guide",
+  "description": "Understand cylinder storage temperature and safe hot-water delivery with clear model-aware information and practical questions for your cylinder engineer.",
+  "answer": "Storage temperature, outlet blending, scalding risk and water hygiene must be considered together. Avoid arbitrary temperature changes to resolve bills or discomfort.",
+  "sections": [
+    {
+      "heading": "The key distinction",
+      "paragraphs": [
+        "HSE landlord guidance gives storage at 60°C as an example control measure within proportionate legionella risk management. Manufacturer instructions describe the appliance control range and safety arrangements. Neither should be turned into a universal instruction for a householder to open controls."
+      ]
+    },
+    {
+      "heading": "Apply the information to the installed system",
+      "paragraphs": [
+        "Safe delivery can involve appropriate mixing at points of use, particularly where scalding risk matters. A competent assessment should distinguish stored-water temperature from outlet temperature and take the building use and installed strategy into account."
+      ]
+    },
+    {
+      "heading": "A practical next question",
+      "paragraphs": [
+        "Gather the full model, heating method, recent symptoms and available paperwork. Discuss the scope with a person competent for the actual work. Technical information here supports that conversation and is not a substitute for manufacturer instructions or individual system assessment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the cylinder storage temperature necessarily the temperature delivered at every tap?",
+      "answer": "No. Blending, distribution and outlet controls can change delivery; storage hygiene and scalding precautions need to be considered together."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge",
+      "label": "Knowledge library"
+    },
+    {
+      "path": "/services",
+      "label": "Services"
+    },
+    {
+      "path": "/contact",
+      "label": "Ask about your system"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "knowledge",
+  "fileKey": "knowledge__cylinder-temperature-and-safety",
+  "targetIntent": "Cylinder storage temperature and safe hot-water delivery",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Knowledge",
+      "path": "/knowledge"
+    },
+    {
+      "label": "Cylinder storage temperature and safe hot-water delivery",
+      "path": "/knowledge/cylinder-temperature-and-safety"
+    }
+  ]
+}

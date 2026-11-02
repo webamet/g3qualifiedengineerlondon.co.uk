@@ -1,0 +1,85 @@
+{
+  "path": "/services/cylinder-replacement",
+  "type": "service",
+  "h1": "Hot-water cylinder replacement in London",
+  "title": "Cylinder Replacement London | Repair or Replace Advice",
+  "description": "Discuss hot-water cylinder replacement in london. Diagnosis-led support, clear scope and postcode-based availability. Call 020 7205 4433.",
+  "answer": "Replacement should solve a confirmed condition or capacity problem and preserve safe access, controls and discharge arrangements.",
+  "sections": [
+    {
+      "heading": "What the service addresses",
+      "paragraphs": [
+        "A leaking vessel, unsupported parts, unsuitable capacity or a wider installation defect can make replacement appropriate. However, a failed immersion, control valve or thermostat alone does not automatically justify replacing a sound cylinder. A diagnosis-led comparison helps you assess the proposed scope."
+      ]
+    },
+    {
+      "heading": "Planning the visit",
+      "paragraphs": [
+        "The replacement survey includes removal access and the complete fitted system. A narrow cupboard, altered bathroom demand or changed heat source may make an apparently similar cylinder unsuitable. Discharge and electrical arrangements should be assessed rather than inherited unchecked."
+      ]
+    },
+    {
+      "heading": "Clear scope and practical next steps",
+      "paragraphs": [
+        "Compare the quoted cylinder model, included controls, disposal, commissioning, handover and notification arrangements. Manufacturer warranty terms differ between the vessel and individual components, and may require service records."
+      ]
+    },
+    {
+      "heading": "Arrange an enquiry",
+      "paragraphs": [
+        "Contact 020 7205 4433 with your postcode, equipment make and model, symptoms and access details. The enquiry is used to establish the appropriate work and appointment availability. Costs and scope are discussed before agreed work."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What should a cylinder replacement quote identify?",
+      "answer": "The model, included controls, removal, installation, commissioning and notification arrangements should be clear, alongside any separate electrical or plumbing work."
+    }
+  ],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Discuss the work"
+    },
+    {
+      "path": "/pricing",
+      "label": "Understand cost factors"
+    },
+    {
+      "path": "/problems",
+      "label": "Explore symptoms"
+    },
+    {
+      "path": "/knowledge/choosing-a-g3-engineer",
+      "label": "Choose the right competence"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "services",
+  "fileKey": "services__cylinder-replacement",
+  "targetIntent": "Hot-water cylinder replacement in London",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Hot-water cylinder replacement in London",
+      "path": "/services/cylinder-replacement"
+    }
+  ]
+}

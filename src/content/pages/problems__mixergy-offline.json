@@ -1,0 +1,79 @@
+{
+  "path": "/problems/mixergy-offline",
+  "type": "article",
+  "h1": "Mixergy is offline: is hot water still available?",
+  "title": "Mixergy Offline | App Control vs Hot-Water Operation",
+  "description": "Understand Mixergy offline control limitations and distinguish connectivity from a heating or cylinder fault. Follow the matching official controller guidance.",
+  "answer": "Mixergy’s cited guide distinguishes online app functions from local operation. An offline tank can retain existing schedules and local gauge boost.",
+  "sections": [
+    {
+      "heading": "What the published guide distinguishes",
+      "paragraphs": [
+        "The cited guidance says live app data and settings need a connection, while an offline tank can still produce hot water, run existing schedules and boost at its local gauge. Do not assume those capabilities prove a separate heating fault is absent."
+      ]
+    },
+    {
+      "heading": "Record the actual behaviour",
+      "paragraphs": [
+        "Note whether local hot-water operation works, whether the app is stale and which controller generation is fitted. Follow the relevant homeowner connection guide. Do not open a controller or treat internal wiring as a network troubleshooting step."
+      ]
+    },
+    {
+      "heading": "Direct the enquiry appropriately",
+      "paragraphs": [
+        "A connectivity-only enquiry may be best handled through the manufacturer support route. If heating, flow or discharge is also abnormal, identify that condition separately and discuss the right competent assessment. Do not factory-reset controls without understanding account and configuration consequences."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does an offline Mixergy tank necessarily stop making hot water?",
+      "answer": "No. The cited guide describes continuing local hot-water functions; connectivity and any separate heating fault should be assessed independently."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/mixergy",
+      "label": "Mixergy identification"
+    },
+    {
+      "path": "/fault-codes/mixergy-controller-led-status",
+      "label": "Published controller status guide"
+    },
+    {
+      "path": "/problems/no-hot-water",
+      "label": "Separate loss of hot water"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the symptom"
+    }
+  ],
+  "sourceIds": [
+    "mixergy-connect"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "fileKey": "problems__mixergy-offline",
+  "targetIntent": "Mixergy is offline: is hot water still available?",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Mixergy is offline: is hot water still available?",
+      "path": "/problems/mixergy-offline"
+    }
+  ]
+}

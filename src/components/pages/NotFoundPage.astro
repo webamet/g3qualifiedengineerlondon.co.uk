@@ -1,0 +1,33 @@
+---
+import site from '../../data/site.json';
+const { page } = Astro.props;
+---
+<div class="min-h-[60vh] flex items-center justify-center bg-paleBlue-50">
+  <div class="text-center px-4 py-16 max-w-lg">
+    <p class="text-6xl sm:text-7xl font-bold text-navy-900 mb-4">404</p>
+    <h1 class="text-2xl sm:text-3xl font-bold text-navy-900 mb-3">{page.h1}</h1>
+    <p class="text-slate-600 mb-8 leading-relaxed">{page.answer}</p>
+    <div class="grid grid-cols-2 gap-3 mb-8">
+      <a href="/" class="flex flex-col items-center gap-2 bg-white rounded-lg border border-slate-200 p-4 hover:border-orange-300 hover:shadow-md transition-all">
+        <svg class="w-5 h-5 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
+        <span class="text-sm font-medium text-navy-800">Home</span>
+      </a>
+      <a href="/services" class="flex flex-col items-center gap-2 bg-white rounded-lg border border-slate-200 p-4 hover:border-orange-300 hover:shadow-md transition-all">
+        <svg class="w-5 h-5 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17L17.25 21A2.652 2.652 0 0021 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 11-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.737-.182a2.5 2.5 0 11-2.476 2.547m5.108-.233l-.648-.648m.648.648l-.648.648" /></svg>
+        <span class="text-sm font-medium text-navy-800">Services</span>
+      </a>
+      <a href="/problems" class="flex flex-col items-center gap-2 bg-white rounded-lg border border-slate-200 p-4 hover:border-orange-300 hover:shadow-md transition-all">
+        <svg class="w-5 h-5 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" /></svg>
+        <span class="text-sm font-medium text-navy-800">Problems</span>
+      </a>
+      <a href="/knowledge" class="flex flex-col items-center gap-2 bg-white rounded-lg border border-slate-200 p-4 hover:border-orange-300 hover:shadow-md transition-all">
+        <svg class="w-5 h-5 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+        <span class="text-sm font-medium text-navy-800">Knowledge</span>
+      </a>
+    </div>
+    <a href={`tel:${site.phoneE164}`} class="inline-flex items-center gap-2 bg-orange-600 hover:bg-orange-700 text-white font-semibold px-6 py-3 rounded-lg transition-colors">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h2.28a1 1 0 01.95.68l1.5 4.49a1 1 0 01-.27 1.02l-2.2 2.2a16 16 0 006.36 6.36l2.2-2.2a1 1 0 011.02-.27l4.49 1.5a1 1 0 01.68.95V19a2 2 0 01-2 2h-1C9.72 21 3 14.28 3 6V5z" /></svg>
+      {site.phoneDisplay}
+    </a>
+  </div>
+</div>

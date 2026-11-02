@@ -1,0 +1,399 @@
+G3 - EXISTING WEBSITE AUDIT, PRESERVED ROUTES AND BUSINESS RECORD
+Checked 13 October 2026. This is an evidence record, not public marketing copy.
+
+CURRENT FINDINGS
+The homepage returned 200 and contains an empty root div in its initial HTML. The actual service content is in /assets/index-CxZ-X4DJ.js. It includes one main page with anchor navigation, Yassi, the correct business phone/email, named London areas, services and six short FAQs.
+Both /sitemap.xml and /sitemap_index.xml returned 404. The former WordPress pages/posts API paths returned 404. This site is currently a built JavaScript app, not a discoverable WordPress blog archive.
+The footer names /privacy-policy, /cookie-policy and /terms. Direct fetches of all three returned 403, so their old body content could not be read. /blog/ also returned 403; it is a discovery probe, not a confirmed existing blog URL. Search-engine lookups found the main page, but no recoverable inner article archive. Do not turn access failures into a claim that pages were deleted.
+The current form validates fields then changes local state to show Enquiry Received without calling a delivery endpoint. This is not a working lead submission. Replace it with the honest draft flow, or a verified backend delivery connection.
+There are no owned social links or genuine photographs in the recovered page. Several visible sections tell the developer to replace imagery, reviews and evidence; those placeholders must not survive the new public build. A displayed case example is explicitly illustrative, not proof of a completed client job.
+Opening hours appear in the old head schema, but a current operating schedule was not independently confirmed. Do not republish a 24-hour or same-day promise. No full business address or current GBP identity was established.
+
+PROTECT THESE EXISTING PATHS
+/ -> refined homepage, 200
+/privacy-policy -> new truthful privacy page at the same path
+/cookie-policy -> new truthful cookie/storage page at the same path
+/terms -> new enquiry and website terms at the same path
+These footer paths must be implemented, not redirected indiscriminately to the homepage. Their old content is not available to preserve verbatim.
+
+PROTECT THESE HOMEPAGE ANCHORS
+#home, #main-content, #services, #areas, #about, #faqs, #contact.
+Keep meaningful matching sections on the new homepage. Avoid duplicate IDs. Header navigation may link to fuller inner pages while existing inbound anchor links continue to work.
+
+HISTORIC URL LIMITATION
+This audit does not prove that only four URLs ever existed. Deleted, unlinked and access-blocked historical URLs need a Search Console landing-page export, old backup or explicit old-URL list to recover. Append real paths when supplied, preserve their useful content and dates and use a relevant one-to-one redirect only when a genuine equivalent is required. Domain age alone does not guarantee rankings.
+
+CONTACTS AND SCOPE
+Phone 020 7205 4433; international +442072054433. Email info@g3qualifiedengineerlondon.co.uk. These match the current site and prior G3-specific user context.
+Lead name: Yassi, as previously requested by the user and used on the current site. Do not adopt Yasin Bonif, Yassin Ahmed, a surname, 20/35 years or another client's phone automatically.
+Primary specialist scope recovered: unvented-cylinder maintenance, repairs, Megaflo diagnosis, installation/replacement assessment, expansion provision, tundish investigation, immersion/control problems and landlord/managed-property support.
+Heatrae Sadia was expressly selected in the brand clarification question, not Hitachi Yutaki. Amptec/Electromax and other brand information is model-aware knowledge; actual work competence and availability are established at enquiry, not inferred from G3 alone.
+
+AUTHOR RECORD
+The supplied Author Authority and Website Rollout Instructions requires genuine facts, manually recorded dates and written author approval. Its relevant instruction is: Before publishing an author profile, confirm the photograph, job title, experience, qualifications and social links, and receive written approval.
+This handoff is a reviewable draft and does not publish that profile. /author/yassi is held from production indexing, no Person credential graph is emitted and no false Reviewed by Yassi is attached to new articles. The business-level publisher is used until a real page author/reviewer record exists.
+Required evidence to enrich later: approved full name/spelling, role, photograph, experience, qualifications, genuine personal social links, actual review records, current insurance/registration and written manufacturer status where claimed. Source the genuine shared expert record once, then adapt the public biography to this site's cylinder focus.
+
+PROJECT SITE CONFIGURATION
+Create the project file below exactly. Private approval/setup fields are not public UI text.
+
+BEGIN FILE: src/data/site.json
+{
+  "name": "G3 Qualified Engineer London",
+  "domain": "https://g3qualifiedengineerlondon.co.uk",
+  "phoneDisplay": "020 7205 4433",
+  "phoneE164": "+442072054433",
+  "email": "info@g3qualifiedengineerlondon.co.uk",
+  "positioning": "Independent unvented-cylinder and Megaflo services in London",
+  "brandClarification": "User selected Heatrae Sadia, not Hitachi heat pumps, on 13 October 2026.",
+  "address": null,
+  "openingHours": null,
+  "googleBusinessProfile": null,
+  "socialProfiles": {
+    "facebook": null,
+    "instagram": null,
+    "youtube": null,
+    "linkedin": null,
+    "x": null
+  },
+  "author": {
+    "name": "Yassi",
+    "role": "Lead unvented hot-water engineer",
+    "publicProfileApproved": false,
+    "fullName": null,
+    "experienceYears": null,
+    "photo": null,
+    "credentials": [],
+    "linkedin": null,
+    "x": null,
+    "biographyApproval": null
+  },
+  "qualifications": {
+    "g3Positioning": "Client-confirmed service positioning; documentary certificate record not supplied",
+    "gasSafe": null,
+    "insurance": null,
+    "manufacturerApproval": null,
+    "electricalQualifications": null
+  },
+  "formMode": "email-draft",
+  "formEndpoint": null,
+  "analyticsId": null,
+  "productionReady": false,
+  "publicationPolicy": "Preview by default. Individual technical-review dates and author approval must be recorded; no automatic reviewed-by claims.",
+  "legacyPaths": [
+    "/",
+    "/privacy-policy",
+    "/cookie-policy",
+    "/terms"
+  ],
+  "legacyAnchors": [
+    "home",
+    "main-content",
+    "services",
+    "areas",
+    "about",
+    "faqs",
+    "contact"
+  ],
+  "sources": {
+    "gov-g": {
+      "name": "Approved Document G (England), current publication and amendments",
+      "url": "https://www.gov.uk/government/publications/sanitation-hot-water-safety-and-water-efficiency-approved-document-g"
+    },
+    "gov-cps": {
+      "name": "Current competent person schemes and scopes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    },
+    "megaflo-manual": {
+      "name": "Megaflo Eco installation and user manual, troubleshooting p27 and safety p24",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-installation-manual.pdf"
+    },
+    "heatrae-faq": {
+      "name": "Heatrae Sadia customer FAQs",
+      "url": "https://www.heatraesadia.com/information/frequently-asked-questions"
+    },
+    "heatrae-library": {
+      "name": "Heatrae Sadia literature library, including discontinued products",
+      "url": "https://www.heatraesadia.com/information/literature-library"
+    },
+    "heatrae-products": {
+      "name": "Heatrae Sadia product catalogue",
+      "url": "https://www.heatraesadia.com/products"
+    },
+    "heatrae-parts": {
+      "name": "Heatrae Sadia genuine parts enquiries",
+      "url": "https://www.heatraesadia.com/parts/parts-enquiries"
+    },
+    "heatrae-discontinued": {
+      "name": "Heatrae Sadia discontinued and replacement products",
+      "url": "https://www.heatraesadia.com/Customer-support/Discontinued-products"
+    },
+    "heatrae-video": {
+      "name": "Heatrae Sadia manufacturer video library",
+      "url": "https://www.heatraesadia.com/information/video-library"
+    },
+    "heatrae-glossary": {
+      "name": "Heatrae Sadia heating and hot-water glossary",
+      "url": "https://www.heatraesadia.com/information/glossary"
+    },
+    "amptec-manual": {
+      "name": "Amptec installation and user guide, indicators p20 and fault table p22",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/installation-manuals/amptec-installation-manual.pdf"
+    },
+    "amptec-product": {
+      "name": "Amptec electric flow boiler product information",
+      "url": "https://www.heatraesadia.com/products/heating-and-ventilation/electric-flow-boilers/amptec"
+    },
+    "electromax-manual": {
+      "name": "Electromax installation and servicing instructions, fault diagnosis pp33-36",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Electromax-installation-manual.pdf"
+    },
+    "electromax-user": {
+      "name": "Electromax user instructions, emergency guidance p7",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/User-Manuals/Electromax_user-manual.pdf"
+    },
+    "multipoint-ss": {
+      "name": "Multipoint SS Vertical instructions, fault table p20 (legacy range)",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Multipoint-SS-Vertical-installation-manual.pdf"
+    },
+    "multipoint-instant": {
+      "name": "Multipoint Instantaneous manual, model-specific troubleshooting p11",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Multipoint-Instantaneous-installation-manual.pdf"
+    },
+    "premierplus": {
+      "name": "PremierPlus installation and user manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/PremierPlus-installation-manual.pdf"
+    },
+    "systemfit": {
+      "name": "Megaflo Eco SystemFit manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-SystemFit-installation-manual.pdf"
+    },
+    "systemready": {
+      "name": "Megaflo Eco SystemReady manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-SystemReady-installation-manual.pdf"
+    },
+    "solar": {
+      "name": "Megaflo Eco Solar manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-Solar-installation-manual.pdf"
+    },
+    "solar-pv": {
+      "name": "Megaflo Eco Solar PV Ready Direct data sheet",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/technical-data-sheets/dept_254618_megaflo_solarpvready_direct_datasheet_issue4.pdf"
+    },
+    "ecoplus": {
+      "name": "Megaflo Eco Plus 400-570 installation manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Installation-Manuals/Megaflo-Eco-Plus-400-570-installation-manual.pdf"
+    },
+    "flexistor": {
+      "name": "Megaflo Eco Plus Flexistor 400-1000 manual",
+      "url": "https://www.heatraesadia.com/-/media/themes/heatrae/literature/installation-manuals/megaflo-eco-plus-flexistor_400_1000_7038475_issue_01.pdf"
+    },
+    "megaflo-he": {
+      "name": "Legacy Megaflo HE installation manual",
+      "url": "https://www.heatraesadia.com/-/media/Themes/Heatrae/Literature/Discontinued-Literature/Megaflo-HE-installation-manual.pdf"
+    },
+    "gledhill": {
+      "name": "Gledhill official cylinder manuals",
+      "url": "https://www.gledhill.net/trade/product-downloads/manuals/"
+    },
+    "oso": {
+      "name": "OSO UK cylinder manual downloads",
+      "url": "https://osohotwater.co.uk/Downloads/"
+    },
+    "oso-super": {
+      "name": "OSO Super Xpress S2X UK manual, model-specific expansion arrangement",
+      "url": "https://osohotwater.co.uk/wp-content/uploads/2025/02/11012294-00-Manual-Super-S%E2%82%82X-UK-EN.pdf"
+    },
+    "joule": {
+      "name": "Joule official unvented-cylinder knowledge hub",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/unvented-hot-water-cylinders"
+    },
+    "joule-rm": {
+      "name": "Stelflow, Cyclone Plus and Evocyl official manual library",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/stelflow-cycloneplus-evocyl-manual"
+    },
+    "joule-air": {
+      "name": "Joule Cyclone Air official manual library",
+      "url": "https://knowledgebase.jouleuk.co.uk/uk/cyclone-airjl-air-ins-manual"
+    },
+    "telford": {
+      "name": "Telford official unvented-cylinder downloads",
+      "url": "https://www.telford-group.com/downloads/general-downloads/"
+    },
+    "vaillant": {
+      "name": "Vaillant uniSTOR product and model manual library",
+      "url": "https://professional.vaillant.co.uk/for-installers/products/domestic-boiler-cylinders-25601.html"
+    },
+    "worcester": {
+      "name": "Worcester Greenstore SC model-version manual library",
+      "url": "https://www.worcester-bosch.co.uk/professional/support/literature/worcester-greenstore-sc-cylinder-installation-instructions"
+    },
+    "viessmann": {
+      "name": "Viessmann Vitocell domestic hot-water range",
+      "url": "https://www.viessmann.co.uk/en/products/water-heaters/vitocell-range.html"
+    },
+    "viessmann-manuals": {
+      "name": "Viessmann official ViBooks/manual lookup",
+      "url": "https://www.viessmann.co.uk/en/support/manuals.html"
+    },
+    "hse-landlords": {
+      "name": "HSE legionella guidance for landlords",
+      "url": "https://www.hse.gov.uk/legionnaires/legionella-landlords-responsibilities.htm"
+    },
+    "google-ai": {
+      "name": "Google Search AI features and websites",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    "google-spam": {
+      "name": "Google Search spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    "google-updates": {
+      "name": "Google Search documentation updates, checked 13 October 2026",
+      "url": "https://developers.google.com/search/updates"
+    },
+    "google-ai-content": {
+      "name": "Google Search guidance on generative AI content",
+      "url": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content"
+    },
+    "mixergy-support": {
+      "name": "Mixergy official support hub",
+      "url": "https://support.mixergy.co.uk/"
+    },
+    "mixergy-led": {
+      "name": "Mixergy main PCB controller status LED guide",
+      "url": "https://support.mixergy.co.uk/status-led-codes"
+    },
+    "mixergy-connect": {
+      "name": "Mixergy online and offline functions",
+      "url": "https://support.mixergy.co.uk/check-your-tanks-connection-status"
+    },
+    "kingspan-service": {
+      "name": "Kingspan official cylinder service and maintenance information",
+      "url": "https://waterandsafestorage.kingspan.com/gb/service-maintenance/domestic-services/hot-water-cylinder-servicing/"
+    },
+    "openai-bots": {
+      "name": "OpenAI search and training crawler controls",
+      "url": "https://developers.openai.com/api/docs/bots"
+    }
+  }
+}
+END FILE
+
+ROUTE INVENTORY - 116 records
+/ | home | indexable on approved production setting | home.json
+/about | about | indexable on approved production setting | about.json
+/contact | contact | indexable on approved production setting | contact.json
+/services/unvented-cylinder-servicing | service | indexable on approved production setting | services__unvented-cylinder-servicing.json
+/services/unvented-cylinder-repairs | service | indexable on approved production setting | services__unvented-cylinder-repairs.json
+/services/megaflo-servicing | service | indexable on approved production setting | services__megaflo-servicing.json
+/services/megaflo-repairs | service | indexable on approved production setting | services__megaflo-repairs.json
+/services/cylinder-installation | service | indexable on approved production setting | services__cylinder-installation.json
+/services/cylinder-replacement | service | indexable on approved production setting | services__cylinder-replacement.json
+/services/expansion-vessel-services | service | indexable on approved production setting | services__expansion-vessel-services.json
+/services/tundish-discharge-investigation | service | indexable on approved production setting | services__tundish-discharge-investigation.json
+/services/immersion-heater-and-thermostat | service | indexable on approved production setting | services__immersion-heater-and-thermostat.json
+/services/landlord-cylinder-maintenance | service | indexable on approved production setting | services__landlord-cylinder-maintenance.json
+/services/urgent-hot-water-help | service | indexable on approved production setting | services__urgent-hot-water-help.json
+/pricing | web | indexable on approved production setting | pricing.json
+/brands/megaflo | article | indexable on approved production setting | brands__megaflo.json
+/brands/heatrae-sadia | article | indexable on approved production setting | brands__heatrae-sadia.json
+/brands/santon-premierplus | article | indexable on approved production setting | brands__santon-premierplus.json
+/brands/gledhill | article | indexable on approved production setting | brands__gledhill.json
+/brands/oso | article | indexable on approved production setting | brands__oso.json
+/brands/joule | article | indexable on approved production setting | brands__joule.json
+/brands/rm-stelflow | article | indexable on approved production setting | brands__rm-stelflow.json
+/brands/telford-tempest | article | indexable on approved production setting | brands__telford-tempest.json
+/brands/vaillant-unistor | article | indexable on approved production setting | brands__vaillant-unistor.json
+/brands/worcester-greenstore | article | indexable on approved production setting | brands__worcester-greenstore.json
+/brands/viessmann-vitocell | article | indexable on approved production setting | brands__viessmann-vitocell.json
+/products/megaflo-eco-direct | article | indexable on approved production setting | products__megaflo-eco-direct.json
+/products/megaflo-eco-indirect | article | indexable on approved production setting | products__megaflo-eco-indirect.json
+/products/megaflo-eco-slimline | article | indexable on approved production setting | products__megaflo-eco-slimline.json
+/products/megaflo-eco-systemfit | article | indexable on approved production setting | products__megaflo-eco-systemfit.json
+/products/megaflo-eco-systemready | article | indexable on approved production setting | products__megaflo-eco-systemready.json
+/products/megaflo-eco-solar | article | indexable on approved production setting | products__megaflo-eco-solar.json
+/products/megaflo-solar-pv-ready | article | indexable on approved production setting | products__megaflo-solar-pv-ready.json
+/products/megaflo-eco-plus | article | indexable on approved production setting | products__megaflo-eco-plus.json
+/products/megaflo-eco-plus-flexistor | article | indexable on approved production setting | products__megaflo-eco-plus-flexistor.json
+/products/megaflo-he | article | indexable on approved production setting | products__megaflo-he.json
+/products/heatrae-sadia-amptec | article | indexable on approved production setting | products__heatrae-sadia-amptec.json
+/products/heatrae-sadia-electromax | article | indexable on approved production setting | products__heatrae-sadia-electromax.json
+/products/heatrae-sadia-premierplus | article | indexable on approved production setting | products__heatrae-sadia-premierplus.json
+/products/heatrae-sadia-multipoint-ss | article | indexable on approved production setting | products__heatrae-sadia-multipoint-ss.json
+/products/heatrae-sadia-multipoint-instantaneous | article | indexable on approved production setting | products__heatrae-sadia-multipoint-instantaneous.json
+/problems/no-hot-water | article | indexable on approved production setting | problems__no-hot-water.json
+/problems/hot-taps-running-cold | article | indexable on approved production setting | problems__hot-taps-running-cold.json
+/problems/water-warm-not-hot | article | indexable on approved production setting | problems__water-warm-not-hot.json
+/problems/hot-water-runs-out-quickly | article | indexable on approved production setting | problems__hot-water-runs-out-quickly.json
+/problems/slow-hot-water-recovery | article | indexable on approved production setting | problems__slow-hot-water-recovery.json
+/problems/low-hot-water-pressure | article | indexable on approved production setting | problems__low-hot-water-pressure.json
+/problems/no-flow-from-hot-taps | article | indexable on approved production setting | problems__no-flow-from-hot-taps.json
+/problems/tundish-dripping-continuously | article | indexable on approved production setting | problems__tundish-dripping-continuously.json
+/problems/tundish-drips-when-heating | article | indexable on approved production setting | problems__tundish-drips-when-heating.json
+/problems/tundish-hot-water-or-steam | article | indexable on approved production setting | problems__tundish-hot-water-or-steam.json
+/problems/cylinder-leaking | article | indexable on approved production setting | problems__cylinder-leaking.json
+/problems/valve-or-pipework-leak | article | indexable on approved production setting | problems__valve-or-pipework-leak.json
+/problems/megaflo-air-gap-keeps-losing | article | indexable on approved production setting | problems__megaflo-air-gap-keeps-losing.json
+/problems/expansion-vessel-problem | article | indexable on approved production setting | problems__expansion-vessel-problem.json
+/problems/off-peak-not-working-boost-works | article | indexable on approved production setting | problems__off-peak-not-working-boost-works.json
+/problems/immersion-heater-trips-electrics | article | indexable on approved production setting | problems__immersion-heater-trips-electrics.json
+/problems/thermal-cut-out-keeps-tripping | article | indexable on approved production setting | problems__thermal-cut-out-keeps-tripping.json
+/problems/noisy-cylinder | article | indexable on approved production setting | problems__noisy-cylinder.json
+/problems/shower-cold-other-taps-hot | article | indexable on approved production setting | problems__shower-cold-other-taps-hot.json
+/problems/cold-taps-running-warm | article | indexable on approved production setting | problems__cold-taps-running-warm.json
+/problems/water-hammer | article | indexable on approved production setting | problems__water-hammer.json
+/problems/milky-hot-water | article | indexable on approved production setting | problems__milky-hot-water.json
+/problems/high-hot-water-bills | article | indexable on approved production setting | problems__high-hot-water-bills.json
+/problems/fault-returns-after-service | article | indexable on approved production setting | problems__fault-returns-after-service.json
+/problems/no-flow-after-plumbing-work | article | indexable on approved production setting | problems__no-flow-after-plumbing-work.json
+/fault-codes/amptec-top-alarm-flashing-red | article | indexable on approved production setting | fault-codes__amptec-top-alarm-flashing-red.json
+/fault-codes/amptec-top-alarm-steady-red | article | indexable on approved production setting | fault-codes__amptec-top-alarm-steady-red.json
+/fault-codes/amptec-bottom-call-flashing-red | article | indexable on approved production setting | fault-codes__amptec-bottom-call-flashing-red.json
+/fault-codes/amptec-bottom-call-steady-red | article | indexable on approved production setting | fault-codes__amptec-bottom-call-steady-red.json
+/fault-codes/amptec-call-green-flashing | article | indexable on approved production setting | fault-codes__amptec-call-green-flashing.json
+/fault-codes/electromax-demand-flashing | article | indexable on approved production setting | fault-codes__electromax-demand-flashing.json
+/knowledge/what-g3-qualified-means | article | indexable on approved production setting | knowledge__what-g3-qualified-means.json
+/knowledge/g3-versus-gas-safe | article | indexable on approved production setting | knowledge__g3-versus-gas-safe.json
+/knowledge/choosing-a-g3-engineer | article | indexable on approved production setting | knowledge__choosing-a-g3-engineer.json
+/knowledge/annual-cylinder-servicing | article | indexable on approved production setting | knowledge__annual-cylinder-servicing.json
+/knowledge/cylinder-installation-paperwork | article | indexable on approved production setting | knowledge__cylinder-installation-paperwork.json
+/knowledge/direct-versus-indirect-cylinder | article | indexable on approved production setting | knowledge__direct-versus-indirect-cylinder.json
+/knowledge/air-gap-versus-expansion-vessel | article | indexable on approved production setting | knowledge__air-gap-versus-expansion-vessel.json
+/knowledge/cylinder-temperature-and-safety | article | indexable on approved production setting | knowledge__cylinder-temperature-and-safety.json
+/knowledge/cylinder-sizing-and-flow | article | indexable on approved production setting | knowledge__cylinder-sizing-and-flow.json
+/knowledge/manufacturer-manuals | article | indexable on approved production setting | knowledge__manufacturer-manuals.json
+/knowledge/landlord-hot-water-records | article | indexable on approved production setting | knowledge__landlord-hot-water-records.json
+/knowledge/repair-or-replace-cylinder | article | indexable on approved production setting | knowledge__repair-or-replace-cylinder.json
+/areas/fulham | area | indexable on approved production setting | areas__fulham.json
+/areas/acton | area | indexable on approved production setting | areas__acton.json
+/areas/hammersmith | area | indexable on approved production setting | areas__hammersmith.json
+/areas/chelsea | area | indexable on approved production setting | areas__chelsea.json
+/areas/kensington | area | indexable on approved production setting | areas__kensington.json
+/areas/south-kensington | area | indexable on approved production setting | areas__south-kensington.json
+/areas/putney | area | indexable on approved production setting | areas__putney.json
+/areas/richmond | area | indexable on approved production setting | areas__richmond.json
+/areas/maida-vale | area | indexable on approved production setting | areas__maida-vale.json
+/areas/st-johns-wood | area | indexable on approved production setting | areas__st-johns-wood.json
+/areas/ealing | area | indexable on approved production setting | areas__ealing.json
+/areas/notting-hill-gate | area | indexable on approved production setting | areas__notting-hill-gate.json
+/areas/holland-park | area | indexable on approved production setting | areas__holland-park.json
+/areas/shepherds-bush | area | indexable on approved production setting | areas__shepherds-bush.json
+/areas/earls-court | area | indexable on approved production setting | areas__earls-court.json
+/services | collection | indexable on approved production setting | services.json
+/brands | collection | indexable on approved production setting | brands.json
+/products | collection | indexable on approved production setting | products.json
+/problems | collection | indexable on approved production setting | problems.json
+/fault-codes | collection | indexable on approved production setting | fault-codes.json
+/knowledge | collection | indexable on approved production setting | knowledge.json
+/areas | collection | indexable on approved production setting | areas.json
+/faqs | faq | indexable on approved production setting | faqs.json
+/author/yassi | profile | noindex | author__yassi.json
+/privacy-policy | policy | noindex | privacy-policy.json
+/cookie-policy | policy | noindex | cookie-policy.json
+/terms | policy | noindex | terms.json
+/404 | notfound | noindex | 404.json
+/brands/mixergy | article | indexable on approved production setting | brands__mixergy.json
+/problems/mixergy-offline | article | indexable on approved production setting | problems__mixergy-offline.json
+/fault-codes/mixergy-controller-led-status | article | indexable on approved production setting | fault-codes__mixergy-controller-led-status.json
+/brands/kingspan | article | indexable on approved production setting | brands__kingspan.json

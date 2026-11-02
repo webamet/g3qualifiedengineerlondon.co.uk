@@ -1,0 +1,75 @@
+{
+  "path": "/contact",
+  "type": "contact",
+  "h1": "Discuss your cylinder or hot-water problem",
+  "title": "Contact G3 Qualified Engineer London | 020 7205 4433",
+  "description": "Call 020 7205 4433 or email info@g3qualifiedengineerlondon.co.uk. Share your postcode, cylinder model and symptoms to check service availability.",
+  "answer": "Call 020 7205 4433 or prepare an email enquiry. Provide the postcode, equipment label and symptoms so the right service can be discussed.",
+  "sections": [
+    {
+      "heading": "Speak to us",
+      "paragraphs": [
+        "Phone: 020 7205 4433. Email: info@g3qualifiedengineerlondon.co.uk. For an urgent discharge or electrical concern, use the telephone rather than relying on an email response. An appointment is confirmed only when availability and scope have been agreed."
+      ]
+    },
+    {
+      "heading": "Help us understand the equipment",
+      "paragraphs": [],
+      "bullets": [
+        "Property postcode and access contact.",
+        "Cylinder make, model and serial label if readable safely.",
+        "Whether hot water flows cold, flows weakly or does not flow.",
+        "Which normal heating source or off-peak programme is in use.",
+        "Any visible leak, discharge, light pattern or recent work."
+      ]
+    },
+    {
+      "heading": "What the enquiry form does",
+      "paragraphs": [
+        "The form prepares a message locally and offers a copy button and an email link. You send the message using your email application. It does not secretly send a form, upload photographs or create an appointment. Photographs can be attached in your email application after you review the message.",
+        "If you do not use an email application, copy the message into webmail or call us. Contact details are not stored in browser local storage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does submitting the enquiry draft book an engineer?",
+      "answer": "No. Send the email or call us; appointment details are confirmed after availability, system type and access are discussed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/areas",
+      "label": "Areas"
+    },
+    {
+      "path": "/pricing",
+      "label": "Pricing"
+    },
+    {
+      "path": "/problems/tundish-hot-water-or-steam",
+      "label": "Tundish hot water or steam"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "fileKey": "contact",
+  "targetIntent": "Discuss your cylinder or hot-water problem",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Discuss your cylinder or hot-water problem",
+      "path": "/contact"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "path": "/privacy-policy",
+  "type": "policy",
+  "h1": "Privacy notice",
+  "title": "Privacy Notice | G3 Qualified Engineer London",
+  "description": "How G3 Qualified Engineer London handles service enquiries and website contact information. Contact info@g3qualifiedengineerlondon.co.uk with privacy questions.",
+  "answer": "This notice describes the email-draft contact workflow. Your enquiry is prepared locally until you choose to send it using your email service.",
+  "sections": [
+    {
+      "heading": "Enquiries and purpose",
+      "paragraphs": [
+        "You may provide a name, telephone, email, postcode, equipment details and symptom information so the business can answer your enquiry and discuss work. Share only information needed for the job and avoid including sensitive personal information in photographs. Contact info@g3qualifiedengineerlondon.co.uk for privacy enquiries."
+      ]
+    },
+    {
+      "heading": "What happens in the contact form",
+      "paragraphs": [
+        "The draft form validates and composes a message in your browser. It does not submit a background enquiry or upload photos. When you send the message through email, your chosen provider and the receiving business email service process it under their own arrangements. Hosting services may handle technical request logs."
+      ]
+    },
+    {
+      "heading": "Retention and rights",
+      "paragraphs": [
+        "Information should be kept only as long as required for the enquiry, agreed work and applicable obligations. You can contact the business about access, correction, deletion or another applicable data-protection right. You may also raise a concern with the Information Commissioner’s Office at https://ico.org.uk/."
+      ]
+    },
+    {
+      "heading": "Changes and further information",
+      "paragraphs": [
+        "This notice should remain accurate when enquiry handling or website services change. For information about the business handling your enquiry, its service providers or the records held about you, contact info@g3qualifiedengineerlondon.co.uk."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/contact",
+      "label": "Contact"
+    },
+    {
+      "path": "/cookie-policy",
+      "label": "Cookie policy"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": false,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "legalReviewRequired": true,
+  "fileKey": "privacy-policy",
+  "targetIntent": "Privacy notice",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Privacy notice",
+      "path": "/privacy-policy"
+    }
+  ]
+}

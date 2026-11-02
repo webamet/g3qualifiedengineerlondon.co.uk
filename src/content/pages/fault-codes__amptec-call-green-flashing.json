@@ -1,0 +1,81 @@
+{
+  "path": "/fault-codes/amptec-call-green-flashing",
+  "type": "article",
+  "h1": "Amptec CALL flashes green during demand",
+  "title": "Amptec CALL flashes green during demand | Model-Specific Guide",
+  "description": "Identify amptec call flashes green during demand, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "The cited Amptec guide describes green CALL flashing during the initial self-test period, normally about two to three minutes, before steady demand indication.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "A persistent flashing pattern without heat needs the exact model and symptom assessed. A normal start-up pattern should not be converted into an invented fault code or treated as proof that a pump must be replaced."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a brief green CALL flash at Amptec start-up always indicate a fault?",
+      "answer": "No. The cited guide describes an initial self-test period; persistent flashing or failure to heat needs model-specific assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-call-green-flashing",
+  "targetIntent": "Amptec CALL flashes green during demand",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec CALL flashes green during demand",
+      "path": "/fault-codes/amptec-call-green-flashing"
+    }
+  ]
+}

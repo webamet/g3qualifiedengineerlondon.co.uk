@@ -1,0 +1,109 @@
+{
+  "path": "/products",
+  "type": "collection",
+  "h1": "Megaflo and Heatrae Sadia product guides",
+  "title": "Megaflo & Heatrae Sadia Models | Product Knowledge",
+  "description": "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction.",
+  "answer": "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Understand the named appliance and heating method, then follow the appropriate problem or indicator guide rather than a generic reset instruction."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-direct",
+      "label": "Megaflo Eco Direct: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Megaflo Eco Indirect: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-slimline",
+      "label": "Megaflo Eco Slimline: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-systemfit",
+      "label": "Megaflo Eco SystemFit: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-systemready",
+      "label": "Megaflo Eco SystemReady: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-solar",
+      "label": "Megaflo Eco Solar: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-solar-pv-ready",
+      "label": "Megaflo Eco Solar PV Ready: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-plus",
+      "label": "Megaflo Eco Plus: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-eco-plus-flexistor",
+      "label": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/megaflo-he",
+      "label": "Legacy Megaflo HE: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Heatrae Sadia Amptec: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-electromax",
+      "label": "Heatrae Sadia Electromax: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-premierplus",
+      "label": "Heatrae Sadia PremierPlus: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-multipoint-ss",
+      "label": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance"
+    },
+    {
+      "path": "/products/heatrae-sadia-multipoint-instantaneous",
+      "label": "Heatrae Sadia Multipoint Instantaneous: operation, symptoms and model guidance"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "products",
+  "fileKey": "products",
+  "targetIntent": "Megaflo and Heatrae Sadia product guides",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Megaflo and Heatrae Sadia product guides",
+      "path": "/products"
+    }
+  ]
+}

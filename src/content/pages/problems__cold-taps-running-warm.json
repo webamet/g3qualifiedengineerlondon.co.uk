@@ -1,0 +1,90 @@
+{
+  "path": "/problems/cold-taps-running-warm",
+  "type": "article",
+  "h1": "Warm water appears at a cold tap",
+  "title": "Warm water appears at a cold tap | G3 Cylinder Help",
+  "description": "Understand warm water appears at a cold tap. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Unexpected warm cold-water delivery needs the affected outlets and system arrangement assessed; do not assume one universal cylinder cause.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Heat transfer, a mixing fault or a cross-connection can be among the conditions an engineer investigates. The symptom history matters: one tap, several outlets and sustained warming do not mean the same thing."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note whether the water clears quickly, whether unused outlets are involved and if plumbing work occurred recently. Keep hygiene and scalding risks in view rather than changing cylinder controls yourself."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can warm cold-water delivery be diagnosed just from the cylinder brand?",
+      "answer": "No. Outlet behaviour, mixing arrangements, pipework and temperature history must be assessed; the brand alone does not identify the cause."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "hse-landlords"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__cold-taps-running-warm",
+  "targetIntent": "Warm water appears at a cold tap",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Warm water appears at a cold tap",
+      "path": "/problems/cold-taps-running-warm"
+    }
+  ]
+}

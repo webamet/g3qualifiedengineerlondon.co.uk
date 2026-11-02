@@ -1,0 +1,26 @@
+---
+import site from '../../data/site.json';
+import { metadata } from '../../lib/site-seo.mjs';
+const { page } = Astro.props;
+const meta = metadata(site, page, { production: import.meta.env.PUBLIC_SITE_MODE === 'production' });
+---
+<title>{meta.title}</title>
+<meta name="description" content={meta.description} />
+<link rel="canonical" href={meta.canonical} />
+<meta name="robots" content={meta.robots} />
+<meta property="og:site_name" content={site.name} />
+<meta property="og:title" content={meta.title} />
+<meta property="og:description" content={meta.description} />
+<meta property="og:url" content={meta.canonical} />
+<meta property="og:type" content={meta.ogType} />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:image" content={meta.ogImage} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="G3 Qualified Engineer London: Megaflo and unvented cylinder services" />
+<meta name="twitter:card" content={meta.twitterCard} />
+<meta name="twitter:title" content={meta.title} />
+<meta name="twitter:description" content={meta.description} />
+<meta name="twitter:image" content={meta.ogImage} />
+<link rel="icon" type="image/svg+xml" href="/images/g3-qualified-engineer-logo.svg" />
+<meta name="theme-color" content="#0E2A47" />

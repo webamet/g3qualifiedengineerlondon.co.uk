@@ -1,0 +1,81 @@
+{
+  "path": "/fault-codes/amptec-top-alarm-flashing-red",
+  "type": "article",
+  "h1": "Amptec top ALARM flashing red",
+  "title": "Amptec top ALARM flashing red | Model-Specific Guide",
+  "description": "Identify amptec top alarm flashing red, distinguish the documented indicator and arrange safe model-specific assessment. Read the matching manufacturer manual.",
+  "answer": "For the Amptec models covered by the cited manual, a flashing red top ALARM is the no-water indication. Switch the boiler off and seek competent assessment.",
+  "sections": [
+    {
+      "heading": "Meaning and model scope",
+      "paragraphs": [
+        "The label is a visible indicator condition, not an F-number. It does not prove whether water loss, air, a sensing condition or an installation issue is the underlying cause. Do not restart repeatedly or fill an unfamiliar system using a guessed procedure."
+      ]
+    },
+    {
+      "heading": "Record the complete pattern",
+      "paragraphs": [
+        "Identify the installed Amptec model and the control-panel layout. Record the light position, colour, whether it flashes and whether the heating demand was active. These guides are based on the cited installation and user manual; they are not a universal map for every Heatrae Sadia appliance."
+      ]
+    },
+    {
+      "heading": "Safe next step",
+      "paragraphs": [
+        "Do not remove electrical covers, measure live voltage, bypass protective controls or repeatedly reset an alarm. The manufacturer reset sequence requires the fault to be corrected and suitable water and circulation conditions established. That is different from repeatedly cycling power to conceal an unresolved fault."
+      ]
+    },
+    {
+      "heading": "Discuss the assessment",
+      "paragraphs": [
+        "Call 020 7205 4433 with the label, visible pattern and postcode. Amptec is an electric flow boiler; the business must establish the required electrical and heating competence rather than infer it from a G3 cylinder qualification alone."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which Amptec light pattern is associated with the manual no-water alarm?",
+      "answer": "The cited Amptec manual identifies a flashing red top ALARM as the no-water condition; turn the boiler off and arrange assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-amptec",
+      "label": "Amptec product guide"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Compare actual indicator types"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the panel pattern"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__amptec-top-alarm-flashing-red",
+  "targetIntent": "Amptec top ALARM flashing red",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault codes",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Amptec top ALARM flashing red",
+      "path": "/fault-codes/amptec-top-alarm-flashing-red"
+    }
+  ]
+}

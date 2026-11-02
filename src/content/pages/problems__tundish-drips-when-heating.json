@@ -1,0 +1,94 @@
+{
+  "path": "/problems/tundish-drips-when-heating",
+  "type": "article",
+  "h1": "A tundish drips only while heating",
+  "title": "A tundish drips only while heating | G3 Cylinder Help",
+  "description": "Understand a tundish drips only while heating. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Discharge during a heating cycle can be associated with expansion provision, but the correct cause depends on the installed model and controls.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "Some Megaflo models use an internal air volume; many other cylinders use an external vessel. Loss of intended expansion provision is one possible explanation. A relief or inlet-control fault can also need investigation."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Note the timing, last service and exact cylinder label. Do not assume all cylinders can be fixed with a domestic Megaflo air-gap routine."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does discharge during heating always prove the expansion vessel has failed?",
+      "answer": "No. Expansion provision is one possibility; inlet-pressure and valve conditions also require assessment, and some cylinders use an internal air volume."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/tundish-discharge-investigation",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__tundish-drips-when-heating",
+  "targetIntent": "A tundish drips only while heating",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "A tundish drips only while heating",
+      "path": "/problems/tundish-drips-when-heating"
+    }
+  ]
+}

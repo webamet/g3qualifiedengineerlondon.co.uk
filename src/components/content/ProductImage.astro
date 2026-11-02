@@ -1,0 +1,19 @@
+---
+const { src, alt, caption, eager = false, className = '' } = Astro.props;
+const url = src ? (src.startsWith('/images/') ? src : src.startsWith('/assets') ? src : '/images/' + src.replace(/^\//, '')) : null;
+---
+{url && (
+  <figure class={`flex flex-col items-center ${className}`}>
+    <div class="rounded-xl bg-gradient-to-br from-slate-50 to-blue-50 border border-slate-200 p-4 sm:p-6 flex items-center justify-center">
+      <img
+        src={url}
+        alt={alt}
+        width="400"
+        height="400"
+        loading={eager ? 'eager' : 'lazy'}
+        class="max-w-full h-auto object-contain max-h-[320px] sm:max-h-[400px]"
+      />
+    </div>
+    {caption && <figcaption class="mt-3 text-xs sm:text-sm text-slate-500 text-center max-w-md">{caption}</figcaption>}
+  </figure>
+)}

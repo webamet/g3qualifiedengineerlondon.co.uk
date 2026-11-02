@@ -1,0 +1,90 @@
+{
+  "path": "/problems/cylinder-leaking",
+  "type": "article",
+  "h1": "Water is leaking around a cylinder",
+  "title": "Water is leaking around a cylinder | G3 Cylinder Help",
+  "description": "Understand water is leaking around a cylinder. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Identify whether water comes from a connection, valve, discharge route or the cylinder vessel. Those findings lead to different repair decisions.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A wet cupboard does not establish a leaking vessel. Water can track from a nearby fitting or connected appliance. Electrical equipment, damaged flooring and active leaks need consideration before an ordinary service visit."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Provide a wide photograph and describe the visible origin without disturbing fittings. Keep clear of wet electrical controls; a vessel leak should not be confused with normal safety discharge through its intended route."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can water beside a cylinder come from something other than the vessel?",
+      "answer": "Yes. Connections, valves, discharge and nearby pipework can leak; the origin must be traced before recommending a replacement cylinder."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/megaflo-eco-indirect",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__cylinder-leaking",
+  "targetIntent": "Water is leaking around a cylinder",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Water is leaking around a cylinder",
+      "path": "/problems/cylinder-leaking"
+    }
+  ]
+}

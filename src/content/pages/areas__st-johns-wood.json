@@ -1,0 +1,86 @@
+{
+  "path": "/areas/st-johns-wood",
+  "type": "area",
+  "h1": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+  "title": "G3 Engineer St John’s Wood | Cylinder & Megaflo Help",
+  "description": "Discuss Megaflo and unvented cylinder servicing or faults in St John’s Wood. Share the postcode and model; call 020 7205 4433 to check availability.",
+  "answer": "For St John’s Wood performance enquiries, describe simultaneous outlet use, normal heating times and recovery between uses.",
+  "sections": [
+    {
+      "heading": "Explain simultaneous demand",
+      "paragraphs": [
+        "For St John’s Wood capacity or performance enquiries, describe normal simultaneous use and recovery between uses. Increasing nominal storage does not by itself cure a restricted incoming supply or outlet fault."
+      ]
+    },
+    {
+      "heading": "Choose the enquiry that matches the problem",
+      "paragraphs": [
+        "The service range includes planned unvented-cylinder and Megaflo maintenance, diagnostic repairs, expansion and discharge investigations, immersion or control concerns and replacement assessments. The engineer and competence must suit the installed appliance and actual work; a brand name alone is not enough."
+      ]
+    },
+    {
+      "heading": "Postcode and appointment arrangements",
+      "paragraphs": [
+        "Indicative nearby outward postcode areas: NW8. Postal boundaries do not define a guaranteed service radius. Availability is agreed for the actual postcode, system type, urgency and access. This service-area page does not represent a branch office or claim a local completed project."
+      ]
+    },
+    {
+      "heading": "Discuss the next step",
+      "paragraphs": [
+        "Call 020 7205 4433 or prepare an email enquiry to info@g3qualifiedengineerlondon.co.uk. Include any written service findings and identify the person who can authorise work. The website does not confirm a booking, arrival time or emergency attendance."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What helps assess hot water running out during multiple uses in St John’s Wood?",
+      "answer": "Describe simultaneous outlets, normal heating schedule and how quickly hot water returns; capacity, supply and available heat input need separate consideration."
+    }
+  ],
+  "links": [
+    {
+      "path": "/services/cylinder-replacement",
+      "label": "Relevant service"
+    },
+    {
+      "path": "/areas",
+      "label": "Full London coverage"
+    },
+    {
+      "path": "/problems",
+      "label": "Find the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Check this postcode"
+    }
+  ],
+  "sourceIds": [
+    "gov-g"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "areas",
+  "areaName": "St John’s Wood",
+  "fileKey": "areas__st-johns-wood",
+  "targetIntent": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Areas",
+      "path": "/areas"
+    },
+    {
+      "label": "G3 cylinder and Megaflo enquiries in St John’s Wood",
+      "path": "/areas/st-johns-wood"
+    }
+  ]
+}

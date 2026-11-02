@@ -1,0 +1,101 @@
+{
+  "path": "/fault-codes/mixergy-controller-led-status",
+  "type": "article",
+  "h1": "Mixergy controller LED status: match the pattern",
+  "title": "Mixergy Controller LED Meanings | Model-Aware Guide",
+  "description": "Read the published Mixergy main controller LED status patterns and distinguish updating, sensor, gauge and processor indications without opening covers.",
+  "answer": "The manufacturer’s main PCB controller guide distinguishes status by colour and flash frequency. This table must not be applied to a different gauge or controller without confirmation.",
+  "sections": [
+    {
+      "heading": "Scope of the status table",
+      "paragraphs": [
+        "This reference concerns the main PCB controller named by Mixergy. Do not remove a cover to view it. The normal homeowner gauge and Wi-Fi indication are separate references. A suitably competent operative can match the controller and its status."
+      ]
+    },
+    {
+      "heading": "What the indication does and does not establish",
+      "paragraphs": [
+        "An indication identifies a reported condition; it does not establish that a particular spare part must be replaced. Internal sensor, connection and controller checks belong to appropriate competent work or manufacturer technical support."
+      ]
+    },
+    {
+      "heading": "Share a useful observation",
+      "paragraphs": [
+        "If a pattern is already safely visible, record its colour and approximate frequency without touching electrical equipment. Share the full model and symptom. For an update state, follow manufacturer advice rather than cycling power to force a restart."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I apply a Mixergy main-controller LED meaning to any visible cylinder light?",
+      "answer": "No. The main controller and homeowner gauge have different references; identify the component and model before applying a status meaning."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/mixergy",
+      "label": "Mixergy product context"
+    },
+    {
+      "path": "/problems/mixergy-offline",
+      "label": "Gauge connectivity context"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss model and competence"
+    }
+  ],
+  "sourceIds": [
+    "mixergy-led"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "indicators",
+  "fileKey": "fault-codes__mixergy-controller-led-status",
+  "targetIntent": "Mixergy controller LED status: match the pattern",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Fault indicators",
+      "path": "/fault-codes"
+    },
+    {
+      "label": "Mixergy controller LED status: match the pattern",
+      "path": "/fault-codes/mixergy-controller-led-status"
+    }
+  ],
+  "indicatorTable": [
+    {
+      "pattern": "Flashing green",
+      "meaning": "Normal system status"
+    },
+    {
+      "pattern": "Solid green/red",
+      "meaning": "Updating; manufacturer says not to interrupt power"
+    },
+    {
+      "pattern": "Red every two seconds",
+      "meaning": "Temperature-sensor condition"
+    },
+    {
+      "pattern": "Red once per second",
+      "meaning": "Gauge not detected"
+    },
+    {
+      "pattern": "Red twice per second",
+      "meaning": "Energy-measurement condition"
+    },
+    {
+      "pattern": "Red five times per second",
+      "meaning": "Main-processor condition"
+    }
+  ]
+}

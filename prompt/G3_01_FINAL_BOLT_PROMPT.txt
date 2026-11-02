@@ -1,0 +1,69 @@
+G3 QUALIFIED ENGINEER LONDON - COMPLETE BOLT HANDOFF
+Version: 13 October 2026. Domain: https://g3qualifiedengineerlondon.co.uk/
+
+Build the full premium website from these ten text documents and eight visual files. All attachments are ordinary input files. Do not try to import a downloaded .mjs, unzip a package or reference a ChatGPT workspace path. Uploaded images must be copied to public/images with their exact basenames. Document 09 defines every path.
+
+OUTCOME
+Create a complete, polished, mobile-responsive London cylinder specialist website. Main focus: G3-qualified unvented-cylinder work, Megaflo and Heatrae Sadia. The user explicitly clarified Heatrae Sadia rather than Hitachi. Other UK cylinder brands are technical information guides; do not turn that into unverified official-partner status or universal repair capability.
+Implement all 116 supplied routes, including a real 404 page. This is 115 content pages and 111 production-indexable routes in the supplied default record. Provide the full content and 107 distinct FAQs, metadata and schema, not just a homepage mockup.
+
+READING ORDER AND INPUT CONTRACT
+01 this build instruction.
+02 current site findings, protected URLs, contact facts and src/data/site.json.
+03 core pages, services and local coverage: 43 separate page JSON blocks.
+04 brands and products: 28 separate page JSON blocks.
+05 symptoms and indicators: 33 separate page JSON blocks.
+06 knowledge: 12 separate page JSON blocks.
+07 modular implementation, tested metadata/schema utilities and page-generation helpers.
+08 schema framework, actual examples and every-page verification index. The optional FULL_SCHEMA_REFERENCE duplicates expanded output and must not be uploaded as a Bolt input.
+09 uploaded image mapping and original vector logo sources.
+10 question research, organic keyword plan, evidence boundaries and final QA.
+The BEGIN FILE / END FILE markers describe project files to create; they are not public website content. Do not display attachment instructions, approval flags, research notes or file paths to visitors.
+
+ARCHITECTURE
+Use Astro with TypeScript and static rendering so every route has meaningful initial HTML, its own head, canonical and JSON-LD. Use a currently compatible stable Astro version and matching Node environment; record actual versions. Install only required packages and save a lockfile. If the build environment requires another framework, preserve static/server-rendered HTML and the independently editable page/component structure; document the change and test it. A JavaScript-only empty-root SPA is not an acceptable substitute.
+Use src/content/pages/<fileKey>.json for each page and a separate .astro wrapper for every route. Use separate Header, DesktopNavigation, MobileMenu, Footer, Logo, PageHero, Breadcrumbs, ContentSections, FAQBlock, SourceNote, AuthorBlock, QuoteCTA, ContactDraft, SafetyNotice, ProductImage, IndicatorTable, RelatedReading and SEO components. Each page template lives in its own file. App.tsx must not contain the whole website. A developer must be able to edit one page without finding its text in a switch statement containing every other page.
+Document 07 includes helpers. Create their ordinary project files inside Bolt, then run them there. No importer upload is required. Do not modify all content into a single runtime array. A temporary full audit snapshot may exist outside public code, but runtime content must remain individual files.
+
+DESIGN DIRECTION
+Keep the existing G3 navy and orange identity: deep navy #0E2A47, action orange #E97824, blue #155FA0, pale background #EEF4F8, ink #202A33. The manufacturer product images also fit this palette. Build a high-end specialist service design with generous editorial spacing, confident typography and precise navigation. Avoid stock-looking endless identical cards, fake badge strips and aggressive emergency claims.
+Use the supplied original SVG wordmark; it is an independent G3 service logo, not an accreditation badge. Header: compact logo, simple grouped Services / Equipment / Problems / Knowledge / Areas / About navigation and a visible phone CTA. Keep the business email available above the fold. Mobile: clear menu with focus management and a compact persistent call/enquiry bar that does not obstruct content or form controls.
+Homepage hero: concise problem-led copy at left, genuine Megaflo product reference at right on a clean technical stage. Do not stretch a 400-pixel manufacturer image across a giant banner. Keep the original image uncropped and labelled as product imagery, not an actual job. Use original CSS/SVG atmosphere and diagrams; do not invent a photograph of Yassi or fake a client installation.
+Below the hero: symptom navigation, key services, correct cylinder/heat-source distinctions, practical process, London coverage and selective FAQs. Use editorial tables for model distinctions and the supplied Mixergy status table. There should be a useful decision at every section, with clear contact routes.
+Service, symptom, product and local pages should have distinct layout emphasis and content order. Long guides need a compact contents list and related reading. Mobile layouts must work from 320px, with readable paragraphs, large controls, keyboard access and no horizontal overflow. Target WCAG 2.2 AA and respect reduced motion. Body text should normally be 16-18px with readable line length. Use modest motion, no scroll hijacking.
+
+BUSINESS AND EVIDENCE
+Phone everywhere: 020 7205 4433, tel:+442072054433. Email: info@g3qualifiedengineerlondon.co.uk. Do not reuse Ideal or Chelsea phone numbers. No confirmed WhatsApp number, office address, GBP link or owned social URLs has been provided. Hide absent links; never insert # social buttons or another brand's profiles.
+Yassi is the lead name already provided for this business. Do not invent a surname, years of experience, qualification number, manufacturer approval or completed technical review. The personal profile is prepared but held from production indexing until its approval record is complete. Do not reuse the Chelsea portrait without confirming it depicts the approved G3 author.
+No verified completed jobs or reviews were recovered. Build reusable evidence components with empty private data, and omit them from the public layout until genuine evidence is added. Do not show placeholder review cards, fabricated jobs, stars or fake authority scores. Trust currently comes from clear service scope, technical references, actual contacts and useful guidance.
+Preserve the four discovered URLs and original homepage anchors in document 02. The site does not expose a usable sitemap or recoverable blog archive in this audit. Do not claim all deleted historical URLs are known. A later Search Console/export/backup check can append real historic paths without replacing this route list.
+
+TECHNICAL CONTENT
+Megaflo is not a gas combi boiler. Do not insert Vaillant F-codes or boiler reset lists into its cylinder pages. Most conventional cylinders report symptoms rather than universal numeric codes. Amptec's documented light patterns, Electromax diagnostic paths and Mixergy controller statuses have their own scope.
+Keep visible answers and FAQ answers exactly aligned with the corresponding data. A short answer can introduce a topic, with fuller safety/context below; do not compress important limits to meet an artificial word quota. Source references identify the exact product document. Do not copy engineer-only live tests, valve alterations or cut-out bypassing into public DIY instructions.
+G3 training, gas registration, electrical competence and self-certification scheme membership are different. Do not claim a universal legally required annual G3 landlord certificate. Separate maintenance records, commissioning, installation notification, gas safety duties and water-risk management.
+
+SEO AND GENERATIVE SEARCH
+Every route needs one descriptive H1, one effective title, unique description, canonical, Open Graph and social metadata, readable breadcrumb and appropriate JSON-LD. Use document 07's metadata/schema functions from the same page record used for visible content. Do not place the homepage title or graph on all routes.
+Use actual internal links from the page data, real resource links, source context and model distinctions. Do not create brand x city x fault permutations or repeat an answer on dozens of near-identical pages. Each area page has a distinct enquiry focus; retain it. No fake offices or local installation prevalence statistics.
+FAQPage markup is semantic documentation, not a promise of FAQ rich results. Google's FAQ rich-result feature was retired in May 2026. Google does not require special AI schema or llms.txt to appear in its AI features. Provide indexable, snippet-eligible useful HTML; avoid guarantees of ranking, AI citations or authority scores.
+Allow legitimate search crawling in production and assess CDN/WAF access. OpenAI's OAI-SearchBot is distinct from GPTBot training controls. Do not change the owner's training policy or use ads. Keep a production sitemap of the actual approved indexable routes. Preview mode carries noindex,follow, and an empty sitemap; production is an explicit deployment setting.
+Do not invent publication dates or show an automatic global Reviewed today date. Actual publication, substantive update and qualified review records are manual page fields. Render only completed factual records; keep the approval workflow private.
+
+FUNCTIONAL ENQUIRIES
+Fix the existing site's false Enquiry Received behaviour. Default supplied mode is a fully working email-draft enquiry: validate data, generate a readable message, let the user copy it or open their email app and send it. Explicitly say the website has not sent it. Do not pretend an email has been delivered or a visit has been booked.
+If an owner-authorised server delivery connection is available in Bolt, implement it as a separate form service with real server-side validation, spam controls and server-held secrets. Show success only on a confirmed backend response and complete a real owner-recipient delivery test. Until that is connected, keep the honest email-draft/phone workflow. No mail secrets in browser code and no silent photo upload.
+The form must remain usable on mobile and without JavaScript via visible telephone/email links. Use document 07's tested draft utility; keep this separate from presentation code. Update privacy information when the actual processing changes.
+
+BUILD SEQUENCE WITHIN THIS REQUEST
+1 Inventory all attachments; confirm eight visual files and 116 page records before building.
+2 Create the foundation, site data, separate page data, shared components and header/footer.
+3 Create core/service/local pages, then product/brand guides, symptom/indicator guides and knowledge pages. Keep a route checklist; do not stop at the homepage.
+4 Implement head/schema, sitemap, forms, responsive behaviour and asset optimisation.
+5 Run the production build, data checks and route/interaction checks. Fix failures. Record which checks actually ran.
+Work in manageable internal phases, saving progress. Do not regenerate all existing files repeatedly or put everything in one component. If a token/session limit interrupts work, state the exact completed/missing route set and continue from that checkpoint; do not report the whole site complete prematurely.
+
+DEFINITION OF DONE
+All 116 routes have their supplied independently editable content; 115 content pages have the expected schema; 111 default production-indexable routes appear in the production sitemap. The held author profile and legal records follow their explicit flags; the 404 route returns a real 404 on hosting. All menus, phone/email actions, FAQ controls, related links, tables and form draft/copy flows work. No visible pending text, dummy social icons, fake reviews, broken images or placeholder sections.
+Inspect desktop, tablet and mobile; test keyboard navigation, menu focus/escape and reduced motion. Verify meaningful initial HTML and page-specific title/description/canonical/JSON-LD on every route. Test an unknown route and an old anchor. Run data validations and a build. Check important pages with the Schema Markup Validator, and relevant supported types with Google's Rich Results Test; report unsupported FAQ rich results accurately.
+Deliver the working preview, route report, component/file map and accurate remaining production connections/evidence list. Do not claim an external audit or a successful email delivery unless it was actually performed.

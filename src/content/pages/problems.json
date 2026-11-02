@@ -1,0 +1,153 @@
+{
+  "path": "/problems",
+  "type": "collection",
+  "h1": "Find your cylinder or hot-water symptom",
+  "title": "Cylinder Problems | No Hot Water, Tundish & Pressure Help",
+  "description": "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes.",
+  "answer": "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Start with what you observe: cold water, no flow, poor delivery, discharge, a leak or abnormal heating. Similar symptoms can have different causes."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/problems/no-hot-water",
+      "label": "No hot water from an unvented cylinder"
+    },
+    {
+      "path": "/problems/hot-taps-running-cold",
+      "label": "Hot taps run, but the water is cold"
+    },
+    {
+      "path": "/problems/water-warm-not-hot",
+      "label": "Cylinder water is warm rather than hot"
+    },
+    {
+      "path": "/problems/hot-water-runs-out-quickly",
+      "label": "Stored hot water runs out too quickly"
+    },
+    {
+      "path": "/problems/slow-hot-water-recovery",
+      "label": "A cylinder takes too long to reheat"
+    },
+    {
+      "path": "/problems/low-hot-water-pressure",
+      "label": "Low hot-water flow or pressure"
+    },
+    {
+      "path": "/problems/no-flow-from-hot-taps",
+      "label": "No water flows from hot taps"
+    },
+    {
+      "path": "/problems/tundish-dripping-continuously",
+      "label": "A tundish drips continuously"
+    },
+    {
+      "path": "/problems/tundish-drips-when-heating",
+      "label": "A tundish drips only while heating"
+    },
+    {
+      "path": "/problems/tundish-hot-water-or-steam",
+      "label": "Hot water or steam from cylinder discharge"
+    },
+    {
+      "path": "/problems/cylinder-leaking",
+      "label": "Water is leaking around a cylinder"
+    },
+    {
+      "path": "/problems/valve-or-pipework-leak",
+      "label": "A cylinder valve or pipe joint is leaking"
+    },
+    {
+      "path": "/problems/megaflo-air-gap-keeps-losing",
+      "label": "A Megaflo air-gap problem keeps returning"
+    },
+    {
+      "path": "/problems/expansion-vessel-problem",
+      "label": "Possible cylinder expansion-vessel problem"
+    },
+    {
+      "path": "/problems/off-peak-not-working-boost-works",
+      "label": "Off-peak hot water fails, but boost works"
+    },
+    {
+      "path": "/problems/immersion-heater-trips-electrics",
+      "label": "An immersion heater trips the electrics"
+    },
+    {
+      "path": "/problems/thermal-cut-out-keeps-tripping",
+      "label": "A cylinder thermal cut-out keeps operating"
+    },
+    {
+      "path": "/problems/noisy-cylinder",
+      "label": "New noises from a hot-water cylinder"
+    },
+    {
+      "path": "/problems/shower-cold-other-taps-hot",
+      "label": "The shower is cold, but other taps are hot"
+    },
+    {
+      "path": "/problems/cold-taps-running-warm",
+      "label": "Warm water appears at a cold tap"
+    },
+    {
+      "path": "/problems/water-hammer",
+      "label": "Banging pipes or water hammer near a cylinder"
+    },
+    {
+      "path": "/problems/milky-hot-water",
+      "label": "Hot water looks milky or cloudy"
+    },
+    {
+      "path": "/problems/high-hot-water-bills",
+      "label": "Hot-water energy use seems unusually high"
+    },
+    {
+      "path": "/problems/fault-returns-after-service",
+      "label": "The cylinder symptom returns after a service"
+    },
+    {
+      "path": "/problems/no-flow-after-plumbing-work",
+      "label": "Hot-water flow changes after plumbing work"
+    },
+    {
+      "path": "/problems/mixergy-offline",
+      "label": "Mixergy is offline: is hot water still available?"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "problems",
+  "fileKey": "problems",
+  "targetIntent": "Find your cylinder or hot-water symptom",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Find your cylinder or hot-water symptom",
+      "path": "/problems"
+    }
+  ]
+}

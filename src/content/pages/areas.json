@@ -1,0 +1,113 @@
+{
+  "path": "/areas",
+  "type": "collection",
+  "h1": "London coverage and postcode enquiries",
+  "title": "London G3 Service Areas | Fulham, Acton & West London",
+  "description": "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system.",
+  "answer": "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system.",
+  "sections": [
+    {
+      "heading": "Choose a focused guide",
+      "paragraphs": [
+        "Priority enquiries include Fulham and Acton, with the existing London coverage areas retained. Availability is confirmed for the actual postcode and system."
+      ]
+    },
+    {
+      "heading": "Use the equipment and symptom together",
+      "paragraphs": [
+        "The full model and heating method determine which advice applies. The linked pages provide different routes for maintenance, heating failure, water flow, discharge and controls. A guide supports identification and a useful enquiry; it does not replace competent system assessment."
+      ]
+    },
+    {
+      "heading": "Further areas retained from the existing website",
+      "paragraphs": [
+        "The current site also names Westminster, Mayfair, Marylebone, Paddington, Bayswater, Notting Hill, Chiswick, Battersea, Clapham, Wandsworth, Twickenham, Hampstead, Camden, Highgate and Islington. Selected attendance elsewhere is discussed by postcode; no unverified office addresses or brand-installation density claims are made."
+      ]
+    }
+  ],
+  "faqs": [],
+  "links": [
+    {
+      "path": "/areas/fulham",
+      "label": "G3 cylinder and Megaflo enquiries in Fulham"
+    },
+    {
+      "path": "/areas/acton",
+      "label": "G3 cylinder and Megaflo enquiries in Acton"
+    },
+    {
+      "path": "/areas/hammersmith",
+      "label": "G3 cylinder and Megaflo enquiries in Hammersmith"
+    },
+    {
+      "path": "/areas/chelsea",
+      "label": "G3 cylinder and Megaflo enquiries in Chelsea"
+    },
+    {
+      "path": "/areas/kensington",
+      "label": "G3 cylinder and Megaflo enquiries in Kensington"
+    },
+    {
+      "path": "/areas/south-kensington",
+      "label": "G3 cylinder and Megaflo enquiries in South Kensington"
+    },
+    {
+      "path": "/areas/putney",
+      "label": "G3 cylinder and Megaflo enquiries in Putney"
+    },
+    {
+      "path": "/areas/richmond",
+      "label": "G3 cylinder and Megaflo enquiries in Richmond"
+    },
+    {
+      "path": "/areas/maida-vale",
+      "label": "G3 cylinder and Megaflo enquiries in Maida Vale"
+    },
+    {
+      "path": "/areas/st-johns-wood",
+      "label": "G3 cylinder and Megaflo enquiries in St John’s Wood"
+    },
+    {
+      "path": "/areas/ealing",
+      "label": "G3 cylinder and Megaflo enquiries in Ealing"
+    },
+    {
+      "path": "/areas/notting-hill-gate",
+      "label": "G3 cylinder and Megaflo enquiries in Notting Hill Gate"
+    },
+    {
+      "path": "/areas/holland-park",
+      "label": "G3 cylinder and Megaflo enquiries in Holland Park"
+    },
+    {
+      "path": "/areas/shepherds-bush",
+      "label": "G3 cylinder and Megaflo enquiries in Shepherd’s Bush"
+    },
+    {
+      "path": "/areas/earls-court",
+      "label": "G3 cylinder and Megaflo enquiries in Earl’s Court"
+    }
+  ],
+  "sourceIds": [],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "core",
+  "collectionGroup": "areas",
+  "fileKey": "areas",
+  "targetIntent": "London coverage and postcode enquiries",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "London coverage and postcode enquiries",
+      "path": "/areas"
+    }
+  ]
+}

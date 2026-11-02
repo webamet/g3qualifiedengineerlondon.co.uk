@@ -1,0 +1,85 @@
+{
+  "path": "/brands/heatrae-sadia",
+  "type": "article",
+  "h1": "Heatrae Sadia: identification and hot-water help",
+  "title": "Heatrae Sadia Guide | G3 Cylinder Knowledge",
+  "description": "Heatrae Sadia makes different cylinder, storage water-heater and electric-boiler products; the name alone does not identify the appliance.",
+  "answer": "Heatrae Sadia makes different cylinder, storage water-heater and electric-boiler products; the name alone does not identify the appliance.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Megaflo and PremierPlus store domestic hot water. Amptec supplies a wet heating circuit, while Electromax combines an electric flow boiler with hot-water storage. Multipoint products have their own storage or instantaneous configurations."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Photograph the full data label. A G3 cylinder enquiry, an electric-boiler alarm and a point-of-use heater fault may require different competence and instructions."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does Heatrae Sadia on the label identify the heating method?",
+      "answer": "No. Check the product name and model; the manufacturer supplies cylinders, electric boilers and several types of water heater."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-products"
+  ],
+  "image": "/images/g3-heatrae-electromax.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__heatrae-sadia",
+  "targetIntent": "Heatrae Sadia: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Heatrae Sadia: identification and hot-water help",
+      "path": "/brands/heatrae-sadia"
+    }
+  ]
+}

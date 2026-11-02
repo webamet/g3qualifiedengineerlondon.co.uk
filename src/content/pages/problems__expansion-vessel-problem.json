@@ -1,0 +1,94 @@
+{
+  "path": "/problems/expansion-vessel-problem",
+  "type": "article",
+  "h1": "Possible cylinder expansion-vessel problem",
+  "title": "Possible cylinder expansion-vessel problem | G3 Cylinder Help",
+  "description": "Understand possible cylinder expansion-vessel problem. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Repeated pressure-related discharge can suggest an expansion issue, but the vessel, circuit and manufacturer requirements must first be identified.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "A heating-circuit vessel and a potable-water cylinder vessel are not interchangeable. Concealed vessels or multiple expansion components may be present on some products. Colour and location alone are not a reliable diagnosis."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the equipment labels and discharge timing. Checking or adjusting a vessel requires a competent procedure for the actual system, not a universal pressure copied from another product."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a boiler expansion vessel cure a domestic-water expansion problem?",
+      "answer": "Not as a general substitution. The circuits, vessel suitability and design differ; competent assessment must identify the expansion provision needed."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/oso",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/expansion-vessel-services",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "oso-super"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__expansion-vessel-problem",
+  "targetIntent": "Possible cylinder expansion-vessel problem",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Possible cylinder expansion-vessel problem",
+      "path": "/problems/expansion-vessel-problem"
+    }
+  ]
+}

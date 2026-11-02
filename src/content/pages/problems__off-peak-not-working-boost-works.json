@@ -1,0 +1,94 @@
+{
+  "path": "/problems/off-peak-not-working-boost-works",
+  "type": "article",
+  "h1": "Off-peak hot water fails, but boost works",
+  "title": "Off-peak hot water fails, but boost works | G3 Cylinder Help",
+  "description": "Understand off-peak hot water fails, but boost works. Distinguish the symptom, gather useful details and arrange competent cylinder assessment in London.",
+  "answer": "Working boost with failed off-peak heating can indicate separate supplies, controls or heater paths; it does not prove the whole cylinder has failed.",
+  "sections": [
+    {
+      "heading": "What this symptom can mean",
+      "paragraphs": [
+        "The Electromax manufacturer fault diagrams distinguish off-peak and boost immersion paths. Other direct-cylinder systems also need their actual wiring and programme arrangement identified, rather than assuming they match that model."
+      ]
+    },
+    {
+      "heading": "Information to gather safely",
+      "paragraphs": [
+        "Record the tariff arrangement, normal schedule and which accessible control produces hot water. Internal supply checks and electrical testing must be carried out by a suitably competent person."
+      ]
+    },
+    {
+      "heading": "How the enquiry becomes an investigation",
+      "paragraphs": [
+        "The cylinder make, full model and heating arrangement should be identified first. The same visible symptom can arise from different causes, and a relief device may be protecting the system rather than creating the original problem. Component testing and any repair belong to a person competent for the work."
+      ]
+    },
+    {
+      "heading": "Discuss the appropriate next step",
+      "paragraphs": [
+        "Call 020 7205 4433 with the postcode, symptom history and any previous service findings. The enquiry establishes the proposed assessment and availability. Do not use this guide as a substitute for the actual appliance safety instructions or an on-site diagnosis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What does working boost tell us about a failed off-peak programme?",
+      "answer": "It shows one heating path may still operate; timed supply, controls and the other heater path require separate competent investigation."
+    }
+  ],
+  "links": [
+    {
+      "path": "/products/heatrae-sadia-electromax",
+      "label": "Relevant equipment context"
+    },
+    {
+      "path": "/services/immersion-heater-and-thermostat",
+      "label": "Relevant assessment service"
+    },
+    {
+      "path": "/problems",
+      "label": "Compare symptoms"
+    },
+    {
+      "path": "/services/unvented-cylinder-repairs",
+      "label": "Repair assessment"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find model instructions"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the fault"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "problems",
+  "urgent": false,
+  "fileKey": "problems__off-peak-not-working-boost-works",
+  "targetIntent": "Off-peak hot water fails, but boost works",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Problems",
+      "path": "/problems"
+    },
+    {
+      "label": "Off-peak hot water fails, but boost works",
+      "path": "/problems/off-peak-not-working-boost-works"
+    }
+  ]
+}

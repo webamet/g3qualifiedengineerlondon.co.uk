@@ -1,0 +1,2523 @@
+G3 WEBSITE CONTENT - 28 INDEPENDENT PAGE RECORDS
+
+Each block becomes one exact project JSON file. Render its visible answer, sections, bullets, tables, selective FAQs, sources and related links. Title and description are the page metadata. All paragraphs are final draft copy, not a request for lorem ipsum. Preserve nullable manual date/review fields; do not auto-invent them. The draft profile and legal content follow their flags.
+
+
+BEGIN FILE: src/content/pages/brands__megaflo.json
+{
+  "path": "/brands/megaflo",
+  "type": "article",
+  "h1": "Megaflo: identification and hot-water help",
+  "title": "Megaflo Guide | G3 Cylinder Knowledge",
+  "description": "Heatrae Sadia manufactures Megaflo unvented cylinders. Identify the model before applying air-gap advice, selecting controls or arranging service.",
+  "answer": "Heatrae Sadia manufactures Megaflo unvented cylinders. Identify the model before applying air-gap advice, selecting controls or arranging service.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Eco direct and indirect, Slimline, SystemFit, SystemReady, solar variants and larger Eco Plus cylinders need their own instructions. Many familiar domestic Megaflo models have internal expansion provision, but this is not a rule for every product with Megaflo in its name."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "A drip during heating, cold water at every hot tap and a single cold shower are different enquiries. Record the model label and symptom history so the investigation follows the correct circuit."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does the word Megaflo mean I can follow any Megaflo air-gap video?",
+      "answer": "No. Identify the exact model and arrangement first; instructions for internal expansion do not apply universally across the entire Megaflo range."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual"
+  ],
+  "image": "/images/g3-megaflo-eco-direct.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__megaflo",
+  "targetIntent": "Megaflo: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Megaflo: identification and hot-water help",
+      "path": "/brands/megaflo"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__heatrae-sadia.json
+{
+  "path": "/brands/heatrae-sadia",
+  "type": "article",
+  "h1": "Heatrae Sadia: identification and hot-water help",
+  "title": "Heatrae Sadia Guide | G3 Cylinder Knowledge",
+  "description": "Heatrae Sadia makes different cylinder, storage water-heater and electric-boiler products; the name alone does not identify the appliance.",
+  "answer": "Heatrae Sadia makes different cylinder, storage water-heater and electric-boiler products; the name alone does not identify the appliance.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Megaflo and PremierPlus store domestic hot water. Amptec supplies a wet heating circuit, while Electromax combines an electric flow boiler with hot-water storage. Multipoint products have their own storage or instantaneous configurations."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Photograph the full data label. A G3 cylinder enquiry, an electric-boiler alarm and a point-of-use heater fault may require different competence and instructions."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does Heatrae Sadia on the label identify the heating method?",
+      "answer": "No. Check the product name and model; the manufacturer supplies cylinders, electric boilers and several types of water heater."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-products"
+  ],
+  "image": "/images/g3-heatrae-electromax.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__heatrae-sadia",
+  "targetIntent": "Heatrae Sadia: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Heatrae Sadia: identification and hot-water help",
+      "path": "/brands/heatrae-sadia"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__santon-premierplus.json
+{
+  "path": "/brands/santon-premierplus",
+  "type": "article",
+  "h1": "Santon and PremierPlus: identification and hot-water help",
+  "title": "Santon and PremierPlus Guide | G3 Cylinder Knowledge",
+  "description": "Older Santon PremierPlus labels need their matching instructions; the PremierPlus product name later moved to the Heatrae Sadia brand.",
+  "answer": "Older Santon PremierPlus labels need their matching instructions; the PremierPlus product name later moved to the Heatrae Sadia brand.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "A legacy Santon label should not be treated as a Megaflo Eco service specification. PremierPlus variants include direct, indirect, solar and pre-plumbed products, and model identification matters for expansion and controls."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Use the manufacturer discontinued-product and literature records when investigating older equipment. A current product resemblance is not proof of parts compatibility or warranty cover."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I order Megaflo controls just because my older cylinder is Santon PremierPlus?",
+      "answer": "No. Match the full PremierPlus model and approved parts record; shared manufacturer history does not make every component interchangeable."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-glossary"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__santon-premierplus",
+  "targetIntent": "Santon and PremierPlus: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Santon and PremierPlus: identification and hot-water help",
+      "path": "/brands/santon-premierplus"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__gledhill.json
+{
+  "path": "/brands/gledhill",
+  "type": "article",
+  "h1": "Gledhill cylinders: identification and hot-water help",
+  "title": "Gledhill cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Gledhill unvented cylinders and Gledhill thermal stores are different product types. Identify the appliance before arranging G3 cylinder work.",
+  "answer": "Gledhill unvented cylinders and Gledhill thermal stores are different product types. Identify the appliance before arranging G3 cylinder work.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "StainlessLite and Stainless Platinum are cylinder families listed in the manufacturer library. PulsaCoil and BoilerMate literature is also listed there, but those names must not be treated as equivalent unvented-cylinder designs."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "The correct manual follows the data label, cylinder type and generation. An external expansion arrangement on one model does not establish the layout on another. For enquiries, state whether the label says StainlessLite, Platinum, PulsaCoil or BoilerMate."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is every Gledhill appliance an unvented cylinder?",
+      "answer": "No. Gledhill also has thermal-store products; identify the exact product before applying unvented-cylinder servicing or diagnosis guidance."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "gledhill"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__gledhill",
+  "targetIntent": "Gledhill cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Gledhill cylinders: identification and hot-water help",
+      "path": "/brands/gledhill"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__oso.json
+{
+  "path": "/brands/oso",
+  "type": "article",
+  "h1": "OSO hot-water cylinders: identification and hot-water help",
+  "title": "OSO hot-water cylinders Guide | G3 Cylinder Knowledge",
+  "description": "OSO model generations have different concealed components and expansion arrangements. The appliance label and manual are essential.",
+  "answer": "OSO model generations have different concealed components and expansion arrangements. The appliance label and manual are essential.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "For example, the Super Xpress S2X manual describes an expansion-vessel arrangement concealed within the design. That should not be confused with an instruction for a Megaflo internal air volume."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Do not assume a vessel is absent simply because it is not visible beside the cylinder. Access panels and internal safety devices are for competent assessment. Supply and flow requirements also need to be taken from the actual model specification."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why might I not see an expansion vessel beside an OSO cylinder?",
+      "answer": "Some OSO models conceal expansion components within their design; the matching manual and competent inspection establish the installed arrangement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "oso-super"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__oso",
+  "targetIntent": "OSO hot-water cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "OSO hot-water cylinders: identification and hot-water help",
+      "path": "/brands/oso"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__joule.json
+{
+  "path": "/brands/joule",
+  "type": "article",
+  "h1": "Joule cylinders: identification and hot-water help",
+  "title": "Joule cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Joule lists several cylinder ranges and model manuals. A range name and full label help separate standard, solar and heat-pump configurations.",
+  "answer": "Joule lists several cylinder ranges and model manuals. A range name and full label help separate standard, solar and heat-pump configurations.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "The official library includes Cyclone Plus, Cyclone Platinum, Cyclone Air and other ranges. Different products are designed for different heating sources; a heat-pump cylinder specification is not automatically suitable for every existing system."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Use the installed label rather than a shopping listing when locating instructions. Controller codes, if present, belong to the controller and product combination and should not be invented as universal Joule cylinder codes."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does Cyclone Air use the same specification as every Cyclone cylinder?",
+      "answer": "No. Joule publishes separate manuals by range; match the installed product and intended heat source before planning assessment or replacement."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "joule"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__joule",
+  "targetIntent": "Joule cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Joule cylinders: identification and hot-water help",
+      "path": "/brands/joule"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__rm-stelflow.json
+{
+  "path": "/brands/rm-stelflow",
+  "type": "article",
+  "h1": "RM and Stelflow cylinders: identification and hot-water help",
+  "title": "RM and Stelflow cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Stelflow model guidance is available within the official Joule knowledge library alongside named related cylinder ranges.",
+  "answer": "Stelflow model guidance is available within the official Joule knowledge library alongside named related cylinder ranges.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Legacy branding and the current manual library can differ. Keep the full label, model reference and commissioning record rather than identifying the appliance only as an RM tank."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "The official Stelflow, Cyclone Plus and Evocyl manual entry names the covered ranges. It is a useful starting point, but actual components and heating method must still be matched to the installed product."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Where can I start looking for an older Stelflow manual?",
+      "answer": "Use the official Stelflow, Cyclone Plus and Evocyl library entry, then match its covered model to the installed data label."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "joule-rm"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__rm-stelflow",
+  "targetIntent": "RM and Stelflow cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "RM and Stelflow cylinders: identification and hot-water help",
+      "path": "/brands/rm-stelflow"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__telford-tempest.json
+{
+  "path": "/brands/telford-tempest",
+  "type": "article",
+  "h1": "Telford Tempest cylinders: identification and hot-water help",
+  "title": "Telford Tempest cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Telford publishes unvented-cylinder guidance and separate product descriptions for direct, indirect, solar and heat-pump configurations.",
+  "answer": "Telford publishes unvented-cylinder guidance and separate product descriptions for direct, indirect, solar and heat-pump configurations.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "A direct Tempest uses electrical heating; an indirect configuration transfers heat from an appropriate connected source. Products for renewables and restricted spaces have further model-specific requirements."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Replacement should be based on heating compatibility, measured supply and available access. Do not choose a cylinder simply because its external diameter resembles the existing appliance. The discharge and expansion arrangements also need assessment."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I replace a Tempest direct cylinder with an indirect version without other changes?",
+      "answer": "Not automatically. The heating source, controls, supply and installation requirements differ; a competent survey must establish the appropriate configuration."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "telford"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__telford-tempest",
+  "targetIntent": "Telford Tempest cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Telford Tempest cylinders: identification and hot-water help",
+      "path": "/brands/telford-tempest"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__vaillant-unistor.json
+{
+  "path": "/brands/vaillant-unistor",
+  "type": "article",
+  "h1": "Vaillant uniSTOR cylinders: identification and hot-water help",
+  "title": "Vaillant uniSTOR cylinders Guide | G3 Cylinder Knowledge",
+  "description": "A uniSTOR cylinder and the connected Vaillant boiler are separate appliances. A displayed boiler fault does not automatically diagnose the cylinder.",
+  "answer": "A uniSTOR cylinder and the connected Vaillant boiler are separate appliances. A displayed boiler fault does not automatically diagnose the cylinder.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "Vaillant publishes uniSTOR model instructions with commissioning and maintenance information. Solar and heat-pump cylinder variants must be identified separately from boiler-cylinder products."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "Tell the engineer whether the problem affects space heating, stored hot water or one outlet. If a boiler displays an F-code, record its own model as well as the cylinder label. This guide does not copy a boiler-code list into a cylinder diagnosis."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a Vaillant boiler fault code prove my uniSTOR cylinder has failed?",
+      "answer": "No. The boiler, controls and cylinder must be assessed separately; a displayed boiler code can concern the connected heat source."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "vaillant"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__vaillant-unistor",
+  "targetIntent": "Vaillant uniSTOR cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Vaillant uniSTOR cylinders: identification and hot-water help",
+      "path": "/brands/vaillant-unistor"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__worcester-greenstore.json
+{
+  "path": "/brands/worcester-greenstore",
+  "type": "article",
+  "h1": "Worcester Greenstore cylinders: identification and hot-water help",
+  "title": "Worcester Greenstore cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Greenstore cylinder instructions are version-specific. Match the manufacturing period and cylinder model before following service guidance.",
+  "answer": "Greenstore cylinder instructions are version-specific. Match the manufacturing period and cylinder model before following service guidance.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "The official Greenstore SC literature page lists versions for different manufacturing periods. Greenstore is a storage-cylinder range and must not be confused with Greenstar boiler naming."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "No hot water can reflect a connected boiler or control issue, while discharge points toward cylinder-system investigation. Record both labels when a Worcester boiler and cylinder work together."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Greenstore the same appliance as a Worcester Greenstar boiler?",
+      "answer": "No. Greenstore names a cylinder range; Greenstar is boiler branding. Record both models where the appliances are connected."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "worcester"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__worcester-greenstore",
+  "targetIntent": "Worcester Greenstore cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Worcester Greenstore cylinders: identification and hot-water help",
+      "path": "/brands/worcester-greenstore"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__viessmann-vitocell.json
+{
+  "path": "/brands/viessmann-vitocell",
+  "type": "article",
+  "h1": "Viessmann Vitocell cylinders: identification and hot-water help",
+  "title": "Viessmann Vitocell cylinders Guide | G3 Cylinder Knowledge",
+  "description": "Vitocell includes domestic hot-water and heating-buffer products. Not every vessel in the range stores potable hot water.",
+  "answer": "Vitocell includes domestic hot-water and heating-buffer products. Not every vessel in the range stores potable hot water.",
+  "sections": [
+    {
+      "heading": "Identify the product family",
+      "paragraphs": [
+        "The official UK range distinguishes domestic hot-water cylinders, dual-mode cylinders and heating-water buffer cylinders. Select the correct model and instructions using ViBooks before assuming its function or service requirements."
+      ]
+    },
+    {
+      "heading": "Why the distinction matters",
+      "paragraphs": [
+        "A buffer vessel in a heating system is not a direct substitute for a domestic hot-water cylinder. Explain the symptom and photograph the label rather than asking for a generic Vitocell part or universal fault-code reset."
+      ]
+    },
+    {
+      "heading": "A useful service enquiry",
+      "paragraphs": [
+        "Provide the brand, exact model, serial label if readable, heating source and postcode. Note whether the issue is water temperature, flow, discharge or a connected controller. The business can discuss the enquiry and establish competence, scope and availability; this guide does not promise that every product or component can be repaired."
+      ]
+    },
+    {
+      "heading": "Independent information",
+      "paragraphs": [
+        "Manufacturer sources below identify the equipment. This website is an independent service business and is not claiming an official partnership with the manufacturer. Parts compatibility and current supply must be checked for the installed model."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does every Vitocell vessel store water for taps and showers?",
+      "answer": "No. Some Vitocell products store heating water; the exact model and system design establish whether it supplies domestic hot water."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands",
+      "label": "Compare equipment families"
+    },
+    {
+      "path": "/problems",
+      "label": "Identify the symptom"
+    },
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Find the right manual"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss the installed model"
+    }
+  ],
+  "sourceIds": [
+    "viessmann"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__viessmann-vitocell",
+  "targetIntent": "Viessmann Vitocell cylinders: identification and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Viessmann Vitocell cylinders: identification and hot-water help",
+      "path": "/brands/viessmann-vitocell"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-direct.json
+{
+  "path": "/products/megaflo-eco-direct",
+  "type": "article",
+  "h1": "Megaflo Eco Direct: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Direct Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Direct equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Direct cylinders heat stored domestic hot water using electric immersion arrangements; identify the supply and control configuration before diagnosis.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "If boost works but the normal timed supply does not, the cylinder vessel may still be serviceable. A competent person should distinguish timing, supply, element and thermostat paths rather than replace the entire appliance on that symptom alone."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What makes Megaflo Eco Direct different from an indirect cylinder?",
+      "answer": "A direct cylinder heats water electrically through immersion arrangements; an indirect cylinder mainly receives heat through a coil from another source."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-megaflo-eco-direct.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-direct",
+  "targetIntent": "Megaflo Eco Direct: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Direct: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-direct"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-indirect.json
+{
+  "path": "/products/megaflo-eco-indirect",
+  "type": "article",
+  "h1": "Megaflo Eco Indirect: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Indirect Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Indirect equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "An indirect cylinder is heated through a coil from a connected heat source, with an immersion arrangement where fitted.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Cold water flowing at hot taps can reflect a boiler, programmer, motorised valve or cylinder control fault. Working radiators alone do not prove the cylinder receives its required heating call."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can radiators work while a Megaflo Eco Indirect stays cold?",
+      "answer": "Yes. Space heating and cylinder heating can have different controls or valve paths; the hot-water demand must be assessed separately."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-manual",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-megaflo-eco-indirect.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-indirect",
+  "targetIntent": "Megaflo Eco Indirect: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Indirect: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-indirect"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-slimline.json
+{
+  "path": "/products/megaflo-eco-slimline",
+  "type": "article",
+  "h1": "Megaflo Eco Slimline: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Slimline Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Slimline equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Slimline cylinders address restricted width, but installation and service access still need assessment using the specific model instructions.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "A narrow cupboard is not a reason to conceal controls or obstruct discharge. Replacement planning should consider height, removal access, full weight and the installed heating method as well as diameter."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does a Slimline cylinder need less service access because it is narrow?",
+      "answer": "No. Its footprint may be smaller, but controls, connections and safety components still need the access specified for the installed model."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "heatrae-library",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-megaflo-slimline.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-slimline",
+  "targetIntent": "Megaflo Eco Slimline: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Slimline: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-slimline"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-systemfit.json
+{
+  "path": "/products/megaflo-eco-systemfit",
+  "type": "article",
+  "h1": "Megaflo Eco SystemFit: operation, symptoms and model guidance",
+  "title": "Megaflo Eco SystemFit Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco SystemFit equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "SystemFit uses a pre-plumbed and wired configuration intended for an appropriate heat-only boiler system.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The cylinder manual distinguishes the primary heating circuit from stored domestic water. A boiler-side expansion or pressure problem should not be treated as if it is automatically the cylinder internal expansion provision."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can SystemFit be treated as an ordinary cylinder without its primary controls?",
+      "answer": "No. Its pre-plumbed heating configuration and safety requirements must be understood alongside the connected boiler and model-specific installation instructions."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "systemfit",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-systemfit",
+  "targetIntent": "Megaflo Eco SystemFit: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco SystemFit: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-systemfit"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-systemready.json
+{
+  "path": "/products/megaflo-eco-systemready",
+  "type": "article",
+  "h1": "Megaflo Eco SystemReady: operation, symptoms and model guidance",
+  "title": "Megaflo Eco SystemReady Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco SystemReady equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "SystemReady is a pre-plumbed cylinder arrangement intended for an appropriate system-boiler installation.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "System boilers may already contain primary components. Assessment must distinguish those from the cylinder pressure and expansion controls. SystemFit and SystemReady names are not interchangeable instructions."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are SystemReady and SystemFit just different names for the same installation?",
+      "answer": "No. Their intended boiler arrangements differ; identify the product and follow its instructions when assessing controls, expansion and compatibility."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "systemready",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-systemready",
+  "targetIntent": "Megaflo Eco SystemReady: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco SystemReady: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-systemready"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-solar.json
+{
+  "path": "/products/megaflo-eco-solar",
+  "type": "article",
+  "h1": "Megaflo Eco Solar: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Solar Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Solar equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Solar-thermal cylinder arrangements transfer heat from collectors; they should not be confused with an electric solar-PV diversion system.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Solar circuits, cylinder coils and back-up heating have different diagnostic routes. Record whether the installed product is direct or indirect and whether the symptom occurs only when solar input is available."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Megaflo Eco Solar identical to Solar PV Ready?",
+      "answer": "No. Solar-thermal heat transfer and electrical PV heating are different arrangements; the installed product and controls determine the applicable instructions."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "solar",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-solar",
+  "targetIntent": "Megaflo Eco Solar: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Solar: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-solar"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-solar-pv-ready.json
+{
+  "path": "/products/megaflo-solar-pv-ready",
+  "type": "article",
+  "h1": "Megaflo Eco Solar PV Ready: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Solar PV Ready Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Solar PV Ready equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Solar PV Ready uses electrical energy for water heating, with configuration-specific immersion and control arrangements.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Solar contribution varies with generation and the fitted controls. Lack of surplus generation is different from an immersion or cylinder fault. The electricity meter, diverter and cylinder should not be assumed to share one diagnostic code."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does weak solar generation automatically mean the Solar PV Ready cylinder is faulty?",
+      "answer": "No. Available generation, diversion controls and back-up heating must be distinguished from cylinder or immersion faults before a diagnosis is made."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "solar-pv",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-solar-pv-ready",
+  "targetIntent": "Megaflo Eco Solar PV Ready: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Solar PV Ready: operation, symptoms and model guidance",
+      "path": "/products/megaflo-solar-pv-ready"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-plus.json
+{
+  "path": "/products/megaflo-eco-plus",
+  "type": "article",
+  "h1": "Megaflo Eco Plus: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Plus Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Plus equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Eco Plus includes larger-capacity configurations with their own service and expansion requirements; identify the exact size and model.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Demand, plant access, discharge capacity and control arrangements become important in larger installations. Do not apply a domestic Eco air-gap routine to an Eco Plus model without checking its actual manual."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a larger Eco Plus be serviced using a standard domestic Eco air-gap checklist?",
+      "answer": "Not automatically. Expansion arrangements and service requirements vary; the exact Eco Plus model and its manual govern the assessment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "ecoplus",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-plus",
+  "targetIntent": "Megaflo Eco Plus: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Plus: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-plus"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-eco-plus-flexistor.json
+{
+  "path": "/products/megaflo-eco-plus-flexistor",
+  "type": "article",
+  "h1": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+  "title": "Megaflo Eco Plus Flexistor Guide | Hot-Water & Fault Help",
+  "description": "Identify Megaflo Eco Plus Flexistor equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Flexistor is a named larger Megaflo range with model-specific siting, components and external expansion provision described in its manual.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The equipment size affects safe handling, space and plant access. Its intended heat input and configuration need to be established from the model and installed system before quoting a replacement or diagnosis."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Flexistor simply a standard domestic Megaflo Eco with a different label?",
+      "answer": "No. It is a distinct range with its own instructions and components; its model and installed configuration must be identified."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "flexistor",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-eco-plus-flexistor",
+  "targetIntent": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Megaflo Eco Plus Flexistor: operation, symptoms and model guidance",
+      "path": "/products/megaflo-eco-plus-flexistor"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__megaflo-he.json
+{
+  "path": "/products/megaflo-he",
+  "type": "article",
+  "h1": "Legacy Megaflo HE: operation, symptoms and model guidance",
+  "title": "Legacy Megaflo HE Guide | Hot-Water & Fault Help",
+  "description": "Identify Legacy Megaflo HE equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Megaflo HE is an older product family supported by archived manufacturer literature; age alone does not establish the correct replacement decision.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The old guarantee terms and components must not be replaced with current Eco claims. Check the installed label, condition, service history and present parts support when comparing repair with a new cylinder."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does an old Megaflo HE have the same warranty as a new Megaflo Eco?",
+      "answer": "No. Warranty terms depend on the actual product and installation; current marketing promises must not be applied to older equipment."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/megaflo",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "megaflo-he",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__megaflo-he",
+  "targetIntent": "Legacy Megaflo HE: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Legacy Megaflo HE: operation, symptoms and model guidance",
+      "path": "/products/megaflo-he"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__heatrae-sadia-amptec.json
+{
+  "path": "/products/heatrae-sadia-amptec",
+  "type": "article",
+  "h1": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+  "title": "Heatrae Sadia Amptec Guide | Hot-Water & Fault Help",
+  "description": "Identify Heatrae Sadia Amptec equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Amptec is an electric flow boiler for wet heating. Its indicators belong to that boiler, not to a Megaflo storage cylinder.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The manual distinguishes a flashing top red ALARM, steady top red ALARM, flashing bottom red CALL and steady bottom red CALL. Record the location, colour and whether the light flashes; those details change the meaning."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is an Amptec alarm a Megaflo cylinder fault code?",
+      "answer": "No. Amptec is an electric flow boiler. Its indicator pattern describes the boiler condition and must be assessed for that model."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "amptec-manual",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-heatrae-amptec.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-amptec",
+  "targetIntent": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Heatrae Sadia Amptec: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-amptec"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__heatrae-sadia-electromax.json
+{
+  "path": "/products/heatrae-sadia-electromax",
+  "type": "article",
+  "h1": "Heatrae Sadia Electromax: operation, symptoms and model guidance",
+  "title": "Heatrae Sadia Electromax Guide | Hot-Water & Fault Help",
+  "description": "Identify Heatrae Sadia Electromax equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "Electromax combines an electric flow boiler and domestic hot-water storage; heating and hot-water faults can follow different paths.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "The manufacturer diagrams distinguish the central-heating boiler, demand indication, off-peak immersion, boost immersion, water flow and relief discharge. Record which function fails rather than treating every loss of heat as one fault."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can Electromax space heating work while stored hot water stays cold?",
+      "answer": "Yes. The heating boiler and stored-water heating arrangements have distinct controls and fault paths; describe which function has stopped working."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "electromax-manual",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-heatrae-electromax.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-electromax",
+  "targetIntent": "Heatrae Sadia Electromax: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Heatrae Sadia Electromax: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-electromax"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__heatrae-sadia-premierplus.json
+{
+  "path": "/products/heatrae-sadia-premierplus",
+  "type": "article",
+  "h1": "Heatrae Sadia PremierPlus: operation, symptoms and model guidance",
+  "title": "Heatrae Sadia PremierPlus Guide | Hot-Water & Fault Help",
+  "description": "Identify Heatrae Sadia PremierPlus equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer London.",
+  "answer": "PremierPlus is an unvented-cylinder family with direct, indirect and other configuration-specific instructions.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Identify legacy Santon branding separately when locating literature. The expansion arrangement and approved controls should be matched to the cylinder, not copied from a Megaflo or assumed from brand ownership."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Should PremierPlus expansion be diagnosed using generic Megaflo internal-air-gap advice?",
+      "answer": "No. Follow the installed PremierPlus instructions and expansion arrangement; sharing a manufacturer does not make all cylinder designs identical."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "premierplus",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-premierplus",
+  "targetIntent": "Heatrae Sadia PremierPlus: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Heatrae Sadia PremierPlus: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-premierplus"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__heatrae-sadia-multipoint-ss.json
+{
+  "path": "/products/heatrae-sadia-multipoint-ss",
+  "type": "article",
+  "h1": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+  "title": "Legacy Heatrae Sadia Multipoint SS Guide | Hot-Water & Fault Help",
+  "description": "Identify Legacy Heatrae Sadia Multipoint SS equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified Engineer.",
+  "answer": "Multipoint SS is a legacy storage water-heater range with model-specific troubleshooting and successor information in the manufacturer archive.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Vertical and horizontal models have their own manuals. Water not heating, intermittent relief discharge and continuous relief discharge are different symptoms. Do not advertise an archived SS model as a newly available product without a current supply check."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is the archived Multipoint SS image proof the same model is still sold new?",
+      "answer": "No. The image identifies legacy equipment; current replacement options and parts availability must be checked against the manufacturer discontinued-product record."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "multipoint-ss",
+    "heatrae-library"
+  ],
+  "image": "/images/g3-heatrae-multipoint-ss.png",
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-multipoint-ss",
+  "targetIntent": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Legacy Heatrae Sadia Multipoint SS: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-multipoint-ss"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/products__heatrae-sadia-multipoint-instantaneous.json
+{
+  "path": "/products/heatrae-sadia-multipoint-instantaneous",
+  "type": "article",
+  "h1": "Heatrae Sadia Multipoint Instantaneous: operation, symptoms and model guidance",
+  "title": "Heatrae Sadia Multipoint Instantaneous Guide | Hot-Water & Fault Help",
+  "description": "Identify Heatrae Sadia Multipoint Instantaneous equipment, understand its heating arrangement and choose the right symptom guide. Model-specific help from G3 Qualified.",
+  "answer": "An instantaneous heater warms flowing water rather than storing a cylinderful of hot water; its fault guidance must be product-specific.",
+  "sections": [
+    {
+      "heading": "Understand what the product does",
+      "paragraphs": [
+        "Output temperature and flow can interact on this type of appliance, but wiring, protective devices and internal adjustments require competent work. Do not apply a storage-cylinder air-gap procedure or relief-discharge instruction to this heater."
+      ]
+    },
+    {
+      "heading": "Before applying internet advice",
+      "paragraphs": [
+        "Read the complete data label and keep the installation or commissioning record. Similar-looking appliances can have different controls and expansion arrangements. Product generation, heating source and any later system alterations affect the correct assessment."
+      ]
+    },
+    {
+      "heading": "Build a useful symptom history",
+      "paragraphs": [
+        "Note when the problem began, which outlets or heating functions are affected and whether it changes during a heating cycle. A safely taken label photograph and a description of visible lights can help establish the enquiry. Do not remove electrical covers or change protective valves to investigate."
+      ]
+    },
+    {
+      "heading": "From guidance to an assessment",
+      "paragraphs": [
+        "This guide helps identify the equipment and the appropriate next question. It does not establish a diagnosis, quote, parts guarantee or manufacturer affiliation. For an enquiry, call 020 7205 4433 with the model and postcode; the appropriate competence and service scope will be discussed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does Multipoint Instantaneous store hot water like a Megaflo?",
+      "answer": "No. It heats flowing water rather than storing a cylinderful; its use, electrical requirements and troubleshooting are different."
+    }
+  ],
+  "links": [
+    {
+      "path": "/brands/heatrae-sadia",
+      "label": "Related brand and model context"
+    },
+    {
+      "path": "/products",
+      "label": "Find a product family"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/fault-codes",
+      "label": "Understand indicators"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss this equipment"
+    }
+  ],
+  "sourceIds": [
+    "multipoint-instant",
+    "heatrae-library"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "products",
+  "fileKey": "products__heatrae-sadia-multipoint-instantaneous",
+  "targetIntent": "Heatrae Sadia Multipoint Instantaneous: operation, symptoms and model guidance",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Heatrae Sadia Multipoint Instantaneous: operation, symptoms and model guidance",
+      "path": "/products/heatrae-sadia-multipoint-instantaneous"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__mixergy.json
+{
+  "path": "/brands/mixergy",
+  "type": "article",
+  "h1": "Mixergy cylinders: connected control and hot-water help",
+  "title": "Mixergy Cylinder Guide | Connected Hot-Water Help",
+  "description": "Identify Mixergy equipment and separate connected control, cylinder heating and water-flow symptoms. Use official support for model-specific guidance.",
+  "answer": "Mixergy adds connected controls to hot-water equipment. Separate an app or network problem from loss of heating, flow or safety discharge.",
+  "sections": [
+    {
+      "heading": "Identify the controller as well as the cylinder",
+      "paragraphs": [
+        "The manufacturer has distinct support for homeowners and installers. Record the cylinder model, controller or gauge details and the message or light that is visible without removing a cover. Similar app symptoms can arise from different connection or account conditions."
+      ]
+    },
+    {
+      "heading": "A useful distinction before arranging work",
+      "paragraphs": [
+        "If normal local operation works but remote data does not update, describe those facts. If no hot water is produced, include that symptom separately. This helps direct the enquiry to connectivity support, heating diagnosis or competent cylinder assessment rather than an assumed replacement."
+      ]
+    },
+    {
+      "heading": "Independent guidance and scope",
+      "paragraphs": [
+        "Official support links below identify the source. G3 Qualified Engineer London does not claim Mixergy accreditation or universal controller repair. Discuss the actual equipment and required competence before agreeing an appointment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can a Mixergy app problem be treated as proof the cylinder vessel has failed?",
+      "answer": "No. Connectivity, account access and local heating behaviour need to be distinguished from the cylinder condition before a replacement is considered."
+    }
+  ],
+  "links": [
+    {
+      "path": "/problems/mixergy-offline",
+      "label": "Online and offline behaviour"
+    },
+    {
+      "path": "/fault-codes/mixergy-controller-led-status",
+      "label": "Controller status meanings"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss equipment scope"
+    }
+  ],
+  "sourceIds": [
+    "mixergy-support"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__mixergy",
+  "targetIntent": "Mixergy cylinders: connected control and hot-water help",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Mixergy cylinders: connected control and hot-water help",
+      "path": "/brands/mixergy"
+    }
+  ]
+}
+END FILE
+
+BEGIN FILE: src/content/pages/brands__kingspan.json
+{
+  "path": "/brands/kingspan",
+  "type": "article",
+  "h1": "Kingspan cylinders: labels, records and service enquiries",
+  "title": "Kingspan Cylinder Guide | Identification & Service Records",
+  "description": "Prepare a Kingspan cylinder enquiry using the full product label, system details and service record. Independent guidance with an official support reference.",
+  "answer": "The Kingspan cylinder service reference is a manufacturer support route. For an independent enquiry, identify the complete cylinder label and installed heating arrangement.",
+  "sections": [
+    {
+      "heading": "Start with the full equipment record",
+      "paragraphs": [
+        "A brand name alone does not identify the range, generation, heat source or component arrangement. Send a clear full-label photograph taken safely, together with available commissioning and maintenance paperwork. Do not substitute a current sales description for the instructions belonging to an older installation."
+      ]
+    },
+    {
+      "heading": "A service discussion needs an actual scope",
+      "paragraphs": [
+        "Distinguish a planned service from a no-hot-water fault, weak flow or safety discharge. Manufacturer service information is not a claim that this independent business holds an official partnership, or that any online badge proves competence for the equipment."
+      ]
+    },
+    {
+      "heading": "When further literature is required",
+      "paragraphs": [
+        "Before using a range-specific pressure setting, parts reference or code definition, obtain the instructions matching the installed model. If the record is missing, contact the manufacturer support route. Similar external appearance does not establish component compatibility."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is needed before using a range-specific Kingspan cylinder setting or parts number?",
+      "answer": "Obtain the full installed model and matching manufacturer instructions; a brand name or similar-looking current product is not enough."
+    }
+  ],
+  "links": [
+    {
+      "path": "/knowledge/manufacturer-manuals",
+      "label": "Model literature principles"
+    },
+    {
+      "path": "/problems",
+      "label": "Match the symptom"
+    },
+    {
+      "path": "/contact",
+      "label": "Discuss an independent assessment"
+    }
+  ],
+  "sourceIds": [
+    "kingspan-service"
+  ],
+  "image": null,
+  "indexable": true,
+  "datePublished": null,
+  "dateModified": null,
+  "lastTechnicalReview": null,
+  "reviewer": null,
+  "publisher": "G3 Qualified Engineer London",
+  "group": "brands",
+  "fileKey": "brands__kingspan",
+  "targetIntent": "Kingspan cylinders: labels, records and service enquiries",
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Brands",
+      "path": "/brands"
+    },
+    {
+      "label": "Kingspan cylinders: labels, records and service enquiries",
+      "path": "/brands/kingspan"
+    }
+  ]
+}
+END FILE
